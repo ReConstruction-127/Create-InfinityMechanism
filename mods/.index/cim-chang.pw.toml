@@ -1,0 +1,16 @@
+filename = 'aaaaa_0.jar'
+name = 'CIM Change'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9e50798bd3ee02ea4d125dab527bf70bf47df549'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6189571
+project-id = 1199727

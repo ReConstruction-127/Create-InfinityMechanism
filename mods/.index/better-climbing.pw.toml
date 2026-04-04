@@ -1,0 +1,16 @@
+filename = 'better_climbing-forge-3.jar'
+name = 'Better Climbing'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '74558f3499d9e5e1f4e29e0163781c594df52eb8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4589735
+project-id = 655619

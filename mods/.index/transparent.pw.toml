@@ -1,0 +1,16 @@
+filename = 'transparent-forge-8.0.1+1.20.1.jar'
+name = 'Transparent'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a8e2f2206459828f986a5e353424ed10f25081a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4652776
+project-id = 377582

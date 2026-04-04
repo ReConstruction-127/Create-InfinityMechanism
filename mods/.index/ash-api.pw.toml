@@ -1,0 +1,16 @@
+filename = 'ash_api-forge-3.0.2+1.20.1.jar'
+name = 'Ash API'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0a5feb163e20658b41413350ba4469987079529a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4653714
+project-id = 838498

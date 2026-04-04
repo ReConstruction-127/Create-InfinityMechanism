@@ -1,0 +1,16 @@
+filename = "XeKr's Decoration-1.20.1-Forge-0.8.2.jar"
+name = "XK's Decoration"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cae60a1bf7cf99a53b76f859fcde50d513da7bcf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5607417
+project-id = 497637
