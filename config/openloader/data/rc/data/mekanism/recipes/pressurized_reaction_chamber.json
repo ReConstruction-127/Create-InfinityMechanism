@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"mekanism:basic_fluid_tank"},"A":{"tag":"mekanism:alloys/infused"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"P":{"item":"mekanism:enrichment_chamber"},"S":{"tag":"forge:ingots/steel"},"T":{"item":"mekanism:basic_chemical_tank"}},"pattern":["SAS","CPC","T#T"],"result":{"item":"mekanism:pressurized_reaction_chamber"}}

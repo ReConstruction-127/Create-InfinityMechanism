@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "minecraft:gold_nugget"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:au_f",
+      "amount": 100
+    }
+  ],
+  "energy": 1000
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "thermal:machine_press"
+  },
+  "base": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "result": {
+    "item": "mekanism:osmium_compressor"
+  },
+  "template": {
+    "item": "ue_addonsp2:advanced_mekanism_blueprint"
+  }
+}

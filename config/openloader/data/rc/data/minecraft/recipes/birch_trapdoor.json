@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "pattern": [
+    "###",
+    "#M#"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:birch_trapdoor"
+  },
+  "show_notification": true
+}

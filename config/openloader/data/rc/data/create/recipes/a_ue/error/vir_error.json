@@ -1,0 +1,15 @@
+{
+	"type":"vintageimprovements:vibrating",
+	"ingredients": [ 
+		{
+			"item": "biomesoplenty:null_leaves"
+		}
+	],
+	"results": [
+		{
+			"item": "biomesoplenty:null_plant",
+			"count": 1
+		}
+	],
+	"processingTime": 300
+}

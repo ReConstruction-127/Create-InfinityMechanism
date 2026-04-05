@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:copper_rod"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "createaddition:capacitor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createaddition:connector"
+        },
+        {
+          "item": "minecraft:redstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:connector"
+        }
+      ]
+    },
+  {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "createaddition:connector"
+      },
+      {
+        "item": "createaddition:zinc_sheet"
+      }
+    ],
+    "results": [
+      {
+        "item": "createaddition:connector"
+      }
+    ]
+  }
+  ],
+  "transitionalItem": {
+    "item": "createaddition:connector"
+  }
+}

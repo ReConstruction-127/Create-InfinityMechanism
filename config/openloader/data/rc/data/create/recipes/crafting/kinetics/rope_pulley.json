@@ -1,0 +1,78 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "ue_addons:andesite_machine"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "item": "create:rope_pulley"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                },
+                {
+                    "tag": "minecraft:wool"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                },
+                {
+                    "item": "create:shaft"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                },
+                {
+                    "tag": "forge:plates/iron"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "ue_addons:andesite_machine"
+    }
+}

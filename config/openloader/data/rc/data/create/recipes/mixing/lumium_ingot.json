@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "thermal:silver_dust"
+    },
+    {
+      "amount": 1000,
+      "fluid": "ue_addons:sn_f"
+    },
+    {
+      "amount": 100,
+      "fluid": "thermal:glowstone"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "thermal:lumium_ingot"
+    }
+  ]
+}

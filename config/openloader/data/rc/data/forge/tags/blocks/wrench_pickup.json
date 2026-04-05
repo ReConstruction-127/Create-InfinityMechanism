@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ue_addons:andesite_machine",
+    "ue_addons:copper_machine",
+    "ue_addons:brass_machine",
+    "ue_addons:mekanism_machine",
+    "ue_addons:me_machine"
+  ]
+}

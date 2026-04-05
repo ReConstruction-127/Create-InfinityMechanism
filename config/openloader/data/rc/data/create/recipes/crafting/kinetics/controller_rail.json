@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "A": {
+            "tag": "forge:ingots/gold"
+        },
+        "E": {
+            "item": "create:electron_tube"
+        },
+        "S": {
+            "tag": "forge:rods/wooden"
+        },
+        "M": {
+            "item": "ue_addons:gold_mechanism"
+        }
+    },
+    "pattern": [
+        "A A",
+        "MSM",
+        "AEA"
+    ],
+    "result": {
+        "count": 12,
+        "item": "create:controller_rail"
+    },
+    "show_notification": true
+}

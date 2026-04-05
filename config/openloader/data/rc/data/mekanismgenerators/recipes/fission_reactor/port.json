@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"C":{"item":"ue_addons:elite_mekanism_mechanism"},"F":{"item":"mekanismgenerators:fission_reactor_casing"}},"pattern":[" F ","FCF"," F "],"result":{"count":2,"item":"mekanismgenerators:fission_reactor_port"}}

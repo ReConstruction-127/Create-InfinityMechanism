@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  "III", 
+  "IRI", 
+  "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:redstone_block"
+    },
+    "R": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "item": "ae2:meteorite_compass"
+  }
+}

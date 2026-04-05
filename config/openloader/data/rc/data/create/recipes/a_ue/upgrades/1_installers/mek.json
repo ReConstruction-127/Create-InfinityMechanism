@@ -1,0 +1,96 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addons:empty_programexe"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addonsp2:mek_os"
+      }
+    ],
+    "sequence": [
+      {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        },
+        {
+          "item": "mekanism:basic_control_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ]
+    },
+      {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        },
+        {
+          "item": "mekanism:cardboard_box"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        },
+        {
+          "tag": "minecraft:music_discs"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        },
+        {
+          "item": "mekanism:ingot_steel"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ]
+    },
+    {
+      "type":"vintageimprovements:laser_cutting",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinished_mek_os"
+        }
+      ],
+      "energy": 100,
+      "maxChargeRate": 100
+    }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinished_mek_os"
+    }
+  }

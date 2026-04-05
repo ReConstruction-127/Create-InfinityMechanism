@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"mekanism:alloys/basic"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"G":{"tag":"forge:glass/silica"},"X":{"item":"ue_addons:mekanism_machine"},"T":{"item":"thermal:machine_furnace"}},"pattern":["ATA","GXG","ACA"],"result":{"item":"mekanism:energized_smelter"}}

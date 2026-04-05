@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "pattern": [
+    "##",
+    "#M",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:rubberwood_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:rubberwood_door",
+    "count": 3
+  }
+}

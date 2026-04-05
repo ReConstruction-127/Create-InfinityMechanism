@@ -1,0 +1,18 @@
+{
+  "type": "thermal:sawmill",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "result": [
+    {
+      "item": "ue_addons:wooden_mechanism",
+      "count": 1,
+      "chance":0.5
+    },
+    {
+      "item": "thermal:sawdust",
+      "chance": 1.25
+    }
+  ],
+  "energy": 1000
+}

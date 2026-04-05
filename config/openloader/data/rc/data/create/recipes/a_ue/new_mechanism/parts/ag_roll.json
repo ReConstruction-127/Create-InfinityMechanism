@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:spool"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "createaddition:electrum_spool"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createaddition:electrum_nugget"
+        },
+        {
+          "item": "createaddition:electrum_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:electrum_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createaddition:electrum_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:electrum_nugget"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "createaddition:electrum_nugget"
+  }
+}

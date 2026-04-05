@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:basic_card"
+    },
+    {
+      "item": "ue_addonsp2:storage_driverexe"
+    },
+    {
+      "tag": "ae2:all_certus_quartz"
+    }
+  ],
+  "result": {
+    "item": "ae2:capacity_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"mekanism:electrolytic_core"},"A":{"item":"mekanism:basic_fluid_tank"},"B":{"item":"mekanism:basic_chemical_tank"},"I":{"tag":"mekanism:alloys/infused"},"R":{"tag":"forge:dusts/redstone"},"C":{"item":"ue_addons:mekanism_machine"}},"pattern":["I#I","ACB","IRI"],"result":{"item":"mekanism:electrolytic_separator"}}

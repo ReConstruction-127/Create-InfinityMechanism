@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "mekanism:pellet_antimatter"
+    }
+  },
+  "pattern": [
+    "#######",
+    "#######",
+    "#######",
+    "#######",
+    "#######",
+    "#######",
+    "#######"
+  ],
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}

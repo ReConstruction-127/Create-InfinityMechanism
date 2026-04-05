@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "ue_addons:copper_machine"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:item_drain"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "mekanism:advanced_tier_installer"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "mekanism:advanced_control_circuit",
+      "count":2
+    }
+  ]
+}

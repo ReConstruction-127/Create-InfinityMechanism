@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "vintageimprovements:osmium_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "mekanism:basic_control_circuit"
+    }
+  ],
+  "sequence": [
+    
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        },
+        {
+          "amount": 300,
+          "fluid": "thermal:redstone",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        },
+        {
+          "tag": "forge:dusts/emerald"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_basic_control_circuit"
+  }
+}

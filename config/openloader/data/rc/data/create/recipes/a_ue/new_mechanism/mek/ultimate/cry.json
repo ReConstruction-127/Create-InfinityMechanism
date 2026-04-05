@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "thermal:machine_crystallizer"
+  },
+  "base": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "result": {
+    "item": "mekanism:chemical_crystallizer"
+  },
+  "template": {
+    "item": "ue_addonsp2:ultimate_mekanism_blueprint"
+  }
+}

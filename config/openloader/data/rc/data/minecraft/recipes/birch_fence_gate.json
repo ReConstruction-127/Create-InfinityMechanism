@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:birch_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "#M#"
+  ],
+  "result": {
+    "item": "minecraft:birch_fence_gate"
+  },
+  "show_notification": true
+}

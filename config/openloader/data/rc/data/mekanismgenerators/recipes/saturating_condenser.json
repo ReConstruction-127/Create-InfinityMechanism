@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"B":{"item":"create:fluid_pipe"},"I":{"tag":"forge:ingots/tin"},"S":{"item":"ue_addons:structural_mechanism"}},"pattern":["SIS","IBI","SIS"],"result":{"item":"mekanismgenerators:saturating_condenser"}}

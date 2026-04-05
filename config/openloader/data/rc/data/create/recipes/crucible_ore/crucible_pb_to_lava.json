@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:raw_materials/lead"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:pb_f",
+      "amount": 500
+    }
+  ],
+  "energy": 2000
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:plates/iron"
+    },
+    "b": {
+      "item": "mekanismgenerators:heat_generator"
+    },
+    "c": {
+      "item": "ae2:energy_acceptor"
+    },
+    "d": {
+      "tag": "forge:plates/copper"
+    },
+    "e": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "pattern": [
+    "ded",
+    "aba",
+    "aca"
+  ],
+  "result": {
+    "item": "ae2:vibration_chamber"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "item": "ae2:fluix_block"
+    }
+  },
+  "pattern": [
+    "IGGGI",
+    "G   G",
+    "G B G",
+    "G   G",
+    "IGGGI"
+  ],
+  "result": {
+    "item": "ae2:condenser"
+  }
+}

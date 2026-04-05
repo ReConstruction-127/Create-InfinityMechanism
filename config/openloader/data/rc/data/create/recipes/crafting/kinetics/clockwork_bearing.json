@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "ue_addons:brass_machine"
+        },
+        {
+            "item": "create:turntable"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:clockwork_bearing"
+        }
+    ]
+}

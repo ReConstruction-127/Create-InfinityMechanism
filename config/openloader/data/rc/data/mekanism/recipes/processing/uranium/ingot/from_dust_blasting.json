@@ -1,0 +1,7 @@
+{"type":"minecraft:blasting",
+"conditions": [
+  {
+    "type": "forge:not",
+    "modid": "mekanism"
+  }
+],"cookingtime":100,"experience":0.3,"ingredient":{"tag":"mekanism:ingot_uranium"},"result":"mekanism:ingot_uranium"}

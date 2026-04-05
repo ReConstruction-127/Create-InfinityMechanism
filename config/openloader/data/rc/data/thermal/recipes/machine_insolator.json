@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "YCY",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "item": "ue_addons:lumium_mechanism"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:dirt"
+    },
+    "Y": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_insolator"
+  }
+}

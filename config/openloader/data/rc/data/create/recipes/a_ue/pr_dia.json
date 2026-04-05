@@ -1,0 +1,30 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "thermal:coal_coke"
+  },
+  "loops": 20,
+  "results": [
+    {
+      "item": "thermal:diamond_dust"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "mekanism:dust_coal"
+        }
+      ],
+      "results": [
+        {
+          "item": "mekanism:dust_coal"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "mekanism:dust_coal"
+  }
+}

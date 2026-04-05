@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"item":"thermal:machine_crystallizer"},"C":{"item":"ue_addons:ultimate_mekanism_mechanism"},"I":{"tag":"forge:ingots/refined_obsidian"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":["IAI","CXC","IAI"],"result":{"item":"mekanism:chemical_crystallizer"}}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:gas_driverexe"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    }
+  ],
+  "result": {
+    "item": "mekanism:upgrade_gas",
+    "count": 1
+  }
+}

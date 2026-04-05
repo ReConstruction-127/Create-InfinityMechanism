@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"C":{"tag":"forge:circuits/elite"},"I":{"tag":"forge:ingots/lead"},"S":{"item":"ue_addons:structural_mechanism"}},"pattern":["ICI","SIS","SIS"],"result":{"item":"mekanismgenerators:control_rod_assembly","count":2}}

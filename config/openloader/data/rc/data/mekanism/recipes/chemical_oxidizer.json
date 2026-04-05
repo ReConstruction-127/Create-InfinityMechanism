@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"mekanism:dynamic_tank"},"A":{"tag":"mekanism:alloys/infused"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"P":{"tag":"mekanism:personal_storage"},"T":{"item":"mekanism:basic_chemical_tank"}},"pattern":["ACA","P#T","ACA"],"result":{"item":"mekanism:chemical_oxidizer"}}

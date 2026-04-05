@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "createaddition:gold_rod"
+      },
+      {
+        "amount": 100,
+        "fluid": "thermal:redstone",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:rf_coil"
+      }
+    ]
+  }

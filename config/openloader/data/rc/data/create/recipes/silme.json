@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  "IS"
+  ],
+  "key": {
+    "I": {
+      "item": "farmersdelight:wheat_dough"
+    },
+    "S": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 1
+  }
+}

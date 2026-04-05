@@ -1,0 +1,30 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "T": {
+        "item": "thermal:machine_smelter"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "O": {
+        "item": "mekanism:ingot_osmium"
+      },
+      "M": {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "IIIO ",
+      "IMIO ",
+      "IMTO ",
+      "IMIO ",
+      "IICII"
+    ],
+    "result": {
+      "item": "mekanism:metallurgic_infuser"
+    }
+  }

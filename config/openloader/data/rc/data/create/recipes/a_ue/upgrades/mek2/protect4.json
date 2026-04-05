@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:protect_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "mekanism:hazmat_mask"
+        },
+        {
+            "item": "mekanism:scuba_mask"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_inhalation_purification_unit",
+        "count": 1
+    }
+}

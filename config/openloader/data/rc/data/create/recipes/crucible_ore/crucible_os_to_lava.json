@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:raw_materials/osmium"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:os_f",
+      "amount": 500
+    }
+  ],
+  "energy": 2000
+}

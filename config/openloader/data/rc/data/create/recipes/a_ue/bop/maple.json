@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:maple_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomesoplenty:stripped_maple_log",
+      "count":1
+    }
+  ]
+}

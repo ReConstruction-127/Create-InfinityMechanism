@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "ue_addons:raw_silicon"
+    },
+    {
+      "amount": 1000,
+      "fluid": "mekanism:chlorine"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "ue_addons:tetrachlorosilane"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:iron_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:andsite_mechanism",
+      "count":2
+    },
+    {
+      "chance": 8.0,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 5.0,
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "chance": 3.0,
+      "item": "create:shaft"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:cogwheel"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:chute"
+    },
+    {
+      "item": "create:minecart_coupling"
+    },
+    {
+      "item": "create:track"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        },
+        {
+          "item": "createdeco:andesite_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        },
+        {
+          "item": "create:cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_andsite_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_andsite_mechanism"
+  }
+}

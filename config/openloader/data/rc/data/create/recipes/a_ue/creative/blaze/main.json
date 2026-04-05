@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "1": {
+      "item": "create:blaze_burner"
+    },
+    "2": {
+      "item": "create:blaze_cake"
+    },
+    "3": {
+      "item": "createaddition:straw"
+    }
+  },
+  "pattern": [
+    "#####",
+    "#123#",
+    "#####"
+  ],
+  "result": {
+    "item": "create:creative_blaze_cake"
+  }
+}

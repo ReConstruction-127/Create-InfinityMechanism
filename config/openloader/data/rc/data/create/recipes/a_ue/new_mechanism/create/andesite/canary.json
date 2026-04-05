@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:cogwheel"
+  },
+  "base": {
+    "item": "create:mechanical_bearing"
+  },
+  "result": {
+    "item": "create:gantry_carriage"
+  },
+  "template": {
+    "item": "ue_addonsp2:craftsman_blueprint"
+  }
+}

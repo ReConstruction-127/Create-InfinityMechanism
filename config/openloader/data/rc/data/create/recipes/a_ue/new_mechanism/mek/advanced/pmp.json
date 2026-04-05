@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:mechanical_pump"
+  },
+  "base": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "result": {
+    "item": "mekanism:electric_pump"
+  },
+  "template": {
+    "item": "ue_addonsp2:advanced_mekanism_blueprint"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:storage_driverexe"
+    },
+    {
+      "item": "thermal:rf_coil"
+    },
+    {
+      "tag": "forge:plates/gold"
+    }
+  ],
+  "result": {
+    "item": "thermal:rf_coil_storage_augment",
+    "count": 1
+  }
+}

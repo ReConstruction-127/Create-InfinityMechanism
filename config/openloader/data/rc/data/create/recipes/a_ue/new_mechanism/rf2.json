@@ -1,0 +1,15 @@
+{
+    "type": "ae2:inscriber",
+    "ingredients": {
+      "bottom": {
+        "item": "createaddition:gold_rod"
+      },
+      "middle": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "mode": "press",
+    "result": {
+      "item": "thermal:rf_coil"
+    }
+  }

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "minecraft:cut_copper_stairs"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:cu_f",
+      "amount": 1000
+    }
+  ],
+  "energy": 1000
+}

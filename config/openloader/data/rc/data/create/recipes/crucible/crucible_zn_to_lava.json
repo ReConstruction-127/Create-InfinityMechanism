@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "create:zinc_ingot"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:zn_f",
+      "amount": 1000
+    }
+  ],
+  "energy": 1000
+}

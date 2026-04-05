@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:tool_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "minecraft:tnt"
+        },
+        {
+            "item": "mekanism:alloy_atomic"
+        },
+        {
+            "item": "mekanism:ultimate_control_circuit"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_blasting_unit",
+        "count": 1
+    }
+}

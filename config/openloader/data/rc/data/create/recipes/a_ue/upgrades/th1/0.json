@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+  	"A": {
+      "tag": "forge:nuggets/tin"
+    },
+    "B": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "ue_addons:machine_augment_base"
+  }
+}

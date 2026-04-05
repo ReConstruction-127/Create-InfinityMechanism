@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:machine_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:delete_driverexe"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "item": "thermal:machine_null_augment",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+  	"A": {
+      "tag": "forge:nuggets/lead"
+    },
+    "B": {
+      "item": "thermal:lapis_gear"
+    }
+  },
+  "result": {
+    "item": "ue_addons:filter_augment_base"
+  }
+}

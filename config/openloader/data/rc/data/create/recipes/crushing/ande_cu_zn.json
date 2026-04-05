@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.15,
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "chance": 0.15,
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "chance": 0.01,
+      "item": "create:brass_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

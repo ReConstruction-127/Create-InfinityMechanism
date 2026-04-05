@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:speed_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "mekanism:energy_tablet"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        },
+        {
+            "item": "minecraft:diamond_leggings"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_locomotive_boosting_unit",
+        "count": 1
+    }
+}

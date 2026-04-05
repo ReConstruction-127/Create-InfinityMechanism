@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_block"
+    },
+    "b": {
+      "item": "ue_addonsp2:standby_driverexe"
+    },
+    "c": {
+      "item": "ue_addonsp2:computer_components"
+    },
+    "d": {
+      "item": "ue_addonsp2:ultimate_mekanism_blueprint"
+    }
+  },
+  "result": {
+    "item": "mekanism:dimensional_stabilizer",
+    "count": 1
+  }
+}

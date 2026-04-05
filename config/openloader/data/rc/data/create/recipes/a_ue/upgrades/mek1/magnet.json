@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:magnet_driverexe"
+    },
+    {
+      "item": "ue_addons:forceexe"
+    }
+  ],
+  "result": {
+    "item": "ue_addons:error_upgrade_base",
+    "count": 1
+  }
+}

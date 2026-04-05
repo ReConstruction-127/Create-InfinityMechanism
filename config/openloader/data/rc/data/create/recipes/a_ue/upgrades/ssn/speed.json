@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:network_upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:speed_driverexe"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "storagenetwork:speed_upgrade",
+    "count": 1
+  }
+}

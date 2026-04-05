@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:standby_driverexe"
+    },
+    {
+      "tag": "forge:dusts/diamond"
+    }
+  ],
+  "result": {
+    "item": "mekanism:upgrade_anthor",
+    "count": 1
+  }
+}

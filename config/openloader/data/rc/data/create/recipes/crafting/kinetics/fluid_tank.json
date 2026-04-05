@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "crystal_clear:copper_glass_casing"
+        },
+        {
+            "tag": "forge:plates/copper"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:fluid_tank"
+        }
+    ]
+}

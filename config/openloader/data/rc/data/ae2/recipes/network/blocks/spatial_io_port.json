@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "tag": "ae2:glass_cable"
+    },
+    "c": {
+      "item": "ae2:io_port"
+    },
+    "d": {
+      "tag": "forge:plates/iron"
+    },
+    "e": {
+      "item": "ue_addons:engineering_mechanism"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "result": {
+    "item": "ae2:spatial_io_port"
+  },
+  "show_notification": true
+}

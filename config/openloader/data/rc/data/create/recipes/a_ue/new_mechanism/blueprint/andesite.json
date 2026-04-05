@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:large_cogwheel"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:craftsman_blueprint",
+    "count": 4
+  }
+}

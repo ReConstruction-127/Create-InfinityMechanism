@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:spool"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "createaddition:gold_spool"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_nugget"
+        },
+        {
+          "item": "createaddition:gold_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecraft:gold_nugget"
+  }
+}

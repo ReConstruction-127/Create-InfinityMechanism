@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "mekanism:qio_drive_array"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "mekanism:pellet_polonium",
+      "count":4
+    }
+  ]
+}

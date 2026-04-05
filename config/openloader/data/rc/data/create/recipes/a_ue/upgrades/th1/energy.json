@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:machine_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:energy_driverexe"
+    },
+    {
+      "tag": "forge:ingots/electrum"
+    }
+  ],
+  "result": {
+    "item": "thermal:dynamo_throttle_augment",
+    "count": 1
+  }
+}

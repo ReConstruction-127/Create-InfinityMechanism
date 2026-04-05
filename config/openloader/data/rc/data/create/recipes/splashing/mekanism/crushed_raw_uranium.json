@@ -1,0 +1,23 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "biomesoplenty:white_sand"
+      }
+    ],
+    "processingTime": 350,
+    "results": [
+      {
+        "chance": 0.05,
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "chance": 0.05,
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "chance": 0.125,
+        "item": "create:experience_nugget"
+      }
+    ]
+  }

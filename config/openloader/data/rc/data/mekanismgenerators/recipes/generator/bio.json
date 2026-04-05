@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"mekanism:alloys/infused"},"B":{"item":"thermal:dynamo_gourmand"},"C":{"item":"ue_addons:mekanism_machine"},"I":{"tag":"forge:ingots/iron"},"R":{"tag":"forge:dusts/redstone"}},"pattern":["RAR","BCB","IAI"],"result":{"item":"mekanismgenerators:bio_generator"}}

@@ -1,0 +1,95 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "A": {
+      "item": "ue_addons:wooden_mechanism"
+    },
+    "B": {
+      "item": "ue_addons:stone_mechanism"
+    },
+    "C": {
+      "item": "ue_addons:iron_mechanism"
+    },
+    "D": {
+      "item": "ue_addons:gold_mechanism"
+    },
+    "E": {
+      "item": "ue_addons:andsite_mechanism"
+    },
+    "F": {
+      "item": "ue_addonsp2:enchanted_mechanism"
+    },
+    "G": {
+      "item": "vintageimprovements:redstone_module"
+    },
+    "H": {
+      "item": "ue_addons:copper_mechanism"
+    },
+    "I": {
+      "item": "create:precision_mechanism"
+    },
+    "J": {
+      "item": "ue_addons:thermal_mechanism"
+    },
+    "K": {
+      "item": "ue_addons:lead_mechanism"
+    },
+    "L": {
+      "item": "ue_addons:signalum_mechanism"
+    },
+    "M": {
+      "item": "ue_addonsp2:cim_icon"
+    },
+    "N": {
+      "item": "ue_addons:lumium_mechanism"
+    },
+    "O": {
+      "item": "ue_addons:enderium_mechanism"
+    },
+    "P": {
+      "item": "ue_addons:basic_mekanism_mechanism"
+    },
+    "Q": {
+      "item": "ue_addons:advanced_mekanism_mechanism"
+    },
+    "R": {
+      "item": "ue_addons:elite_mekanism_mechanism"
+    },
+    "S": {
+      "item": "ue_addons:ultimate_mekanism_mechanism"
+    },
+    "T": {
+      "item": "ue_addons:structural_mechanism"
+    },
+    "U": {
+      "item": "ue_addons:logic_mechanism"
+    },
+    "V": {
+      "item": "ue_addons:calculation_mechanism"
+    },
+    "W": {
+      "item": "ue_addons:engineering_mechanism"
+    },
+    "X": {
+      "item": "ue_addons:nuclear_mechanism"
+    },
+    "Y": {
+      "item": "ue_addons:antimatter_mechanism"
+    },
+    "Z": {
+      "item": "ue_addons:null_pointer_exception"
+    }
+  },
+  "pattern": [
+    "ZZZZZZZ",
+    "ZABCDEZ",
+    "ZFGHIJZ",
+    "ZKLMNOZ",
+    "ZPQRSTZ",
+    "ZUVWXYZ",
+    "ZZZZZZZ"
+  ],
+  "result": {
+    "item": "ue_addons:infinity_mechanism"
+  }
+}

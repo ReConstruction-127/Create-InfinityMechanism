@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "ue_addons:basic_mekanism_mechanism"
+    },
+    {
+      "item": "ue_addons:basic_mekanism_mechanism"
+    },
+    {
+      "item": "mekanism:ingot_steel"
+    },
+    {
+      "item": "mekanism:basic_control_circuit"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:basic_mekanism_blueprint",
+    "count": 1
+  }
+}

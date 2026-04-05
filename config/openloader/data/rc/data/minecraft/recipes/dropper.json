@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "M": {
+      "item": "ue_addons:stone_mechanism"
+    }
+  },
+  "pattern": [
+    "#M#",
+    "# #",
+    "#R#"
+  ],
+  "result": {
+    "item": "minecraft:dropper"
+  },
+  "show_notification": true
+}

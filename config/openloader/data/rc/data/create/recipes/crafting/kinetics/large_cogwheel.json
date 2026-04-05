@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "create:shaft"
+        },
+        {
+            "item": "create:shaft"
+        },
+        {
+            "item": "ue_addons:wooden_mechanism"
+        }
+    ],
+    "result": {
+        "item": "create:large_cogwheel",
+        "count": 2
+    }
+}

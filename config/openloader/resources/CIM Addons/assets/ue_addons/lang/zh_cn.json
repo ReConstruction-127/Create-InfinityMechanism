@@ -1,0 +1,14 @@
+{
+  "item.ue_addons.au_f_bucket": "熔融金桶",
+  "fluid_type.ue_addons.au_f":"熔融金",
+  "fluid_type.ue_addons.pb_f":"熔融铅",
+  "fluid_type.ue_addons.iron_f":"熔融铁",
+  "fluid_type.ue_addons.uf":"熔融铀",
+  "fluid_type.ue_addons.zn_f":"熔融锌",
+  "fluid_type.ue_addons.cu_f":"熔融铜",
+  "fluid_type.ue_addons.sn_f":"熔融锡",
+  "fluid_type.ue_addons.ni_f":"熔融镍",
+  "fluid_type.ue_addons.os_f":"熔融锇",
+  "fluid_type.ue_addons.pure_sand":"纯净沙",
+  "fluid_type.ue_addons.tetrachlorosilane":"四氯化硅"
+}

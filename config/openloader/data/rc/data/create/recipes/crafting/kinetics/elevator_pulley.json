@@ -1,0 +1,78 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "ue_addons:brass_machine"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "item": "create:elevator_pulley"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:brass_machine"
+                },
+                {
+                    "item": "minecraft:dried_kelp_block"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:brass_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:brass_machine"
+                },
+                {
+                    "item": "create:shaft"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:brass_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:brass_machine"
+                },
+                {
+                    "tag": "forge:plates/iron"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:brass_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "ue_addons:brass_machine"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:brass_machine"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "ue_addons:brass_machine"
+    }
+}

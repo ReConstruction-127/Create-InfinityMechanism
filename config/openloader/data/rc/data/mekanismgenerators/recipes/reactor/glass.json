@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"G":{"tag":"forge:glass"},"I":{"tag":"forge:ingots/lead"},"S":{"item":"ue_addons:structural_mechanism"}},"pattern":["SIS","IGI","SIS"],"result":{"count":8,"item":"mekanismgenerators:reactor_glass"}}

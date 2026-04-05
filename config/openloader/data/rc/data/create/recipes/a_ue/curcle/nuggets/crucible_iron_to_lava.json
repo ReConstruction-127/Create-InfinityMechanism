@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:iron_f",
+      "amount": 100
+    }
+  ],
+  "energy": 1000
+}

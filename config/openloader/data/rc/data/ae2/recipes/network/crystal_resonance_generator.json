@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "B": {
+      "item": "ae2:fluix_block"
+    },
+    "T": {
+      "item": "ae2:charged_certus_quartz_crystal"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "C": {
+      "tag": "forge:plates/copper"
+    }
+  },
+  "pattern": [
+    " IBI ",
+    "CITIC",
+    "CITIC",
+    "CITIC",
+    "IIIII"
+  ],
+  "result": {
+    "item": "ae2:crystal_resonance_generator"
+  }
+}

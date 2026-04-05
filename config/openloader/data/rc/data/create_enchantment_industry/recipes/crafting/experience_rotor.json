@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Z ",
+    "ZEZ",
+    " Z "
+  ],
+  "key": {
+    "Z": {
+      "tag": "forge:ingots/zinc"
+    },
+    "E": {
+      "item": "ue_addonsp2:enchanted_mechanism"
+    }
+  },
+  "result": {
+    "item": "create_enchantment_industry:experience_rotor"
+  }
+}

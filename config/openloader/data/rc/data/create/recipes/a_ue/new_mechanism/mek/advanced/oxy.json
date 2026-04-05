@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "base": {
+    "item": "mekanism:basic_chemical_tank"
+  },
+  "result": {
+    "item": "mekanism:chemical_oxidizer"
+  },
+  "template": {
+    "item": "ue_addonsp2:advanced_mekanism_blueprint"
+  }
+}

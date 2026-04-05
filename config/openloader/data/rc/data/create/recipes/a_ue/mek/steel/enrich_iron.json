@@ -1,0 +1,26 @@
+{
+  "type": "thermal:smelter",
+  "ingredient": [
+  {
+    "item": "minecraft:raw_iron"
+  },
+  {
+    "item": "thermal:coal_coke"
+  },
+  {
+    "item": "create:limestone"
+  }
+],
+  "result": [
+    {
+      "item": "mekanism:enriched_iron",
+      "chance": 1.0
+    },
+    {
+      "item": "thermal:slag",
+      "chance": 0.5
+    }
+  ],
+  "experience": 0.5,
+  "energy": 32000
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:energy_driverexe"
+    },
+    {
+      "tag": "thermal:glass/hardened"
+    },
+    {
+      "item": "thermal:lumium_gear"
+    }
+  ],
+  "result": {
+    "item": "thermal:potion_amplifier_augment",
+    "count": 1
+  }
+}

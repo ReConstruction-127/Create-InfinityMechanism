@@ -1,0 +1,19 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "fluid": "ue_addons:os_f",
+      "amount": 1000
+    },
+    {
+      "item": "thermal:chiller_ingot_cast"
+    }
+  ],
+  "result": [
+    {
+      "item": "mekanism:ingot_osmium",
+      "count": 1
+    }
+  ],
+  "energy": 1000
+}

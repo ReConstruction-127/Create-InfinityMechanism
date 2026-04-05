@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "mekanism:steel_casing"
+    },
+    {
+      "item": "ue_addons:basic_mekanism_mechanism"
+    }
+  ],
+  "results": [
+    {
+      "item": "ue_addons:mekanism_machine"
+    }
+  ]
+}

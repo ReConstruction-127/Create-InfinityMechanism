@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"thermal:dynamo_magmatic"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"S":{"tag":"forge:ingots/steel"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":["SCS","#X#","SSS"],"result":{"item":"mekanism:fuelwood_heater"}}

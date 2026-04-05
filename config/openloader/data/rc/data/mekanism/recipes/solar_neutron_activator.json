@@ -1,0 +1,36 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "L": {
+        "item": "mekanism:laser"
+      },
+      "B": {
+        "tag": "forge:ingots/bronze"
+      },
+      "S": {
+        "item": "mekanismgenerators:solar_generator"
+      },
+      "P": {
+        "item": "mekanism:hdpe_sheet"
+      },
+      "A": {
+        "item": "mekanism:alloy_reinforced"
+      },
+      "M": {
+        "item": "ue_addons:elite_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "SLS",
+      " P ",
+      "APA",
+      "MCM",
+      "BBB"
+    ],
+    "result": {
+      "item": "mekanism:solar_neutron_activator"
+    }
+  }

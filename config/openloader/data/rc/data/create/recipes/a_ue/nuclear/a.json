@@ -1,0 +1,19 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "fluid": "mekanism:heavy_water",
+      "amount": 1000
+    },
+    {
+      "item": "mekanism:pellet_antimatter"
+    }
+  ],
+  "result": [
+    {
+      "item": "mekanism:pellet_antimatter",
+      "chance": 0.2
+    }
+  ],
+  "energy": 10000
+}

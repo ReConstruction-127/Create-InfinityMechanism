@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:piston"
+  },
+  "base": {
+    "item": "ue_addons:andesite_machine"
+  },
+  "result": {
+    "item": "create:mechanical_piston"
+  },
+  "template": {
+    "item": "ue_addonsp2:craftsman_blueprint"
+  }
+}

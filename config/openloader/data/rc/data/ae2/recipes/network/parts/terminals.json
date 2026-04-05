@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:me_machine"
+    },
+    {
+      "tag": "ae2:illuminated_panel"
+    },
+    {
+      "tag": "ae2:illuminated_panel"
+    },
+    {
+      "tag": "ae2:illuminated_panel"
+    },
+    {
+      "tag": "ae2:illuminated_panel"
+    }
+  ],
+  "result": {
+    "item": "ae2:terminal",
+    "count":4
+  }
+}

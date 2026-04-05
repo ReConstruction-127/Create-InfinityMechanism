@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "pattern": [
+    "###",
+    "M #",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:chest"
+  },
+  "show_notification": true
+}

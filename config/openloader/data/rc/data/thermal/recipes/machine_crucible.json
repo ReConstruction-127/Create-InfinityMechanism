@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "1 1",
+    "121"
+  ],
+  "key": {
+    "1": {
+      "item": "ue_addons:dark_bricks"
+    },
+    "2": {
+      "item": "ue_addons:stone_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_crucible",
+    "count": 1
+  }
+}

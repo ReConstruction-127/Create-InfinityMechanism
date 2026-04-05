@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "ue_addons:engineering_mechanism"
+    },
+    "b": {
+      "tag": "forge:plates/iron"
+    },
+    "c": {
+      "tag": "forge:dusts/redstone"
+    },
+    "d": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "pattern": [
+    "ab ",
+    "cdb",
+    "ab "
+  ],
+  "result": {
+    "count": 2,
+    "item": "ae2:advanced_card"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:propeller"
+  },
+  "base": {
+    "item": "ue_addons:andesite_machine"
+  },
+  "result": {
+    "item": "create:encased_fan"
+  },
+  "template": {
+    "item": "ue_addonsp2:craftsman_blueprint"
+  }
+}

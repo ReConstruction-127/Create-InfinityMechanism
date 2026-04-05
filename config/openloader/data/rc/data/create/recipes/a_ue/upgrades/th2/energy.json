@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:energy_driverexe"
+    },
+    {
+      "item": "thermal:rf_coil"
+    },
+    {
+      "item": "vintageimprovements:silver_rod"
+    }
+  ],
+  "result": {
+    "item": "thermal:rf_coil_xfer_augment",
+    "count": 1
+  }
+}

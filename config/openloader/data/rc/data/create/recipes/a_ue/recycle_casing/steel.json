@@ -1,0 +1,30 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ue_addons:disused_steel_casing"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 16,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 3,
+      "item": "vintageimprovements:osmium_sheet"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "mekanism:basic_control_circuit"
+    },
+    {
+      "chance": 0.3,
+      "count": 16,
+      "item": "mekanism:nugget_steel"
+    }
+  ]
+}

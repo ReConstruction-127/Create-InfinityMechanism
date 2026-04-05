@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"A",
+    "B",
+    "C"
+  ],
+  "key": {
+  	"A": {
+      "tag": "forge:nuggets/bronze"
+    },
+    "B": {
+      "tag": "forge:glass"
+    },
+    "C": {
+      "item": "mekanism:alloy_infused"
+    }
+  },
+  "result": {
+    "item": "ue_addons:upgrade_base"
+  }
+}

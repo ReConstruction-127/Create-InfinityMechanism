@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:cogwheel"
+  },
+  "base": {
+    "item": "create:fluid_pipe"
+  },
+  "result": {
+    "item": "create:mechanical_pump"
+  },
+  "template": {
+    "item": "ue_addonsp2:fluid_blueprint"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "modid": "mekanism"
+    }
+  ],
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "gold_ingot",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": "minecraft:gold_ingot"
+}

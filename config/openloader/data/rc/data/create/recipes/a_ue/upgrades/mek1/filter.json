@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:filter_driverexe"
+    },
+    {
+      "tag": "forge:dusts/tin"
+    }
+  ],
+  "result": {
+    "item": "mekanism:upgrade_filter",
+    "count": 1
+  }
+}

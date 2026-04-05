@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "biomesoplenty:null_block"
+  },
+  "result": [
+    {
+      "fluid": "biomesoplenty:liquid_null",
+      "amount": 500
+    }
+  ],
+  "energy": 1000
+}

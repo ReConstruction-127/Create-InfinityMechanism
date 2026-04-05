@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:plates/iron"
+    },
+    "b": {
+      "item": "ae2:fluix_crystal"
+    }
+  },
+  "pattern": [
+    "aba",
+    "a  ",
+    "aba"
+  ],
+  "result": {
+    "item": "ae2:charger"
+  },
+  "show_notification": true
+}

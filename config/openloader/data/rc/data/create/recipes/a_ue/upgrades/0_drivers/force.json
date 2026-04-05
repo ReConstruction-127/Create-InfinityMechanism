@@ -1,0 +1,84 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addons:empty_programexe"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addons:forceexe"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ]
+      },
+      {
+        "type":"vintageimprovements:laser_cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_forceexe"
+          }
+        ],
+        "energy": 100,
+        "maxChargeRate": 100
+      }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinish_forceexe"
+    }
+  }

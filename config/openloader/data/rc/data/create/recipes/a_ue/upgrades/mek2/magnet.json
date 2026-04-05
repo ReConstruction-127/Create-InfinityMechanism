@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:magnet_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        },
+        {
+            "item": "mekanism:elite_control_circuit"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_magnetic_attraction_unit",
+        "count": 1
+    }
+}

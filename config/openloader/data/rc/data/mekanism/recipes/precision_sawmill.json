@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"mekanism:alloys/infused"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"I":{"tag":"forge:ingots/iron"},"X":{"item":"ue_addons:mekanism_machine"},"T":{"item":"thermal:machine_sawmill"}},"pattern":["ITI","AXA","ICI"],"result":{"item":"mekanism:precision_sawmill"}}

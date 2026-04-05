@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:easy_to_use_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "mekanism:free_runners"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        },
+        {
+            "item": "mekanism:energy_tablet"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_hydraulic_propulsion_unit",
+        "count": 1
+    }
+}

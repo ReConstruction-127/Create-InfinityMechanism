@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"I":{"tag":"forge:ingots/lead"},"S":{"item":"ue_addons:structural_mechanism"},"T":{"item":"mekanism:basic_chemical_tank"}},"pattern":["ISI","ITI","ISI"],"result":{"item":"mekanismgenerators:fission_fuel_assembly","count":2}}

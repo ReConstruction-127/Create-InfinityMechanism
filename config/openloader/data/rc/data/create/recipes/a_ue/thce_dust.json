@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "tag": "forge:dusts/obsidian"
+  },
+  "result": [
+    {
+      "item": "thermal:blitz_powder",
+      "chance": 0.2
+    }
+  ],
+  "energy": 5000
+}

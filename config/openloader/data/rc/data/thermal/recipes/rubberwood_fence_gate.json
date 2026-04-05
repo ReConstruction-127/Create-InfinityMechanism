@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence_gate",
+  "pattern": [
+    "#W#",
+    "#M#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "thermal:rubberwood_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:rubberwood_fence_gate"
+  }
+}

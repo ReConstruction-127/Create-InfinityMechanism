@@ -1,0 +1,59 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "A": {
+      "item": "create:smart_fluid_pipe"
+    },
+    "B": {
+      "item": "mekanism:ultimate_mechanical_pipe"
+    },
+    "C": {
+      "item": "ae2:fluix_smart_dense_cable"
+    },
+    "1": {
+      "item": "minecraft:glass_bottle"
+    },
+    "2": {
+      "item": "minecraft:bucket"
+    },
+    "3": {
+      "item": "minecraft:cauldron"
+    },
+    "4": {
+      "item": "create:fluid_tank"
+    },
+    "5": {
+      "item": "createutilities:void_tank"
+    },
+    "6": {
+      "item": "thermal:fluid_reservoir"
+    },
+    "7": {
+      "item": "thermal:fluid_cell"
+    },
+    "8": {
+      "item": "mekanism:ultimate_fluid_tank"
+    },
+    "9": {
+      "item": "mekanism:dynamic_tank"
+    },
+    "0": {
+      "item": "ae2:sky_stone_tank"
+    },
+    "M": {
+      "item": "ae2:portable_fluid_cell_256k"
+    }
+  },
+  "pattern": [
+    "##ABC##",
+    "#12345#",
+    "#67890#",
+    "###M###"
+  ],
+  "result": {
+    "item": "create:creative_fluid_tank"
+  }
+}

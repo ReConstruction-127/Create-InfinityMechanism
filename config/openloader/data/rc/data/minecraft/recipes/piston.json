@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    },
+    "N": {
+      "item": "ue_addons:iron_mechanism"
+    }
+  },
+  "pattern": [
+    "TMT",
+    "#N#",
+    "#R#"
+  ],
+  "result": {
+    "item": "minecraft:piston"
+  },
+  "show_notification": true
+}

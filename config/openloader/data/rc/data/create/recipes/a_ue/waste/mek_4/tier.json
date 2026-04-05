@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "mekanism:ultimate_tier_installer"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "mekanism:ultimate_control_circuit",
+      "count":2
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"C":{"tag":"forge:ingots/copper"},"F":{"item":"thermal:dynamo_magmatic"},"I":{"tag":"forge:ingots/iron"},"O":{"item":"ue_addons:mekanism_machine"},"W":{"tag":"minecraft:planks"}},"pattern":["III","WOW","CFC"],"result":{"item":"mekanismgenerators:heat_generator"}}

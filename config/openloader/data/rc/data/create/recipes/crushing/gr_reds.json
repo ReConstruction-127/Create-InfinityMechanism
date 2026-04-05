@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.15,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/iron"
+        },
+        {
+          "tag": "forge:dusts/iron"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "value": [
+        {
+          "item": "ue_addons:stone_mechanism"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "ue_addons:iron_mechanism",
+      "count": 1
+    }
+  ],
+  "energy": 6400
+}

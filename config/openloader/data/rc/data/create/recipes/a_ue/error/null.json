@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "A": {
+      "item": "ue_addonsp2:error_basic_card"
+    },
+    "B": {
+      "item": "ue_addonsp2:error_advanced_card"
+    },
+    "C": {
+      "item": "ue_addons:error_upgrade_base"
+    },
+    "D": {
+      "item": "ue_addonsp2:error_module_base"
+    },
+    "G": {
+      "item": "ue_addonsp2:error_network_upgrade_base"
+    },
+    "H": {
+      "item": "ue_addonsp2:error_augment_base"
+    },
+    "I": {
+      "item": "ue_addonsp2:error_filter_augment_base"
+    },
+    "J": {
+      "item": "ue_addonsp2:error_machine_augment_base"
+    },
+    "Z": {
+      "item": "biomesoplenty:null_block"
+    }
+  },
+  "pattern": [
+    "ZZZZ",
+    "ABCD",
+    "GHIJ",
+    "ZZZZ"
+  ],
+  "result": {
+    "item": "biomesoplenty:anomaly"
+  }
+}

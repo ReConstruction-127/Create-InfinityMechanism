@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "pattern": [
+    "M ",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:rubberwood_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:rubberwood_pressure_plate"
+  }
+}

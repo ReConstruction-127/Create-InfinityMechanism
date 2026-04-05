@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "createutilities:graviton_tube"
+    },
+    "Y": {
+      "item": "createutilities:void_casing"
+    },
+    "Z": {
+      "item": "minecraft:barrel"
+    },
+    "M": {
+      "item": "ue_addons:enderium_mechanism"
+    }
+  },
+  "pattern": [
+    " X ",
+    "MZM",
+    " Y "
+  ],
+  "result": {
+    "item": "createutilities:void_tank"
+  }
+}

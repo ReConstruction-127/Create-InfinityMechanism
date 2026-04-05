@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "item": "ue_addons:advanced_mekanism_mechanism"
+    },
+    {
+      "item": "ue_addons:advanced_mekanism_mechanism"
+    },
+    {
+      "item": "mekanism:ingot_osmium"
+    },
+    {
+      "item": "mekanism:advanced_control_circuit"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:advanced_mekanism_blueprint",
+    "count": 1
+  }
+}

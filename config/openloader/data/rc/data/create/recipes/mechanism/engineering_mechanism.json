@@ -1,0 +1,96 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:ultimate_mekanism_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:engineering_mechanism"
+    },
+    {
+      "chance": 8.0,
+      "item": "ae2:printed_engineering_processor"
+    },
+    {
+      "chance": 8.0,
+      "item": "ae2:matter_ball"
+    },
+    {
+      "chance": 5.0,
+      "item": "ae2:silicon"
+    },
+    {
+      "chance": 3.0,
+      "item": "ae2:sky_dust"
+    },
+    {
+      "chance": 2.0,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 2.0,
+      "item": "ae2:engineering_processor"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "ae2:silicon"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        },
+        {
+          "item": "ae2:engineering_processor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        },
+        {
+          "item": "ue_addons:lumen_core"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        },
+        {
+          "item": "ae2:sky_dust"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_engineering_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_engineering_mechanism"
+  }
+}

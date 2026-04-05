@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ad"
+  ],
+  "key": {
+    "a": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "b": {
+      "item": "ue_addonsp2:advanced_mekanism_blueprint"
+    },
+    "d": {
+      "item": "ue_addons:mekanism_machine"
+    }
+  },
+  "result": {
+    "item": "mekanism:chemical_infuser",
+    "count": 1
+  }
+}

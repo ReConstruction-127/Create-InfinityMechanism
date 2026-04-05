@@ -1,0 +1,7 @@
+{"type":"minecraft:smelting",
+"conditions": [
+  {
+    "type": "forge:not",
+    "modid": "mekanism"
+  }
+],"cookingtime":200,"experience":0.6,"ingredient":{"tag":"mekanism:ingot_uranium"},"result":"mekanism:ingot_uranium"}

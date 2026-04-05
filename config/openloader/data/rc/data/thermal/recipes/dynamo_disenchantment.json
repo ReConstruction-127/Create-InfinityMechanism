@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "IGI",
+    "YXY"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "G": {
+      "item": "ue_addonsp2:enchanted_mechanism"
+    },
+    "X": {
+      "tag": "forge:dusts/redstone"
+    },
+    "Y": {
+      "item": "create:experience_nugget"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_disenchantment"
+  }
+}

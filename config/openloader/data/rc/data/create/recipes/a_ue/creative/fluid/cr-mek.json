@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create:creative_fluid_tank"
+    }
+  ],
+  "result": {
+    "item": "mekanism:creative_fluid_tank",
+    "count": 1
+  }
+}

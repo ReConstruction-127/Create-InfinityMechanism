@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"tag":"forge:pellets/plutonium"},"A":{"tag":"forge:pellets/polonium"},"P":{"item":"ue_addons:structural_mechanism"}},"pattern":["PAP","A#A","PAP"],"result":{"count":4,"item":"mekanism:sps_casing"}}

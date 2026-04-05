@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "ae2:terminal"
+    },
+    "M": {
+      "item": "ue_addons:logic_mechanism"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "tag": "ae2:glass_cable"
+    },
+    "S": {
+      "item": "ae2:drive"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "RSR",
+    "IMI"
+  ],
+  "result": {
+    "item": "ae2:chest"
+  },
+  "show_notification": true
+}

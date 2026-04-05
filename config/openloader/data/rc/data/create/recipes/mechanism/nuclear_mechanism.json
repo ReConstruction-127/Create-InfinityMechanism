@@ -1,0 +1,96 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:engineering_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:nuclear_mechanism"
+    },
+    {
+      "chance": 8.0,
+      "item": "mekanism:pellet_plutonium"
+    },
+    {
+      "chance": 8.0,
+      "item": "mekanism:pellet_polonium"
+    },
+    {
+      "chance": 5.0,
+      "item": "mekanism:sps_casing"
+    },
+    {
+      "chance": 3.0,
+      "item": "mekanism:crystal_uranium"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:reprocessed_fissile_fragment"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:yellow_cake_uranium"
+    },
+    {
+      "item": "mekanism:qio_drive_array"
+    },
+    {
+      "item": "minecraft:bedrock"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        },
+        {
+          "item": "mekanism:sps_casing"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        },
+        {
+          "item": "mekanism:pellet_plutonium"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        },
+        {
+          "item": "mekanism:pellet_polonium"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_nuclear_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_nuclear_mechanism"
+  }
+}

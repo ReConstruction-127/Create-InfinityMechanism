@@ -1,0 +1,65 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "tag": "forge:glass_panes"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "mekanismgenerators:solar_panel"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          },
+          {
+            "item": "vintageimprovements:osmium_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          },
+          {
+            "item": "mekanism:basic_control_circuit"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          },
+          {
+            "item": "mekanism:alloy_infused"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:blue_stained_glass_pane"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "minecraft:blue_stained_glass_pane"
+    }
+  }

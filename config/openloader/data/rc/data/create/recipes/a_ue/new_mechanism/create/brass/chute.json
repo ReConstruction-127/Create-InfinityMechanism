@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:precision_mechanism"
+  },
+  "base": {
+    "item": "create:chute"
+  },
+  "result": {
+    "item": "create:smart_chute"
+  },
+  "template": {
+    "item": "ue_addonsp2:precision_blueprint"
+  }
+}

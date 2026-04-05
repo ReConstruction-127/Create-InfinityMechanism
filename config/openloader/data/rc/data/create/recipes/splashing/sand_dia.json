@@ -1,0 +1,36 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.01,
+      "item": "minecraft:diamond"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:coal"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:lapis_lazuli"
+    },    {
+      "chance": 0.02,
+      "item": "minecraft:emerald"
+    },    {
+      "chance": 0.005,
+      "item": "minecraft:ancient_debris"
+    },    {
+      "chance": 0.8,
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

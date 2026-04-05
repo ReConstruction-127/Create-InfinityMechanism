@@ -1,0 +1,94 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "ue_addons:copper_machine"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "item": "create:hose_pulley"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:copper_machine"
+                },
+                {
+                    "item": "minecraft:dried_kelp_block"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:copper_machine"
+                },
+                {
+                    "item": "create:shaft"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:copper_machine"
+                },
+                {
+                    "item": "create:fluid_pipe"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:copper_machine"
+                },
+                {
+                    "tag": "forge:plates/copper"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:copper_machine"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "ue_addons:copper_machine"
+    }
+}

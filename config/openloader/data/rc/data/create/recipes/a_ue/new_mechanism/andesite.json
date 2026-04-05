@@ -1,0 +1,34 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "item": "minecraft:andesite"
+        },
+        {
+          "item": "minecraft:andesite"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:nuggets/iron"
+        },
+        {
+          "tag": "forge:nuggets/iron"
+        }
+      ],
+      "count": 4
+    }
+  ],
+  "result": [
+    {
+      "item": "create:andesite_alloy",
+      "count": 1
+    }
+  ],
+  "energy": 6400
+}

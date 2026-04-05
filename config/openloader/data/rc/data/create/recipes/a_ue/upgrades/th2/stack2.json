@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:stack_driverexe"
+    },
+    {
+      "tag": "thermal:glass/hardened"
+    }
+  ],
+  "result": {
+    "item": "thermal:dynamo_fuel_augment",
+    "count": 1
+  }
+}

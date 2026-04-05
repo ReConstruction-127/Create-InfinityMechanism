@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bamboo_button"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "tag": "forge:storage_blocks/osmium"
+      },
+      {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    ],
+    "results": [
+      {
+        "item": "mekanism:steel_casing"
+      }
+    ]
+  }

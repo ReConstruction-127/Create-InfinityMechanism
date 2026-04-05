@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "thermal:silver_dust"
+    },
+    {
+      "amount": 1000,
+      "fluid": "ue_addons:cu_f"
+    },
+    {
+      "amount": 200,
+      "fluid": "thermal:redstone"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "thermal:signalum_ingot"
+    }
+  ]
+}

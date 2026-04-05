@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:network_upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:logic_driverexe"
+    },
+    {
+      "item": "minecraft:comparator"
+    }
+  ],
+  "result": {
+    "item": "storagenetwork:operation_upgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:rose_quartz"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "item": "create:polished_rose_quartz"
+    }
+  ]
+}

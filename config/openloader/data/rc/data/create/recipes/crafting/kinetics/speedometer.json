@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "ue_addons:andesite_machine"
+        },
+        {
+            "item": "minecraft:compass"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:speedometer"
+        }
+    ]
+}

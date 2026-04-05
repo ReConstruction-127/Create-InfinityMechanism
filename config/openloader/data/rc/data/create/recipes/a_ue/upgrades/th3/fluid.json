@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:filter_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:fluid_driverexe"
+    },
+    {
+      "tag": "forge:plates/copper"
+    }
+  ],
+  "result": {
+    "item": "thermal:fluid_filter_augment",
+    "count": 1
+  }
+}

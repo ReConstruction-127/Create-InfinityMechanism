@@ -1,0 +1,1 @@
+{"type":"mekanism:metallurgic_infusing","chemicalInput":{"amount":20,"tag":"mekanism:redstone"},"itemInput":{"ingredient":{"item":"createaddition:gold_rod"}},"output":{"item":"thermal:rf_coil"}}

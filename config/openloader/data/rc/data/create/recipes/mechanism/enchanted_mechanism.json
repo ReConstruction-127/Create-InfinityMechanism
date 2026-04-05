@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:iron_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addonsp2:enchanted_mechanism"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 5.0,
+      "item": "create:zinc_nugget"
+    },
+    {
+      "chance": 3.0,
+      "item": "thermal:lapis_dust"
+    },
+    {
+      "chance": 2.0,
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "chance": 2.0,
+      "item": "thermal:lapis_gear"
+    },
+    {
+      "item": "mekanismtools:lapis_lazuli_shovel"
+    },
+    {
+      "item": "ue_addons:ue_spawn_egg"
+    }
+  ],
+  "sequence": [
+  {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+      },
+      {
+        "item": "minecraft:lapis_lazuli"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+      }
+    ]
+  },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+        },
+        {
+          "amount": 200,
+          "fluid": "create_enchantment_industry:experience",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+        },
+        {
+          "item": "create:zinc_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addonsp2:incomplete_enchanted_mechanism"
+  }
+}

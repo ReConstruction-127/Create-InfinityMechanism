@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:terminal"
+    },
+    {
+      "item": "ue_addons:engineering_mechanism"
+    },
+    {
+      "tag": "ae2:pattern_provider"
+    }
+  ],
+  "result": {
+    "item": "ae2:pattern_access_terminal"
+  }
+}

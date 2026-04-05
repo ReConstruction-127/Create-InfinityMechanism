@@ -1,0 +1,79 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:cobblestone_slab"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "createaddition:redstone_relay",
+      "count": 1
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        },
+        {
+          "item": "createaddition:connector"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        },
+        {
+          "item": "createaddition:connector"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:cobblestone_slab"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecraft:cobblestone_slab"
+  }
+}

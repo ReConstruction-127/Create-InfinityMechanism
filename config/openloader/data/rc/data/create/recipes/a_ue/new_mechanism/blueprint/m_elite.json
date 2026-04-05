@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "mekanism:alloy_reinforced"
+    },
+    {
+      "item": "mekanism:alloy_reinforced"
+    },
+    {
+      "item": "ue_addons:elite_mekanism_mechanism"
+    },
+    {
+      "item": "ue_addons:elite_mekanism_mechanism"
+    },
+    {
+      "item": "mekanism:ingot_refined_glowstone"
+    },
+    {
+      "item": "mekanism:elite_control_circuit"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:elite_mekanism_blueprint",
+    "count": 1
+  }
+}

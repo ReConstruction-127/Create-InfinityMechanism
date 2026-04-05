@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:machine_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:storage_driverexe"
+    },
+    {
+      "item": "thermal:xp_crystal"
+    }
+  ],
+  "result": {
+    "item": "thermal:xp_storage_augment",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "#M#"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:rubberwood_planks"
+    },
+    "M": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:rubberwood_trapdoor",
+    "count": 2
+  }
+}

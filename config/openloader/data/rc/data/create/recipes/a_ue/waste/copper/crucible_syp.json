@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "minecraft:spyglass"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:cu_f",
+      "amount": 1500
+    }
+  ],
+  "energy": 1000
+}

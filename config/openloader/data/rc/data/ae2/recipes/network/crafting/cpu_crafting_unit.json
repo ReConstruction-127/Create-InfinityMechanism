@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:plates/iron"
+    },
+    "b": {
+      "item": "ue_addons:calculation_mechanism"
+    },
+    "c": {
+      "tag": "ae2:glass_cable"
+    },
+    "d": {
+      "item": "ue_addons:logic_mechanism"
+    }
+  },
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "result": {
+    "item": "ae2:crafting_unit"
+  },
+  "show_notification": true
+}

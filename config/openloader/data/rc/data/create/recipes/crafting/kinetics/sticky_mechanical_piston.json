@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "create:mechanical_piston"
+        },
+        {
+            "tag": "forge:slimeballs"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:sticky_mechanical_piston"
+        }
+    ]
+}

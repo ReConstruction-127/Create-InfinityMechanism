@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "ue_addons:pure_sand"
+    }
+  ]
+}

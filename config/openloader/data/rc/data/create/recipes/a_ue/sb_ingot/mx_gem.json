@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "createutilities:polished_amethyst"
+    },
+    {
+      "item": "thermal:rosin"
+    },
+    {
+      "item": "thermal:ruby"
+    },
+    {
+      "item": "thermal:sapphire"
+    },
+    {
+      "item": "create:polished_rose_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "ue_addonsp2:crystal_mixtures",
+      "count": 8
+    }
+  ]
+}

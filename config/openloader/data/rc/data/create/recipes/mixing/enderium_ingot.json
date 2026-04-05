@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "thermal:diamond_dust"
+    },
+    {
+      "amount": 1000,
+      "fluid": "ue_addons:pb_f"
+    },
+    {
+      "amount": 250,
+      "fluid": "thermal:ender"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "thermal:enderium_ingot"
+    }
+  ]
+}

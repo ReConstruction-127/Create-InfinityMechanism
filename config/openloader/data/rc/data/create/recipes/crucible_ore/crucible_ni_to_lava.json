@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:raw_materials/nickel"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:ni_f",
+      "amount": 500
+    }
+  ],
+  "energy": 2000
+}

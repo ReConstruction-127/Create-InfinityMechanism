@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  " I ", 
+  "IRI", 
+  " I "
+  ],
+  "key": {
+    "I": {
+      "item": "ue_addons:stone_mechanism"
+    },
+    "R": {
+      "item": "ue_addons:dark_brick"
+    }
+  },
+  "result": {
+    "item": "thermal:chiller_ingot_cast"
+  }
+}

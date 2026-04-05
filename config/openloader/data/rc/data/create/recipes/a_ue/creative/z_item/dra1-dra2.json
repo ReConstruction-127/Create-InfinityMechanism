@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "storagedrawers:creative_vending_upgrade"
+    }
+  ],
+  "result": {
+    "item": "storagedrawers:creative_storage_upgrade",
+    "count": 1
+  }
+}

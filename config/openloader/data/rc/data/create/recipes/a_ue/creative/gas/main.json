@@ -1,0 +1,45 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "1": {
+      "item": "mekanism:rotary_condensentrator"
+    },
+    "2": {
+      "item": "mekanism:chemical_oxidizer"
+    },
+    "3": {
+      "item": "mekanism:electrolytic_separator"
+    },
+    "4": {
+      "item": "mekanism:chemical_dissolution_chamber"
+    },
+    "5": {
+      "item": "mekanism:pressurized_reaction_chamber"
+    },
+    "6": {
+      "item": "mekanism:pigment_extractor"
+    },
+    "7": {
+      "item": "mekanism:ultimate_chemical_tank"
+    },
+    "8": {
+      "item": "mekanism:ultimate_pressurized_tube"
+    },
+    "9": {
+      "item": "mekanism:dynamic_tank"
+    }
+  },
+  "pattern": [
+    "#####",
+    "#123#",
+    "#456#",
+    "#789#",
+    "#####"
+  ],
+  "result": {
+    "item": "mekanism:creative_chemical_tank"
+  }
+}

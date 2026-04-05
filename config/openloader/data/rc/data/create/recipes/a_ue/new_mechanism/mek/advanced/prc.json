@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "mekanism:enrichment_chamber"
+    },
+    "b": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "c": {
+      "item": "mekanism:basic_fluid_tank"
+    },
+    "d": {
+      "item": "ue_addonsp2:advanced_mekanism_blueprint"
+    }
+  },
+  "result": {
+    "item": "mekanism:pressurized_reaction_chamber",
+    "count": 1
+  }
+}

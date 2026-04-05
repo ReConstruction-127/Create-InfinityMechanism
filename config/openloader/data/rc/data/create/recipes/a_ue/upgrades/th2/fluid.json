@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:fluid_driverexe"
+    },
+    {
+      "item": "thermal:fluid_cell"
+    }
+  ],
+  "result": {
+    "item": "thermal:fluid_tank_augment",
+    "count": 1
+  }
+}

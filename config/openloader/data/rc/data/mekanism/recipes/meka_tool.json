@@ -1,0 +1,39 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "W": {
+      "item": "mekanism:pellet_polonium"
+    },
+    "P": {
+      "item": "mekanism:hdpe_sheet"
+    },
+    "X": {
+      "item": "mekanism:basic_induction_cell"
+    },
+    "M": {
+      "item": "ue_addons:ultimate_mekanism_mechanism"
+    },
+    "#": {
+      "item": "ue_addonsp2:computer_components"
+    },
+    "D": {
+      "item": "ue_addonsp2:tool_driverexe"
+    },
+    "A": {
+      "item": "mekanism:configurator"
+    },
+    "B": {
+      "item": "mekanism:atomic_disassembler"
+    }
+  },
+  "pattern": [
+    "PAP# ",
+    "PBPD ",
+    "PMP  ",
+    "PWP  ",
+    "PXP  "
+  ],
+  "result": {
+    "item": "mekanism:meka_tool"
+  }
+}

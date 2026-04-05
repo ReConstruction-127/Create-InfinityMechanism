@@ -9486,6 +9486,14 @@
 			x: 26.37142857142858d
 			y: 10.521428571428551d
 		}
+		{
+			height: 20.0d
+			image: "minecraft:block/red_stained_glass"
+			rotation: 0.0d
+			width: 150.0d
+			x: 44.5d
+			y: -1.5d
+		}
 	]
 	order_index: 1
 	quest_links: [ ]
@@ -9496,8 +9504,8 @@
 			title: " "
 			type: "checkmark"
 		}]
-		x: -6.0d
-		y: -4.0d
+		x: -10.5d
+		y: 10.5d
 	}]
 	title: "{group.cim.s_recipes.title}"
 }

@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lapis"
+    },
+    {
+      "tag": "forge:dusts/fluix"
+    },
+    {
+      "item": "ae2:sky_dust"
+    },
+    {
+      "tag": "forge:dusts/ender_pearl"
+    },
+    {
+      "tag": "forge:dusts/apatite"
+    },
+    {
+      "tag": "forge:dusts/cinnabar"
+    },
+    {
+      "tag": "forge:dusts/niter"
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    }
+  ],
+  "results": [
+    {
+      "item": "ue_addonsp2:powder_mixture",
+      "count": 8
+    }
+  ]
+}

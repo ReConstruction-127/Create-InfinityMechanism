@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "ae2:black_lumen_paint_ball",
+      "count":1
+    },
+    {
+      "item": "ae2:white_lumen_paint_ball",
+      "count":1
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:gray_lumen_paint_ball",
+      "count":2
+    }
+  ]
+}

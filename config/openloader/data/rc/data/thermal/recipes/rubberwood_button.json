@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  ],
+  "result": {
+    "item": "thermal:rubberwood_button"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.05,
+      "item": "thermal:quartz_dust"
+    },
+    {
+      "chance": 0.05,
+      "item": "ae2:certus_quartz_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "ae2:fluix_dust"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

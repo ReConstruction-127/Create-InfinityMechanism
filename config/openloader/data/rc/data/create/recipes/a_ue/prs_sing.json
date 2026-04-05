@@ -1,0 +1,16 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond",
+      "count":16
+    }
+  ],
+  "result": [
+    {
+      "item": "ae2:matter_ball",
+      "count": 1
+    }
+  ],
+  "energy": 10000
+}

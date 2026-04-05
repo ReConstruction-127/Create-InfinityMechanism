@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "modid": "mekanism"
+    }
+  ],
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "thermal:nickel_ingot"
+  },
+  "result": "thermal:nickel_ingot"
+}

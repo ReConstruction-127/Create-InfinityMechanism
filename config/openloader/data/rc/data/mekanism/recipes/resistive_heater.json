@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "R": {
+        "item": "ue_addons:resistor"
+      },
+      "T": {
+        "tag": "forge:ingots/tin"
+      },
+      "B": {
+        "item": "mekanism:energy_tablet"
+      },
+      "M": {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "TTT",
+      "RCR",
+      "BMB"
+    ],
+    "result": {
+      "item": "mekanism:resistive_heater"
+    }
+  }

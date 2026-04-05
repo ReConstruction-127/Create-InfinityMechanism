@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 500,
+      "fluid": "ue_addons:cu_f"
+    },
+    {
+      "amount": 500,
+      "fluid": "ue_addons:ni_f"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "thermal:constantan_ingot"
+    }
+  ]
+}

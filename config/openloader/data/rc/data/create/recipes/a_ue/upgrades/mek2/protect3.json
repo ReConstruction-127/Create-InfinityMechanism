@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:protect_driverexe"
+        },
+        {
+            "item": "mekanism:hdpe_sheet"
+        },
+        {
+            "item": "mekanism:electrolytic_core"
+        },
+        {
+            "item": "mekanism:alloy_infused"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_electrolytic_breathing_unit",
+        "count": 1
+    }
+}

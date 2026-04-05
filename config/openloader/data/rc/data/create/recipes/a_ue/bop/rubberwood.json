@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "thermal:stripped_rubberwood_log",
+      "count":1
+    }
+  ]
+}

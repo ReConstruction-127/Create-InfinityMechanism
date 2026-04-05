@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:incomplete_andsite_mechanism"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "ue_addons:stone_hammer"
+    },
+    {
+      "item": "ue_addons:tinder"
+    },
+    {
+      "item": "create:cogwheel"
+    }
+  ],
+  "result": {
+    "item": "ue_addons:andsite_mechanism",
+    "count": 1
+  }
+}

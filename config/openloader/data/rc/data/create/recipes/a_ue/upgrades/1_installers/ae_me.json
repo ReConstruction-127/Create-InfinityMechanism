@@ -1,0 +1,96 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:empty_programexe"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ue_addonsp2:meos"
+    }
+  ],
+  "sequence": [
+    {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      },
+      {
+        "item": "ae2:fluix_crystal"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ]
+  },
+    {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      },
+      {
+        "item": "mekanism:cardboard_box"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ]
+  },
+  {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      },
+      {
+        "tag": "minecraft:music_discs"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ]
+  },
+  {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      },
+      {
+        "tag": "ae2:all_certus_quartz"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ]
+  },
+  {
+    "type":"vintageimprovements:laser_cutting",
+    "ingredients": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ],
+    "results": [
+      {
+        "item": "ue_addonsp2:unfinished_meos"
+      }
+    ],
+    "energy": 100,
+    "maxChargeRate": 100
+  }
+  ],
+  "transitionalItem": {
+    "item": "ue_addonsp2:unfinished_meos"
+  }
+}

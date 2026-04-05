@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"B":{"item":"thermal:machine_pulverizer"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"R":{"tag":"forge:dusts/redstone"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":["RCR","BXB","RCR"],"result":{"item":"mekanism:crusher"}}

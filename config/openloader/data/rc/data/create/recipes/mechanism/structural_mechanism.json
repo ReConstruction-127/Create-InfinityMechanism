@@ -1,0 +1,145 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:ultimate_mekanism_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:structural_mechanism",
+      "count":4
+    },
+    {
+      "chance": 8.0,
+      "item": "mekanism:electrolytic_core"
+    },
+    {
+      "chance": 8.0,
+      "item": "mekanism:hdpe_pellet"
+    },
+    {
+      "chance": 5.0,
+      "item": "mekanism:dirty_dust_lead"
+    },
+    {
+      "chance": 3.0,
+      "item": "mekanism:dirty_dust_copper"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:clump_osmium"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:enriched_iron"
+    },
+    {
+      "item": "mekanism:structural_glass"
+    },
+    {
+      "item": "mekanism:raw_osmium"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "item": "mekanism:hdpe_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "item": "mekanism:ingot_osmium"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "tag": "forge:ingots/lead"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "tag": "forge:ingots/tin"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "item": "mekanism:ingot_steel"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        },
+        {
+          "item": "minecraft:copper_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_structural_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_structural_mechanism"
+  }
+}

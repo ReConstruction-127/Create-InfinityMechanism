@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:teleport_driverexe"
+    },
+    {
+      "item": "thermal:redstone_servo"
+    }
+  ],
+  "result": {
+    "item": "thermal:area_radius_augment",
+    "count": 1
+  }
+}

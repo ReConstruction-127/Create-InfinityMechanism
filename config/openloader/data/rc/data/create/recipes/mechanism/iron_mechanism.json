@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:stone_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:iron_mechanism",
+      "count":2
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 5.0,
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "chance": 3.0,
+      "item": "minecraft:compass"
+    },
+    {
+      "chance": 2.0,
+      "item": "minecraft:shears"
+    },
+    {
+      "chance": 2.0,
+      "item": "minecraft:iron_shovel"
+    },
+    {
+      "item": "create:metal_bracket"
+    },
+    {
+      "item": "ue_addons:iron_f_bucket"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        },
+        {
+          "amount": 1000,
+          "fluid": "ue_addons:iron_f",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        },
+        {
+          "amount": 1000,
+          "fluid": "minecraft:water",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_iron_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_iron_mechanism"
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "R": {
+        "item": "mekanism:robit"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "S": {
+        "item": "vintageimprovements:steel_rod"
+      },
+      "T": {
+        "item": "mekanism:logistical_sorter"
+      },
+      "A": {
+        "item": "mekanism:alloy_atomic"
+      },
+      "M": {
+        "item": "ue_addons:ultimate_mekanism_mechanism"
+      },
+      "#": {
+        "item": "ue_addonsp2:computer_components"
+      },
+      "E": {
+        "item": "mekanism:teleportation_core"
+      }
+    },
+    "pattern": [
+      "IIIII",
+      "IAAAI",
+      "TMRMT",
+      "SMCMS",
+      "SE#ES"
+    ],
+    "result": {
+      "item": "mekanism:digital_miner"
+    }
+  }

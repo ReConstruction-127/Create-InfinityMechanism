@@ -1,0 +1,83 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "2": {
+      "item": "create:cogwheel"
+    },
+    "3": {
+      "item": "createutilities:void_motor"
+    },
+    "4": {
+      "item": "create:large_cogwheel"
+    },
+    "6": {
+      "item": "create:deployer"
+    },
+    "7": {
+      "item": "create_connected:crank_wheel"
+    },
+    "8": {
+      "item": "create:speedometer"
+    },
+    "9": {
+      "item": "create_connected:large_crank_wheel"
+    },
+    "a": {
+      "item": "minecraft:water_bucket"
+    },
+    "b": {
+      "item": "create:large_water_wheel"
+    },
+    "c": {
+      "item": "vintageimprovements:netherite_spring"
+    },
+    "d": {
+      "item": "create:windmill_bearing"
+    },
+    "e": {
+      "item": "create:white_sail"
+    },
+    "f": {
+      "item": "create:copper_valve_handle"
+    },
+    "g": {
+      "item": "vintageimprovements:small_netherite_spring"
+    },
+    "h": {
+      "item": "create:hand_crank"
+    },
+    "i": {
+      "item": "create:blaze_burner"
+    },
+    "j": {
+      "item": "create:fluid_tank"
+    },
+    "k": {
+      "item": "create:steam_engine"
+    },
+    "Z": {
+      "item": "create:andesite_alloy_block"
+    },
+    "X": {
+      "item": "create:rotation_speed_controller"
+    },
+    "A": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    "Z##A##Z",
+    "#22344#",
+    "#67896#",
+    "XabcdeX",
+    "#6fgh6#",
+    "#ijkji#",
+    "Z##X##Z"
+  ],
+  "result": {
+    "item": "create:creative_motor"
+  }
+}

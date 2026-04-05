@@ -1,0 +1,64 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:raw_silicon"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ue_addons:diode"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        },
+        {
+          "item": "createaddition:iron_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        },
+        {
+          "amount": 10,
+          "fluid": "thermal:resin",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_diode"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_diode"
+  }
+}

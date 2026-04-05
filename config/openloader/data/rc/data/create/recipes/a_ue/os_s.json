@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "vintageimprovements:osmium_sheet"
+    },
+    "b": {
+      "item": "vintageimprovements:vanadium_ingot"
+    }
+  },
+  "result": {
+    "item": "ue_addonsp2:osmium_shingles",
+    "count": 2
+  }
+}

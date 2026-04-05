@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:energy_driverexe"
+        },
+        {
+            "item": "mekanism:hdpe_sheet"
+        },
+        {
+            "item": "mekanism:basic_induction_cell"
+        },
+        {
+            "item": "mekanism:alloy_infused"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_energy_unit",
+        "count": 1
+    }
+}

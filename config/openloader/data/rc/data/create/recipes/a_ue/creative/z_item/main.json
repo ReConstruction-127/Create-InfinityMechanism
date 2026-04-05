@@ -1,0 +1,112 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "1": {
+      "item": "minecraft:hopper"
+    },
+    "2": {
+      "item": "create:belt_connector"
+    },
+    "3": {
+      "item": "create:brass_funnel"
+    },
+    "4": {
+      "item": "create:smart_chute"
+    },
+    "5": {
+      "item": "create:mechanical_arm"
+    },
+    "6": {
+      "item": "storagenetwork:kabel"
+    },
+    "7": {
+      "item": "mekanism:ultimate_logistical_transporter"
+    },
+    "8": {
+      "item": "ae2:fluix_smart_dense_cable"
+    },
+    "A": {
+      "item": "minecraft:comparator"
+    },
+    "B": {
+      "item": "create:attribute_filter"
+    },
+    "C": {
+      "item": "storagenetwork:inventory_remote"
+    },
+    "D": {
+      "item": "storagedrawers:drawer_key"
+    },
+    "E": {
+      "item": "sophisticatedbackpacks:advanced_filter_upgrade"
+    },
+    "F": {
+      "item": "mekanism:logistical_sorter"
+    },
+    "G": {
+      "item": "ae2:wireless_crafting_terminal"
+    },
+    "a": {
+      "item": "minecraft:chest_minecart"
+    },
+    "b": {
+      "item": "minecraft:ender_chest"
+    },
+    "c": {
+      "item": "create:item_vault"
+    },
+    "d": {
+      "item": "createutilities:void_chest"
+    },
+    "e": {
+      "item": "storagenetwork:master"
+    },
+    "f": {
+      "item": "storagedrawers:controller"
+    },
+    "g": {
+      "item": "storagedrawers:emerald_storage_upgrade"
+    },
+    "h": {
+      "item": "sophisticatedbackpacks:netherite_backpack"
+    },
+    "i": {
+      "item": "sophisticatedbackpacks:stack_upgrade_tier_4"
+    },
+    "j": {
+      "item": "mekanism:personal_chest"
+    },
+    "k": {
+      "item": "mekanism:ultimate_bin"
+    },
+    "l": {
+      "item": "mekanism:qio_drive_supermassive"
+    },
+    "m": {
+      "item": "ae2:smooth_sky_stone_chest"
+    },
+    "n": {
+      "item": "ae2:portable_item_cell_256k"
+    },
+    "Z": {
+      "item": "minecraft:command_block"
+    }
+  },
+  "pattern": [
+    "#ABCDEFG#",
+    "#abcdefg#",
+    "#hijklmn#",
+    "#########",
+    "####Z####",
+    "#########",
+    "#########",
+    "#1234567#",
+    "####8####"
+  ],
+  "result": {
+    "item": "create:creative_crate"
+  }
+}

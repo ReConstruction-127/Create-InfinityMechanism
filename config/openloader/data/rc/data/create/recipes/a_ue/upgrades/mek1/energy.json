@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:speed_driverexe"
+    },
+    {
+      "tag": "forge:dusts/gold"
+    }
+  ],
+  "result": {
+    "item": "mekanism:upgrade_energy",
+    "count": 1
+  }
+}

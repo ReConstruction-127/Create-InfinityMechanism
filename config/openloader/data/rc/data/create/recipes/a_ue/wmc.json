@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "item": "ue_addons:incomplete_wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "ue_addons:wooden_mechanism",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "ue_addons:stone_mechanism"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_button"
+  }
+}

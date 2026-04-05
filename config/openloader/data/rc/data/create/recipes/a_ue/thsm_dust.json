@@ -1,0 +1,13 @@
+{
+  "type": "thermal:smelter",
+  "ingredient": {
+    "tag": "forge:dusts/obsidian"
+  },
+  "result": [
+    {
+      "item": "minecraft:blaze_powder",
+      "chance": 0.2
+    }
+  ],
+  "experience": 0.2
+}

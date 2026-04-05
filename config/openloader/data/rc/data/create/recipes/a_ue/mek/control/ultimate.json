@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "mekanism:alloy_atomic"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "mekanism:ultimate_control_circuit"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        },
+        {
+          "item": "ue_addons:resistor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        },
+        {
+          "item": "createaddition:capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        },
+        {
+          "item": "ue_addons:diode"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        },
+        {
+          "item": "createaddition:copper_spool"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        },
+        {
+          "item": "createaddition:redstone_relay"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_ultimate_control_circuit"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_ultimate_control_circuit"
+  }
+}

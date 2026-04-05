@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "storagedrawers:creative_storage_upgrade"
+    }
+  ],
+  "result": {
+    "item": "create:creative_crate",
+    "count": 1
+  }
+}

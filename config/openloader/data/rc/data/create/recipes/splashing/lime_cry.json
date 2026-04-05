@@ -1,0 +1,39 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:orange_sand"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.05,
+      "item": "thermal:ruby"
+    },
+    {
+      "chance": 0.05,
+      "item": "thermal:sapphire"
+    },
+    {
+      "chance": 0.05,
+      "item": "thermal:apatite"
+    },    {
+      "chance": 0.05,
+      "item": "thermal:cinnabar"
+    },    {
+      "chance": 0.05,
+      "item": "thermal:niter"
+    },    {
+      "chance": 0.05,
+      "item": "thermal:sulfur"
+    },    {
+      "chance": 0.05,
+      "item": "thermal:bitumen"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

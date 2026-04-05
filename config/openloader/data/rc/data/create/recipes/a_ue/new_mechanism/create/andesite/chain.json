@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:electron_tube"
+  },
+  "base": {
+    "item": "create:encased_chain_drive"
+  },
+  "result": {
+    "item": "create:adjustable_chain_gearshift"
+  },
+  "template": {
+    "item": "ue_addonsp2:craftsman_blueprint"
+  }
+}

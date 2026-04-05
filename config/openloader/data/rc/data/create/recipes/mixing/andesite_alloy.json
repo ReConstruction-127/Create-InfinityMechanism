@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "ue_addons:tinder"
+      }
+    ],
+    "result": {
+      "item": "create:andesite_alloy",
+      "count":2
+    }
+  }

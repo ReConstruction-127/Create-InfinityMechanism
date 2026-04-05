@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:plates/copper"
+  },
+  "base": {
+    "item": "crystal_clear:copper_glass_casing"
+  },
+  "result": {
+    "item": "create:fluid_tank"
+  },
+  "template": {
+    "item": "ue_addonsp2:fluid_blueprint"
+  }
+}

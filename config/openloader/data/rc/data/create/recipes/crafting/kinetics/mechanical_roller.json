@@ -1,0 +1,62 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "ue_addons:andesite_machine"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "item": "create:mechanical_roller"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                },
+                {
+                    "item": "create:crushing_wheel"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                },
+                {
+                    "item": "create:electron_tube"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ],
+            "results": [
+                {
+                    "item": "ue_addons:andesite_machine"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "ue_addons:andesite_machine"
+    }
+}

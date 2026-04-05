@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "createutilities:graviton_tube"
+    },
+    "Y": {
+      "item": "createutilities:void_casing"
+    },
+    "Z": {
+      "item": "create:shaft"
+    },
+    "M": {
+      "item": "ue_addons:enderium_mechanism"
+    }
+  },
+  "pattern": [
+    " X ",
+    "MYM",
+    " Z "
+  ],
+  "result": {
+    "item": "createutilities:void_motor"
+  }
+}

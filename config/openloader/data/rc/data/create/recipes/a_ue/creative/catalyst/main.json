@@ -1,0 +1,43 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "1": {
+      "item": "thermal:machine_pulverizer"
+    },
+    "2": {
+      "item": "thermal:machine_smelter"
+    },
+    "3": {
+      "item": "thermal:machine_insolator"
+    },
+    "a": {
+      "item": "thermal:basalz_powder"
+    },
+    "b": {
+      "item": "thermal:rich_slag"
+    },
+    "c": {
+      "item": "thermal:cinnabar"
+    },
+    "d": {
+      "item": "minecraft:blaze_powder"
+    },
+    "e": {
+      "item": "thermal:phytogro"
+    },
+    "C": {
+      "item": "thermal:machine_catalyst_augment"
+    }
+  },
+  "pattern": [
+    "1#2#3",
+    "abcde",
+    "##C##"
+  ],
+  "result": {
+    "item": "thermal:machine_catalyst_creative_augment"
+  }
+}

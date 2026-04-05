@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ue_addonsp2:meos"
+    },
+    "M": {
+      "item": "ue_addons:me_machine"
+    },
+    "P": {
+      "item": "minecraft:sticky_piston"
+    }
+  },
+  "pattern": [
+    "#",
+    "M",
+    "P"
+  ],
+  "result": {
+    "item": "ae2:import_bus",
+    "count":8
+  },
+  "show_notification": true
+}

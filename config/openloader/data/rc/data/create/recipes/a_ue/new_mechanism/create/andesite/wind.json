@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:turntable"
+  },
+  "base": {
+    "tag": "forge:stone"
+  },
+  "result": {
+    "item": "create:windmill_bearing"
+  },
+  "template": {
+    "item": "ue_addonsp2:craftsman_blueprint"
+  }
+}

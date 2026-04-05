@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:basic_card"
+    },
+    {
+      "item": "ue_addonsp2:easy_to_use_driverexe"
+    },
+    {
+      "item": "mekanism:formulaic_assemblicator"
+    }
+  ],
+  "result": {
+    "item": "ae2:crafting_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+      "item": "ue_addons:andesite_machine"
+  },
+  "loops": 1,
+  "results": [
+      {
+          "item": "vintageimprovements:vacuum_chamber"
+      }
+  ],
+  "sequence": [
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              },
+              {
+                  "item": "create:mechanical_pump"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              },
+              {
+                  "item": "vintageimprovements:iron_spring"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              }
+          ]
+      
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              },
+              {
+                  "item": "createdeco:industrial_iron_sheet"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ue_addons:andesite_machine"
+              }
+          ]
+      
+      }
+  ],
+  "transitionalItem": {
+      "item": "ue_addons:andesite_machine"
+  }
+}

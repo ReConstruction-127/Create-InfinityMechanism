@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:advanced_card"
+    },
+    {
+      "item": "ue_addonsp2:energy_driverexe"
+    },
+    {
+      "item": "ae2:dense_energy_cell"
+    }
+  ],
+  "result": {
+    "item": "ae2:energy_card",
+    "count": 1
+  }
+}

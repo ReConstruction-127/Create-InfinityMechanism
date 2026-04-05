@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "ae2:red_lumen_paint_ball",
+      "count":1
+    },
+    {
+      "item": "ae2:green_lumen_paint_ball"
+    },
+    {
+      "item": "ae2:green_lumen_paint_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:lime_lumen_paint_ball",
+      "count":3
+    }
+  ]
+}

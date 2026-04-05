@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "thermal:coal_coke"
+    },
+    {
+      "amount": 1000,
+      "fluid": "ue_addons:pure_sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "ue_addons:raw_silicon"
+    }
+  ]
+}

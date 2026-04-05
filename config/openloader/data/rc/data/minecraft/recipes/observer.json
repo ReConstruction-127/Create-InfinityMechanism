@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "M": {
+      "item": "vintageimprovements:redstone_module"
+    }
+  },
+  "pattern": [
+    "###",
+    "RRM",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:observer"
+  },
+  "show_notification": true
+}

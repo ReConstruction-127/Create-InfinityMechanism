@@ -1,0 +1,35 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "G": {
+        "tag": "forge:glass"
+      },
+      "I": {
+        "item": "mekanism:ingot_steel"
+      },
+      "K": {
+        "item": "create:linked_controller"
+      },
+      "T": {
+        "item": "mekanism:teleportation_core"
+      },
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "M": {
+        "item": "ue_addons:elite_mekanism_mechanism"
+      },
+      "#": {
+        "item": "ue_addonsp2:computer_components"
+      }
+    },
+    "pattern": [
+      "G#G",
+      "IKI",
+      "MCM",
+      "ITI"
+    ],
+    "result": {
+      "item": "mekanism:security_desk"
+    }
+  }

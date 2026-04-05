@@ -1,0 +1,42 @@
+{
+    "itemGroup.storagenetwork": "Simple Storage Network",
+    "block.storagenetwork.kabel": "网络线缆",
+    "block.storagenetwork.storage_kabel": "连接线缆",
+    "block.storagenetwork.export_kabel": "导出线缆",
+    "block.storagenetwork.import_kabel": "导入线缆",
+    "block.storagenetwork.import_filter_kabel": "过滤导入线缆",
+    "block.storagenetwork.filter_kabel": "过滤连接线缆",
+    "block.storagenetwork.master": "储存网络主机",
+    "block.storagenetwork.master.tooltip": "一个网络只能存在一台主机。",
+    "block.storagenetwork.request": "存储合成台",
+    "block.storagenetwork.request.tooltip": "用于从带有工作台的网络浏览物品",
+    
+    "block.storagenetwork.inventory": "储存物品栏",
+    "block.storagenetwork.inventory.tooltip": "用不带工作台的终端访问网络",
+    
+    "block.storagenetwork.exchange": "网络交换面板",
+    "block.storagenetwork.exchange.tooltip": "网络连接的端点",
+
+    "block.storagenetwork.collector": "网络收集面板",
+    "block.storagenetwork.collector.tooltip": "物品进入网络的端点",
+    
+    "item.storagenetwork.speed_upgrade": "速度升级",
+    "item.storagenetwork.speed_upgrade.tooltip": "提升导入或导出的速度",
+    "item.storagenetwork.stack_upgrade": "堆叠升级",
+    "item.storagenetwork.single_upgrade": "单行升级",
+    "item.storagenetwork.slow_upgrade": "减速升级",
+    "item.storagenetwork.slow_upgrade.tooltip": "减慢导入或导出的速度 ",
+    "item.storagenetwork.stock_upgrade": "存储升级",
+    "item.storagenetwork.stock_upgrade.tooltip": "在指定的接口中保持一定数量的库存",
+    "item.storagenetwork.inventory_remote": "储存终端",
+    "item.storagenetwork.inventory_remote.tooltip": "通过存储网络主机绑定",
+    "item.storagenetwork.crafting_remote": "合成终端",
+    "item.storagenetwork.picker_remote": "网络拿取终端",
+    "item.storagenetwork.collector_remote": "网络拾取终端",
+    "block.storagenetwork.kabel.tooltip": "基础的网络线缆",
+    "block.storagenetwork.storage_kabel.tooltip": "将容器连接到网络",
+    "block.storagenetwork.export_kabel.tooltip": "把物品导出到指定的容器",
+    "block.storagenetwork.import_kabel.tooltip": "把指定容器的所有物品导入至网络",
+    "block.storagenetwork.filter_kabel.tooltip": "带有分类设置的连接线缆",
+    "block.storagenetwork.import_filter_kabel.tooltip": "带有分类设置的导入线缆"
+}

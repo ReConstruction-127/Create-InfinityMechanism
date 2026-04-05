@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"mekanism:alloys/infused"},"B":{"item":"create:mechanical_pump"},"O":{"tag":"forge:ingots/osmium"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":[" B ","AXA","OOO"],"result":{"item":"mekanism:electric_pump"}}

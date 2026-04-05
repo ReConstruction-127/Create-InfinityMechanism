@@ -1,0 +1,18 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+	"ingredients": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 200
+		},
+		{
+			"item": "minecraft:stick"
+		}
+	],
+	"results": [
+		{
+			"item": "minecraft:string"
+		}
+	],
+	"processingTime": 80
+}

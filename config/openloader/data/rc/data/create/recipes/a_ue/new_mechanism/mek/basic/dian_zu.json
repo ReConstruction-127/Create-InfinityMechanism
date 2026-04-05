@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "base": {
+    "item": "ue_addons:resistor"
+  },
+  "result": {
+    "item": "mekanism:resistive_heater"
+  },
+  "template": {
+    "item": "ue_addonsp2:basic_mekanism_blueprint"
+  }
+}

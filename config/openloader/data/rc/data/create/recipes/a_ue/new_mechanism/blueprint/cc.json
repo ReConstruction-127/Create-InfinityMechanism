@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:glass_panes"
+    },
+    {
+      "item": "ue_addons:ultimate_mekanism_mechanism"
+    },
+    {
+      "item": "ue_addonsp2:mek_os"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:computer_components",
+    "count": 1
+  }
+}

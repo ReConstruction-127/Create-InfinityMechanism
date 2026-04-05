@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:energy_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "mekanismgenerators:heat_generator"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        }
+    ],
+    "result": {
+        "item": "mekanismgenerators:module_geothermal_generator_unit",
+        "count": 1
+    }
+}

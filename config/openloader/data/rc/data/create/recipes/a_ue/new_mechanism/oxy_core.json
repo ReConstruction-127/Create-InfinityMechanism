@@ -1,0 +1,17 @@
+{
+  "type": "thermal:bottler",
+  "ingredients": [
+    {
+      "item": "thermal:rosin"
+    },
+    {
+      "fluid": "thermal:sap",
+      "amount": 20
+    }
+  ],
+  "result": [
+    {
+      "item": "ue_addonsp2:antirust_core"
+    }
+  ]
+}

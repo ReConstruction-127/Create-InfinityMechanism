@@ -1,0 +1,58 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addonsp2:unknown_ingot"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addons:empty_programexe"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ]
+      },
+      {
+        "type":"vintageimprovements:laser_cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_empty_programexe"
+          }
+        ],
+        "energy": 100,
+        "maxChargeRate": 100
+      }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinish_empty_programexe"
+    }
+  }

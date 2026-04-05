@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"mekanism:alloys/reinforced"},"C":{"item":"ue_addons:elite_mekanism_mechanism"},"X":{"item":"ue_addons:mekanism_machine"},"_":{"item":"thermal:machine_smelter"}},"pattern":["ACA","_X_","ACA"],"result":{"item":"mekanism:combiner"}}

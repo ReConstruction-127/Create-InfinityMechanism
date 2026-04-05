@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "amount": 250,
+      "fluid": "ue_addons:tetrachlorosilane"
+    },
+    {
+      "amount": 500,
+      "fluid": "mekanism:hydrogen"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "fluid": "mekanism:hydrogen_chloride"
+    },
+    {      "item": "ae2:silicon"}
+  ]
+}

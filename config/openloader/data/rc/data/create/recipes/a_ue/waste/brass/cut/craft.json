@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:mechanical_crafter"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "create:precision_mechanism",
+      "count":1
+    }
+  ]
+}

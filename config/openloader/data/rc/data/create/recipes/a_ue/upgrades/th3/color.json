@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:filter_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:color_driverexe"
+    },
+    {
+      "item": "ue_addons:forceexe"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:error_filter_augment_base",
+    "count": 1
+  }
+}

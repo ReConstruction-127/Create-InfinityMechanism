@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"mekanismgenerators:turbine_blade"},"C":{"item":"ue_addons:basic_mekanism_mechanism"},"R":{"tag":"forge:dusts/redstone"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":["RCR","#X#","RCR"],"result":{"item":"mekanism:nutritional_liquifier"}}

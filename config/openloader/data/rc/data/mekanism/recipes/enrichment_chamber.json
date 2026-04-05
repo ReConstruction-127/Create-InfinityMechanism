@@ -1,0 +1,36 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "G": {
+        "tag": "forge:glass"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "D": {
+        "item": "thermal:machine_pulverizer"
+      },
+      "B": {
+        "item": "thermal:machine_crystallizer"
+      },
+      "A": {
+        "item": "thermal:machine_pyrolyzer"
+      },
+      "M": {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "IIIII",
+      "IGGGI",
+      "IABDI",
+      "IMCMI",
+      "IIIII"
+    ],
+    "result": {
+      "item": "mekanism:enrichment_chamber"
+    }
+  }

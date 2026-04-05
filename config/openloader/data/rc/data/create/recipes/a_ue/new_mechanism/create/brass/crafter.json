@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:crafting_table"
+  },
+  "base": {
+    "item": "ue_addons:brass_machine"
+  },
+  "result": {
+    "item": "create:mechanical_crafter"
+  },
+  "template": {
+    "item": "ue_addonsp2:precision_blueprint"
+  }
+}

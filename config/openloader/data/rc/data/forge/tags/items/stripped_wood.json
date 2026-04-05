@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:stripped_pine_wood",
+    "biomesoplenty:stripped_maple_wood",
+    "biomesoplenty:stripped_empyreal_wood",
+    "thermal:stripped_rubberwood_wood"
+  ]
+}

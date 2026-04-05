@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:crafter_slot_cover"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "create:brass_nugget",
+      "count":3
+    }
+  ]
+}

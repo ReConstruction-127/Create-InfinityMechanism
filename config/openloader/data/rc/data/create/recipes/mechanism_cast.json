@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  " I ", 
+  "IRI", 
+  " I "
+  ],
+  "key": {
+    "I": {
+      "item": "ue_addons:stone_mechanism"
+    },
+    "R": {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  },
+  "result": {
+    "item": "ue_addons:mechanismcast"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:bow"
+    },
+    "M": {
+      "item": "ue_addons:stone_mechanism"
+    }
+  },
+  "pattern": [
+    "#M#",
+    "#X#",
+    "#R#"
+  ],
+  "result": {
+    "item": "minecraft:dispenser"
+  },
+  "show_notification": true
+}

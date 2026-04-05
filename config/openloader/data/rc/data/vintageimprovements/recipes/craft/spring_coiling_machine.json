@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "ue_addons:andesite_machine"
+        },
+        {
+            "item": "vintageimprovements:spring_coiling_machine_wheel"
+        }
+    ],
+    "results": [
+        {
+            "item": "vintageimprovements:spring_coiling_machine"
+        }
+    ]
+  }

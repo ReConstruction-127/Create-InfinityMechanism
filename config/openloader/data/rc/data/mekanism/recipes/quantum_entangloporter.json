@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"mekanism:alloys/atomic"},"C":{"item":"ue_addons:ultimate_mekanism_mechanism"},"I":{"tag":"forge:ingots/refined_obsidian"},"T":{"item":"mekanism:teleportation_core"}},"pattern":["ICI","ATA","ICI"],"result":{"item":"mekanism:quantum_entangloporter"}}

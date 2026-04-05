@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:basic_card"
+    },
+    {
+      "item": "ue_addonsp2:energy_driverexe"
+    },
+    {
+      "item": "ue_addons:forceexe"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:error_basic_card",
+    "count": 1
+  }
+}

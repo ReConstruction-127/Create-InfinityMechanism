@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "create:fluid_pipe"
+        },
+        {
+            "item": "create:precision_mechanism"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:smart_fluid_pipe"
+        }
+    ]
+}

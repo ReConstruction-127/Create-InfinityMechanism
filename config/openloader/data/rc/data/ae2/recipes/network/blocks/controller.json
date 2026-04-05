@@ -1,0 +1,36 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "C": {
+      "item": "ue_addons:calculation_mechanism"
+    },
+    "L": {
+      "item": "ue_addons:logic_mechanism"
+    },
+    "E": {
+      "item": "ue_addons:engineering_mechanism"
+    },
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "S": {
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    "F": {
+      "item": "ae2:fluix_crystal"
+    },
+    "O": {
+      "item": "ue_addons:lumen_core"
+    }
+  },
+  "pattern": [
+    "SGOGS",
+    "GFFFG",
+    "OLCEO",
+    "GFFFG",
+    "SGOGS"
+  ],
+  "result": {
+    "item": "ae2:controller"
+  }
+}

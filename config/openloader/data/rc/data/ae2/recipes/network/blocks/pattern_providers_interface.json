@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "ue_addons:me_machine"
+    },
+    "G": {
+      "item": "mekanism:formulaic_assemblicator"
+    },
+    "#": {
+      "item": "ue_addonsp2:meos"
+    }
+  },
+  "pattern": [
+    "#",
+    "C",
+    "G"
+  ],
+  "result": {
+    "item": "ae2:pattern_provider",
+    "count":4
+  },
+  "show_notification": true
+}

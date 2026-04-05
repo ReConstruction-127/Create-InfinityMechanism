@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:copper_rod"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "createaddition:connector",
+      "count": 4
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createaddition:copper_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createaddition:copper_wire"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createaddition:copper_wire"
+        },
+        {
+          "amount": 10,
+          "fluid": "thermal:resin",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "createaddition:copper_wire"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "ue_addons:brass_machine"
+    },
+    {
+      "item": "minecraft:comparator"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:stockpile_switch"
+    }
+  ]
+}

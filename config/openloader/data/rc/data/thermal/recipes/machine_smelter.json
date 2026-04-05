@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "YCZ",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/invar"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:blast_furnace"
+    },
+    "Y": {
+      "item": "ue_addons:lumium_mechanism"
+    },
+    "Z": {
+      "item": "ue_addons:signalum_mechanism"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_smelter"
+  }
+}

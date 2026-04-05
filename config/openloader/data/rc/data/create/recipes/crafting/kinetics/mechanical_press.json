@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "vintageimprovements:curving_press"
+        },
+        {
+            "item": "minecraft:iron_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_press"
+        }
+    ]
+}

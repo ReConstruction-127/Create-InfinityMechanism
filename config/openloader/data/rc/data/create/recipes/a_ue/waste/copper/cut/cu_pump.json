@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:mechanical_pump"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "create:copper_nugget",
+      "count":4
+    }
+  ]
+}

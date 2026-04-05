@@ -1,0 +1,149 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:andsite_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:copper_mechanism"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:copper_nugget"
+    },
+    {
+      "chance": 5.0,
+      "item": "minecraft:cut_copper_slab"
+    },
+    {
+      "chance": 3.0,
+      "item": "thermal:cured_rubber"
+    },
+    {
+      "chance": 2.0,
+      "item": "minecraft:spyglass"
+    },
+    {
+      "chance": 2.0,
+      "item": "thermal:rosin"
+    },
+    {
+      "item": "create:mechanical_pump"
+    },
+    {
+      "item": "ue_addons:cu_f_bucket"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "amount": 1000,
+          "fluid": "ue_addons:cu_f",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "amount": 1000,
+          "fluid": "minecraft:water",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "item": "thermal:cured_rubber"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "amount": 50,
+          "fluid": "thermal:sap",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "amount": 50,
+          "fluid": "thermal:resin",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_copper_mechanism"
+  }
+}

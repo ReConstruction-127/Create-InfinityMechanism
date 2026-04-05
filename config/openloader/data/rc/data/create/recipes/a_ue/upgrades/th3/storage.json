@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:filter_augment_base"
+    },
+    {
+      "item": "ue_addonsp2:storage_driverexe"
+    },
+    {
+      "tag": "forge:plates/tin"
+    }
+  ],
+  "result": {
+    "item": "thermal:item_filter_augment",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:augment_base"
+    },
+    {
+      "item": "ue_addonsp2:speed_driverexe"
+    },
+    {
+      "tag": "thermal:glass/hardened"
+    },
+    {
+      "item": "thermal:signalum_gear"
+    }
+  ],
+  "result": {
+    "item": "thermal:potion_duration_augment",
+    "count": 1
+  }
+}

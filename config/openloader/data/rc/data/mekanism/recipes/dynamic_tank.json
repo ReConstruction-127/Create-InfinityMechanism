@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"B":{"item":"ue_addons:structural_mechanism"},"S":{"tag":"forge:ingots/iron"}},"pattern":[" S ","SBS"," S "],"result":{"count":4,"item":"mekanism:dynamic_tank"}}

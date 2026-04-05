@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:ancient_debris"
+    },
+    {
+      "item": "thermal:basalz_powder"
+    },
+    {
+      "item": "thermal:blizz_powder"
+    },
+    {
+      "item": "thermal:blitz_powder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_scrap",
+      "count": 64
+    }
+  ]
+}

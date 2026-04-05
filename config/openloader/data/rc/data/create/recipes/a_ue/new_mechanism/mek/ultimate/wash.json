@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mekanism:basic_fluid_tank"
+  },
+  "base": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "result": {
+    "item": "mekanism:chemical_washer"
+  },
+  "template": {
+    "item": "ue_addonsp2:ultimate_mekanism_blueprint"
+  }
+}

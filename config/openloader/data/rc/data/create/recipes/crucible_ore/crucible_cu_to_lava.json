@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:raw_materials/copper"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:cu_f",
+      "amount": 500
+    }
+  ],
+  "energy": 2000
+}

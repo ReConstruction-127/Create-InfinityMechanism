@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:andsite_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ue_addons:copper_mechanism",
+      "count":2
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "item": "ue_addonsp2:antirust_core"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        },
+        {
+          "item": "thermal:cured_rubber"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_copper_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_copper_mechanism"
+  }
+}

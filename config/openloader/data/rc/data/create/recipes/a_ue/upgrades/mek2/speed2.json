@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:speed_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "minecraft:lightning_rod"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_hydrostatic_repulsor_unit",
+        "count": 1
+    }
+}

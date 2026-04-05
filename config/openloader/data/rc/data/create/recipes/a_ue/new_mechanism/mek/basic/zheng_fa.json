@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "create:mechanical_bearing"
+    },
+    "b": {
+      "item": "ue_addonsp2:basic_mekanism_blueprint"
+    },
+    "c": {
+      "item": "vintageimprovements:copper_spring"
+    },
+    "d": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "e": {
+      "item": "ue_addons:mekanism_machine"
+    },
+    "f": {
+      "item": "mekanism:basic_fluid_tank"
+    }
+  },
+  "result": {
+    "item": "mekanism:rotary_condensentrator",
+    "count": 1
+  }
+}

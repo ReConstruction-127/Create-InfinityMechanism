@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:tool_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "mekanism:alloy_reinforced"
+        },
+        {
+            "item": "mekanism:block_refined_glowstone"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_fortune_unit",
+        "count": 1
+    }
+}

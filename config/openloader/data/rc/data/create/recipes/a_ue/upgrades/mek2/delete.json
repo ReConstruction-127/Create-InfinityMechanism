@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:delete_driverexe"
+        },
+        {
+            "item": "ue_addons:forceexe"
+        }
+    ],
+    "result": {
+        "item": "ue_addonsp2:error_module_base",
+        "count": 1
+    }
+}

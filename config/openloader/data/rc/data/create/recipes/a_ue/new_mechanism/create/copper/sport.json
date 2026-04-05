@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:dried_kelp"
+  },
+  "base": {
+    "item": "create:fluid_tank"
+  },
+  "result": {
+    "item": "create:spout"
+  },
+  "template": {
+    "item": "ue_addonsp2:fluid_blueprint"
+  }
+}

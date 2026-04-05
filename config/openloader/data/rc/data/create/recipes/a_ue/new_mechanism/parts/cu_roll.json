@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:spool"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "createaddition:copper_spool"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_nugget"
+        },
+        {
+          "item": "createaddition:copper_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "create:copper_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_nugget"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:copper_nugget"
+  }
+}

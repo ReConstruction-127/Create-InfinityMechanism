@@ -1,0 +1,93 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:nuclear_mechanism"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 570.0,
+      "item": "ue_addons:antimatter_mechanism"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:command_block"
+    },
+    {
+      "chance": 8.0,
+      "item": "mekanism:pellet_antimatter"
+    },
+    {
+      "chance": 5.0,
+      "item": "mekanism:sps_casing"
+    },
+    {
+      "chance": 3.0,
+      "item": "mekanism:pellet_polonium"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:pellet_plutonium"
+    },
+    {
+      "chance": 2.0,
+      "item": "mekanism:antiprotonic_nucleosynthesizer"
+    },
+    {
+      "item": "mekanism:antiprotonic_nucleosynthesizer"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        },
+        {
+          "item": "mekanism:pellet_antimatter"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        },
+        {
+          "item": "biomesoplenty:null_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_antimatter_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_antimatter_mechanism"
+  }
+}

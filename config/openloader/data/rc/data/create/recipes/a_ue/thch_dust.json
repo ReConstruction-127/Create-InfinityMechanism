@@ -1,0 +1,19 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+    "tag": "forge:dusts/obsidian"
+    }
+  ],
+  "result": [
+    {
+      "item": "thermal:blizz_powder",
+      "chance": 0.2
+    }
+  ],
+  "energy": 5000
+}

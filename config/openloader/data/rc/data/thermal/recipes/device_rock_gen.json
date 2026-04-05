@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IXI",
+    "GCG",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "ue_addons:andesite_machine"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "I": {
+      "item": "create:andesite_casing"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "X": {
+      "item": "thermal:redstone_servo"
+    }
+  },
+  "result": {
+    "item": "thermal:device_rock_gen"
+  },
+  "conditions": [
+    {
+      "flag": "device_rock_gen",
+      "type": "thermal:flag"
+    }
+  ]
+}

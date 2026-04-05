@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "ue_addons:iron_mechanism"
+    }
+  },
+  "pattern": [
+    "X X",
+    "M#M",
+    "XRX"
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:detector_rail"
+  },
+  "show_notification": true
+}

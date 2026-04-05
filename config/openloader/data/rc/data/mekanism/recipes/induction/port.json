@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"item":"mekanism:induction_casing"},"C":{"item":"ue_addons:elite_mekanism_mechanism"}},"pattern":[" # ","#C#"," # "],"result":{"count":2,"item":"mekanism:induction_port"}}

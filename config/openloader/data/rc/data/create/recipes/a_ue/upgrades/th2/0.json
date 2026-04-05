@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+  	"A": {
+      "tag": "forge:nuggets/silver"
+    },
+    "B": {
+      "tag": "forge:plates/invar"
+    }
+  },
+  "result": {
+    "item": "ue_addons:augment_base"
+  }
+}

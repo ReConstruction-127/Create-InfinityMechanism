@@ -1,0 +1,113 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+      "item": "ae2:controller"
+  },
+  "loops": 1,
+  "results": [
+      {
+          "item": "ue_addons:me_machine"
+      }
+  ],
+  "sequence": [
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "item": "ae2:energy_acceptor"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "item": "ae2:memory_card"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "item": "ae2:cell_component_1k"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "item": "ae2:formation_core"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "item": "ae2:annihilation_core"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      },
+      {
+          "type": "create:deploying",
+          "ingredients": [
+              {
+                  "item": "ae2:controller"
+              },
+              {
+                  "tag": "ae2:glass_cable"
+              }
+          ],
+          "results": [
+              {
+                  "item": "ae2:controller"
+              }
+          ]
+      }
+  ],
+  "transitionalItem": {
+      "item": "ae2:controller"
+  }
+}

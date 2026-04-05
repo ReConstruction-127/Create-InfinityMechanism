@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addonsp2:crystal_mixtures"
+    },
+    {
+      "item": "ue_addonsp2:powder_mixture"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:unknown_ingot",
+    "count": 3
+  }
+}

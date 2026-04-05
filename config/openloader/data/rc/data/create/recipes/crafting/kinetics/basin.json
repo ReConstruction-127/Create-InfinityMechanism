@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "minecraft:cauldron"
+        },
+        {
+            "item": "create:andesite_alloy_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:basin"
+        }
+    ]
+}

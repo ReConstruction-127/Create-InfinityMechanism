@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:raw_materials/tin"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:sn_f",
+      "amount": 500
+    }
+  ],
+  "energy": 2000
+}

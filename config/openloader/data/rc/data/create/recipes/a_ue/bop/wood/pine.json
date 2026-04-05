@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomesoplenty:stripped_pine_wood",
+      "count":1
+    }
+  ]
+}

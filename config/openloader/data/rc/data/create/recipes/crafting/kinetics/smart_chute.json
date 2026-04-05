@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "create:chute"
+        },
+        {
+            "item": "create:precision_mechanism"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:smart_chute"
+        }
+    ]
+}

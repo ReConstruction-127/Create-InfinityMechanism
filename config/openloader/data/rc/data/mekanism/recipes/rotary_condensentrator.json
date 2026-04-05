@@ -1,0 +1,34 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "L": {
+        "item": "mekanism:basic_fluid_tank"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "S": {
+        "item": "vintageimprovements:copper_spring"
+      },
+      "R": {
+        "item": "create:mechanical_bearing"
+      },
+      "G": {
+        "item": "mekanism:basic_chemical_tank"
+      },
+      "M": {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "IIRII",
+      "GMCML",
+      "IISII"
+    ],
+    "result": {
+      "item": "mekanism:rotary_condensentrator"
+    }
+  }

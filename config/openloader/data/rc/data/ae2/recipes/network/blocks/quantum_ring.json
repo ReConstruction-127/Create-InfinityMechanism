@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:plates/iron"
+    },
+    "b": {
+      "item": "ue_addons:logic_mechanism"
+    },
+    "c": {
+      "item": "ue_addons:engineering_mechanism"
+    },
+    "d": {
+      "item": "ae2:energy_cell"
+    },
+    "e": {
+      "tag": "ae2:smart_dense_cable"
+    }
+  },
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "result": {
+    "item": "ae2:quantum_ring"
+  },
+  "show_notification": true
+}

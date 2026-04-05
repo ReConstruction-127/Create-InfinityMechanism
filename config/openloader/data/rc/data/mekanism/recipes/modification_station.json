@@ -1,0 +1,40 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "L": {
+        "item": "mekanism:laser"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "G": {
+        "tag": "forge:glass"
+      },
+      "P": {
+        "item": "mekanism:hdpe_sheet"
+      },
+      "#": {
+        "item": "ue_addonsp2:computer_components"
+      },
+      "M": {
+        "item": "ue_addons:ultimate_mekanism_mechanism"
+      },
+      "W": {
+        "item": "mekanism:pellet_polonium"
+      },
+      "K": {
+        "item": "create:linked_controller"
+      }
+    },
+    "pattern": [
+      "G#G L",
+      "MKMPP",
+      "IIWCI"
+    ],
+    "result": {
+      "item": "mekanism:modification_station"
+    }
+  }

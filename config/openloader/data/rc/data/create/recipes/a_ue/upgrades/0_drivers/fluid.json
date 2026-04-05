@@ -1,0 +1,62 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addons:empty_programexe"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addonsp2:fluid_driverexe"
+      }
+    ],
+    "sequence": [{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addonsp2:unfinish_fluid_driverexe"
+        },
+        {
+          "amount": 1000,
+          "fluid": "minecraft:water",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addonsp2:unfinish_fluid_driverexe"
+        }
+      ]
+    },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_fluid_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_fluid_driverexe"
+          }
+        ]
+      },
+      {
+        "type":"vintageimprovements:laser_cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_fluid_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_fluid_driverexe"
+          }
+        ],
+        "energy": 100,
+        "maxChargeRate": 100
+      }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinish_fluid_driverexe"
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "T": {
+        "item": "create:electron_tube"
+      },
+      "P": {
+        "item": "create:brass_sheet"
+      },
+      "A": {
+        "item": "create:andesite_alloy"
+      },
+      "G": {
+        "item": "create:cogwheel"
+      },
+      "M": {
+        "item": "ue_addons:brass_machine"
+      }
+    },
+    "pattern": [
+      "PPA",
+      "P  ",
+      "PT ",
+      "GMG"
+    ],
+    "result": {
+      "item": "create:mechanical_arm"
+    }
+  }

@@ -1,0 +1,23 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "di ",
+    "imi",
+  	" i "
+  ],
+  "key": {
+    "i":  {
+	  "item": "storagenetwork:kabel"
+	},
+    "m":  {
+	  "item": "storagenetwork:inventory_remote"
+	},
+    "d":  {
+    "item": "ue_addonsp2:easy_to_use_driverexe"
+}
+  },
+  "result": {
+    "item": "storagenetwork:picker_remote"
+  }
+}

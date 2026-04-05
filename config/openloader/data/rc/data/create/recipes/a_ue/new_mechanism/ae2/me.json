@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "ae2:controller"
+    },
+    "b": {
+      "item": "ue_addons:me_machine"
+    }
+  },
+  "result": {
+    "item": "ae2:controller",
+    "count": 3
+  }
+}

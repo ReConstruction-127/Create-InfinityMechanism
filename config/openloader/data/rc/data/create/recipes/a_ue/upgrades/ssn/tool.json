@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ue_addons:network_upgrade_base"
+    },
+    {
+      "item": "ue_addonsp2:tool_driverexe"
+    },
+    {
+      "item": "ue_addons:forceexe"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:error_network_upgrade_base",
+    "count": 1
+  }
+}

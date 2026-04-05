@@ -1,0 +1,17 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"item": "thermal:coal_coke"
+		},
+		{
+			"item": "minecraft:string"
+		}
+	],
+	"results": [
+		{
+			"item": "minecraft:leather"
+		}
+	],
+	"processingTime": 80
+}

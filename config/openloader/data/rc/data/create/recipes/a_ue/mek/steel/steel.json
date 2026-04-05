@@ -1,0 +1,17 @@
+{
+  "type": "thermal:smelter",
+  "ingredient": [{
+    "item": "mekanism:enriched_iron"
+  },
+  {
+    "item": "thermal:coal_coke"
+  }],
+  "result": [
+    {
+      "item": "mekanism:ingot_steel",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.5,
+    "energy": 32000
+}

@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"#":{"item":"mekanism:alloy_atomic"},"A":{"tag":"forge:pellets/antimatter"},"C":{"item":"ue_addons:ultimate_mekanism_mechanism"},"X":{"item":"ue_addons:mekanism_machine"}},"pattern":["#C#","AXA","#C#"],"result":{"item":"mekanism:antiprotonic_nucleosynthesizer"}}

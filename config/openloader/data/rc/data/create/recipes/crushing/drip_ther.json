@@ -1,0 +1,51 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone_block"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.05,
+      "item": "create:crushed_raw_silver"
+    },
+    {
+      "chance": 0.05,
+      "item": "create:crushed_raw_nickel"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:signalum_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:lumium_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:bronze_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:electrum_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:invar_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "thermal:constantan_dust"
+    },
+    {
+      "chance": 0.001,
+      "item": "aquaculture:neptunium_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

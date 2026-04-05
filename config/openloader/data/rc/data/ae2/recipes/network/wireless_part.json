@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "item": "ae2:quartz_fiber"
+    },
+    "E": {
+      "item": "ae2:fluix_pearl"
+    }
+  },
+  "pattern": [
+    "  E  ",
+    "  R  ",
+    "I R I",
+    " III "
+  ],
+  "result": {
+    "item": "ae2:wireless_receiver"
+  }
+}

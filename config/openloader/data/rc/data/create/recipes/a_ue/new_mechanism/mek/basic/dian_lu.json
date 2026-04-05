@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "base": {
+    "item": "thermal:machine_furnace"
+  },
+  "result": {
+    "item": "mekanism:energized_smelter"
+  },
+  "template": {
+    "item": "ue_addonsp2:basic_mekanism_blueprint"
+  }
+}

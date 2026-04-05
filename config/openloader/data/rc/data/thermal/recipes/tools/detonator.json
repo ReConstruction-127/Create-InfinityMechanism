@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "IGI",
+    "III"
+  ],
+  "key": {
+    "G": {
+      "item": "ue_addons:signalum_mechanism"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "tag": "forge:ingots/silver"
+    }
+  },
+  "result": {
+    "item": "thermal:detonator"
+  },
+  "conditions": [
+    {
+      "flag": "detonator",
+      "type": "thermal:flag"
+    }
+  ]
+}

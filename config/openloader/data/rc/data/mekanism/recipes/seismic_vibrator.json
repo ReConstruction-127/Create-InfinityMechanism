@@ -1,0 +1,33 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "O": {
+        "item": "mekanism:ingot_refined_obsidian"
+      },
+      "T": {
+        "tag": "forge:plates/tin"
+      },
+      "S": {
+        "item": "vintageimprovements:steel_rod"
+      },
+      "P": {
+        "item": "create:mechanical_piston"
+      },
+      "M": {
+        "item": "ue_addons:basic_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "TTT",
+      "SMS",
+      "SPS",
+      "S S",
+      "OCO"
+    ],
+    "result": {
+      "item": "mekanism:seismic_vibrator"
+    }
+  }

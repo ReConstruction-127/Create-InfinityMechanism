@@ -1,0 +1,45 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "O": {
+        "item": "mekanism:ingot_refined_obsidian"
+      },
+      "#": {
+        "item": "ue_addonsp2:mek_os"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "G": {
+        "tag": "forge:glass"
+      },
+      "C": {
+        "item": "mekanism:formulaic_assemblicator"
+      },
+      "V": {
+        "item": "vintageimprovements:helve_hammer"
+      },
+      "M": {
+        "item": "ue_addons:ultimate_mekanism_mechanism"
+      },
+      "F": {
+        "item": "mekanism:energized_smelter"
+      },
+      "B": {
+        "tag": "mekanism:personal_storage"
+      },
+      "E": {
+        "item": "mekanism:energy_tablet"
+      }
+    },
+    "pattern": [
+      "G#G",
+      "IBI",
+      "CVF",
+      "EME",
+      "O O"
+    ],
+    "result": {
+      "item": "mekanism:robit"
+    }
+  }

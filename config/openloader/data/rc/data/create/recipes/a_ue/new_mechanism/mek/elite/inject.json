@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mekanism:basic_chemical_tank"
+  },
+  "base": {
+    "item": "mekanism:purification_chamber"
+  },
+  "result": {
+    "item": "mekanism:chemical_injection_chamber"
+  },
+  "template": {
+    "item": "ue_addonsp2:elite_mekanism_blueprint"
+  }
+}

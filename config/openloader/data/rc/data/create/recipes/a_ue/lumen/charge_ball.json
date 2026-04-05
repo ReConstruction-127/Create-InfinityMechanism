@@ -1,0 +1,12 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "ae2:matter_ball",
+		"count": 1
+	},
+	"result": {
+		"item": "ae2:black_lumen_paint_ball",
+		"count": 1
+	},
+	"energy": 1000
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_planks"
+    },
+    {
+      "item": "ue_addons:wooden_mechanism"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_button"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "#": {
+      "item": "ue_addons:infinity_mechanism"
+    },
+    "A": {
+      "item": "createaddition:large_connector"
+    },
+    "B": {
+      "item": "ae2:fluix_smart_dense_cable"
+    },
+    "C": {
+      "item": "createaddition:electrum_spool"
+    },
+    "D": {
+      "item": "mekanism:ultimate_universal_cable"
+    },
+    "1": {
+      "item": "createaddition:modular_accumulator"
+    },
+    "2": {
+      "item": "thermal:energy_cell"
+    },
+    "3": {
+      "item": "createutilities:void_battery"
+    },
+    "4": {
+      "item": "mekanism:ultimate_induction_cell"
+    },
+    "5": {
+      "item": "ae2:dense_energy_cell"
+    },
+    "0": {
+      "item": "minecraft:redstone_block"
+    },
+    "a": {
+      "item": "mekanismgenerators:rotational_complex"
+    },
+    "b": {
+      "item": "mekanismgenerators:fusion_reactor_controller"
+    },
+    "c": {
+      "item": "ae2:crank"
+    },
+    "d": {
+      "item": "ae2:vibration_chamber"
+    },
+    "e": {
+      "item": "ae2:crystal_resonance_generator"
+    },
+    "f": {
+      "item": "thermal:rf_potato"
+    },
+    "g": {
+      "item": "thermal:dynamo_disenchantment"
+    },
+    "i": {
+      "item": "thermal:dynamo_gourmand"
+    },
+    "j": {
+      "item": "thermal:flux_capacitor"
+    },
+    "k": {
+      "item": "thermal:dynamo_stirling"
+    },
+    "l": {
+      "item": "thermal:dynamo_compression"
+    },
+    "m": {
+      "item": "thermal:dynamo_magmatic"
+    },
+    "n": {
+      "item": "thermal:dynamo_numismatic"
+    },
+    "o": {
+      "item": "thermal:dynamo_lapidary"
+    },
+    "p": {
+      "item": "createaddition:alternator"
+    },
+    "q": {
+      "item": "mekanismgenerators:heat_generator"
+    },
+    "r": {
+      "item": "mekanismgenerators:bio_generator"
+    },
+    "s": {
+      "item": "mekanismgenerators:gas_burning_generator"
+    },
+    "t": {
+      "item": "mekanismgenerators:advanced_solar_generator"
+    }
+  },
+  "pattern": [
+    "###A###",
+    "#12345#",
+    "#abcde#",
+    "Bfg0ijC",
+    "#klmno#",
+    "#pqrst#",
+    "###D###"
+  ],
+  "result": {
+    "item": "createaddition:creative_energy"
+  }
+}

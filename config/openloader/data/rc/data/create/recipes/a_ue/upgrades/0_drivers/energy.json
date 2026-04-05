@@ -1,0 +1,60 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addons:empty_programexe"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addonsp2:energy_driverexe"
+      }
+    ],
+    "sequence": [{
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          },
+          {
+            "item": "minecraft:redstone_block"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          }
+        ]
+      },
+      {
+        "type":"vintageimprovements:laser_cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_energy_driverexe"
+          }
+        ],
+        "energy": 100,
+        "maxChargeRate": 100
+      }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinish_energy_driverexe"
+    }
+  }

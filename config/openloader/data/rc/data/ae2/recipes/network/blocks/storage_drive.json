@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "tag": "ae2:glass_cable"
+    },
+    "M": {
+      "item": "ue_addons:engineering_mechanism"
+    }
+  },
+  "pattern": [
+    "IIIII",
+    "RM   ",
+    "RIIII",
+    "RM   ",
+    "IIIII"
+  ],
+  "result": {
+    "item": "ae2:drive"
+  }
+}

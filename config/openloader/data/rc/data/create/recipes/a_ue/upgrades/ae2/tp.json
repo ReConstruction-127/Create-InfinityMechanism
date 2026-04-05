@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:advanced_card"
+    },
+    {
+      "item": "ue_addonsp2:teleport_driverexe"
+    },
+    {
+      "item": "ue_addons:forceexe"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:error_advanced_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "ue_addons:empty_programexe"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "item": "ue_addonsp2:noise_driverexe"
+      }
+    ],
+    "sequence": [{
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          },
+          {
+            "item": "minecraft:note_block"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          }
+        ]
+      },
+      {
+        "type":"vintageimprovements:laser_cutting",
+        "ingredients": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          }
+        ],
+        "results": [
+          {
+            "item": "ue_addonsp2:unfinish_noise_driverexe"
+          }
+        ],
+        "energy": 100,
+        "maxChargeRate": 100
+      }
+    ],
+    "transitionalItem": {
+      "item": "ue_addonsp2:unfinish_noise_driverexe"
+    }
+  }

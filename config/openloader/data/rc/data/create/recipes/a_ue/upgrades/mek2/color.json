@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:color_driverexe"
+        },
+        {
+            "item": "mekanism:hdpe_sheet"
+        },
+        {
+            "item": "mekanism:painting_machine"
+        },
+        {
+            "item": "mekanism:pigment_mixer"
+        },
+        {
+            "item": "mekanism:laser"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_color_modulation_unit",
+        "count": 1
+    }
+}

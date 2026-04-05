@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:protect_driverexe"
+        },
+        {
+            "item": "mekanism:hdpe_sheet"
+        },
+        {
+            "tag": "forge:storage_blocks/lead"
+        },
+        {
+            "item": "mekanism:alloy_infused"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_radiation_shielding_unit",
+        "count": 1
+    }
+}

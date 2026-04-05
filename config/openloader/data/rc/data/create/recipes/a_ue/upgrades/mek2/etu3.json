@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "mekanism:module_base"
+        },
+        {
+            "item": "ue_addonsp2:easy_to_use_driverexe"
+        },
+        {
+            "item": "mekanism:pellet_antimatter"
+        },
+        {
+            "item": "minecraft:nether_star"
+        },
+        {
+            "item": "mekanism:alloy_atomic"
+        },
+        {
+            "item": "mekanism:ultimate_induction_provider"
+        }
+    ],
+    "result": {
+        "item": "mekanism:module_gravitational_modulating_unit",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "create:turntable"
+  },
+  "base": {
+    "item": "ue_addons:brass_machine"
+  },
+  "result": {
+    "item": "create:clockwork_bearing"
+  },
+  "template": {
+    "item": "ue_addonsp2:precision_blueprint"
+  }
+}

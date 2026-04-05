@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+  	"A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "storagenetwork:kabel"
+    }
+  },
+  "result": {
+    "item": "ue_addons:network_upgrade_base"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "313",
+    "1 1",
+    "323"
+  ],
+  "key": {
+    "1": {
+      "item": "ue_addons:dark_brick"
+    },
+    "2": {
+      "item": "ue_addons:stone_mechanism"
+    },
+    "3": {
+      "item": "ue_addons:dark_bricks"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_chiller",
+    "count": 1
+  }
+}

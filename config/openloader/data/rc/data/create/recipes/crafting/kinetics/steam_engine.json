@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "minecraft:copper_block"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "item": "create:steam_engine"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:copper_block"
+                },
+                {
+                    "tag": "forge:plates/gold"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:copper_block"
+                },
+                {
+                    "item": "create:andesite_alloy"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:copper_block"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "minecraft:copper_block"
+    }
+}

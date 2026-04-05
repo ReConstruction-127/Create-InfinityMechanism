@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "base": {
+    "item": "thermal:machine_pulverizer"
+  },
+  "result": {
+    "item": "mekanism:crusher"
+  },
+  "template": {
+    "item": "ue_addonsp2:basic_mekanism_blueprint"
+  }
+}

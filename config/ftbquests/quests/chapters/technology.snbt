@@ -723,13 +723,12 @@
 	quest_links: [ ]
 	quests: [{
 		description: [
-			"Mail:&9Unknown_Entity_@outlook.com&r&r"
 			"Video:&bhttps://space.bilibili.com/3461572013853145&r"
 			"QQ:&c822637128&r"
 			"Modrinth:&ahttps://modrinth.com/user/Unknown_Entity_&r"
 			"MCMOD.cn:&3https://center.mcmod.cn/679430/#/home/&r"
 			"CurseForge:&6https://www.curseforge.com/members/UnknownEntity_cn/projects&r"
-			"Github:&7https://github.com/UnknownEntity-cn&r"
+			"Github:&7https://github.com/ReConstruction-127/Create-InfinityMechanism/&r"
 		]
 		id: "4D03065565000F1B"
 		tasks: [{

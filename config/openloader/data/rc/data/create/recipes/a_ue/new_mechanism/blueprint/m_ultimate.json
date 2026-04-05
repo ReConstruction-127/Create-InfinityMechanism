@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "mekanism:alloy_reinforced"
+    },
+    {
+      "item": "mekanism:alloy_reinforced"
+    },
+    {
+      "item": "ue_addons:ultimate_mekanism_mechanism"
+    },
+    {
+      "item": "ue_addons:ultimate_mekanism_mechanism"
+    },
+    {
+      "item": "mekanism:ingot_refined_obsidian"
+    },
+    {
+      "item": "mekanism:ultimate_control_circuit"
+    }
+  ],
+  "result": {
+    "item": "ue_addonsp2:ultimate_mekanism_blueprint",
+    "count": 1
+  }
+}

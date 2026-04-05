@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "modid": "mekanism"
+    }
+  ],
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "copper_ingot",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": "minecraft:copper_ingot"
+}

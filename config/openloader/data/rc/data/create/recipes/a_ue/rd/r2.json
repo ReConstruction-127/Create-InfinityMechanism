@@ -1,0 +1,64 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ue_addons:incomplete_resistor"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ue_addons:resistor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        },
+        {
+          "item": "createaddition:iron_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        },
+        {
+          "amount": 10,
+          "fluid": "thermal:resin",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_resistor"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_resistor"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"create:mechanical_crafting","key":{"A":{"tag":"forge:pellets/polonium"},"G":{"item":"ue_addonsp2:computer_components"},"I":{"tag":"forge:ingots/lead"},"T":{"item":"mekanism:teleportation_core"}},"pattern":["IAI","AGA","ITI"],"result":{"item":"mekanism:qio_dashboard"}}

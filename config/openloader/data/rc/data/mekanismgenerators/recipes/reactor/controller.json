@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"C":{"item":"ue_addons:ultimate_mekanism_mechanism"},"F":{"item":"mekanismgenerators:fusion_reactor_frame"},"G":{"tag":"forge:glass_panes"},"T":{"item":"mekanism:ultimate_chemical_tank"}},"pattern":["CGC","FTF","FFF"],"result":{"item":"mekanismgenerators:fusion_reactor_controller"}}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "B": {
+      "item": "ae2:fluix_block"
+    },
+    "P": {
+      "item": "mekanism:osmium_compressor"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "I B",
+    "IPI"
+  ],
+  "result": {
+    "item": "ae2:inscriber"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"item":"mekanismgenerators:turbine_casing"},"C":{"item":"ue_addons:advanced_mekanism_mechanism"}},"pattern":[" # ","#C#"," # "],"result":{"count":2,"item":"mekanismgenerators:turbine_valve"}}

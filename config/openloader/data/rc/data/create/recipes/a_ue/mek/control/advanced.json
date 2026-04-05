@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "mekanism:alloy_infused"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "mekanism:advanced_control_circuit"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_basic_control_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ue_addons:incomplete_advanced_control_circuit"
+        },
+        {
+          "item": "ue_addons:resistor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ue_addons:incomplete_advanced_control_circuit"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ue_addons:incomplete_advanced_control_circuit"
+  }
+}

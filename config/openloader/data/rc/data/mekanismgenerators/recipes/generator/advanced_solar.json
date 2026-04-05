@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "R": {
+        "item": "mekanism:ultimate_universal_cable"
+      },
+      "S": {
+        "item": "mekanismgenerators:solar_generator"
+      },
+      "A": {
+        "item": "mekanism:alloy_atomic"
+      }
+    },
+    "pattern": [
+      "SSRSS",
+      "  R  ",
+      "  R  ",
+      "  R  ",
+      " ACA "
+    ],
+    "result": {
+      "item": "mekanismgenerators:advanced_solar_generator"
+    }
+  }

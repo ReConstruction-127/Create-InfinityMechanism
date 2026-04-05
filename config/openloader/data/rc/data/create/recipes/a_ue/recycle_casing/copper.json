@@ -1,0 +1,30 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ue_addons:disused_copper_casing"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 16,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 3,
+      "item": "create:fluid_pipe"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "create:fluid_tank"
+    },
+    {
+      "chance": 0.3,
+      "count": 16,
+      "item": "create:copper_nugget"
+    }
+  ]
+}

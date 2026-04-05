@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+        {
+            "item": "ue_addons:copper_machine"
+        },
+        {
+            "item": "create:chute"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:portable_fluid_interface"
+        }
+    ]
+}

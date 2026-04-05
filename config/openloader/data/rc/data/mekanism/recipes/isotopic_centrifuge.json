@@ -1,0 +1,36 @@
+{
+    "type": "create:mechanical_crafting",
+    "key": {
+      "C": {
+        "item": "ue_addons:mekanism_machine"
+      },
+      "G": {
+        "item": "mekanism:structural_glass"
+      },
+      "I": {
+        "tag": "forge:ingots/steel"
+      },
+      "S": {
+        "tag": "forge:plates/lead"
+      },
+      "T": {
+        "item": "thermal:machine_centrifuge"
+      },
+      "A": {
+        "item": "mekanism:basic_chemical_tank"
+      },
+      "M": {
+        "item": "ue_addons:ultimate_mekanism_mechanism"
+      }
+    },
+    "pattern": [
+      "SSS",
+      "SGS",
+      "SAS",
+      "MTM",
+      "ICI"
+    ],
+    "result": {
+      "item": "mekanism:isotopic_centrifuge"
+    }
+  }

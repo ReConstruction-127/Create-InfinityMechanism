@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "createaddition:copper_spool"
+  },
+  "base": {
+    "item": "ue_addons:brass_machine"
+  },
+  "result": {
+    "item": "create:display_link"
+  },
+  "template": {
+    "item": "ue_addonsp2:precision_blueprint"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createaddition:creative_energy"
+    }
+  ],
+  "result": {
+    "item": "ae2:creative_energy_cell",
+    "count": 1
+  }
+}

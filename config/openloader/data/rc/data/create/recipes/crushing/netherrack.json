@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "chance": 0.2,
+      "item": "create:cinder_flour"
+    }
+  ]
+}

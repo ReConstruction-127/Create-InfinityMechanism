@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "ae2:spatial_pylon"
+    },
+    "b": {
+      "tag": "ae2:glass_cable"
+    },
+    "c": {
+      "item": "ae2:spatial_cell_component_128"
+    },
+    "d": {
+      "tag": "forge:plates/iron"
+    },
+    "e": {
+      "item": "ue_addons:engineering_mechanism"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "result": {
+    "item": "ae2:spatial_anchor"
+  },
+  "show_notification": true
+}

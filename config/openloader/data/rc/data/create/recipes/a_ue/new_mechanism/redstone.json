@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "amount": 100,
+      "fluid": "thermal:redstone",
+      "nbt": {}
+    }
+  ]
+}

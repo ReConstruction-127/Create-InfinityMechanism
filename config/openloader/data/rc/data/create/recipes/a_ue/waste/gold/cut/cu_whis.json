@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:steam_whistle"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "create:golden_sheet",
+      "count":1
+    }
+  ]
+}

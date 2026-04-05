@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:empyreal_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomesoplenty:stripped_empyreal_wood",
+      "count":1
+    }
+  ]
+}

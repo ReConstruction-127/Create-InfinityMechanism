@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mekanism:energy_tablet"
+  },
+  "base": {
+    "item": "ue_addons:mekanism_machine"
+  },
+  "result": {
+    "item": "mekanism:laser"
+  },
+  "template": {
+    "item": "ue_addonsp2:elite_mekanism_blueprint"
+  }
+}

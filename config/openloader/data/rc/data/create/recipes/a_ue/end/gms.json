@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    "2": {
+      "item": "create:creative_blaze_cake"
+    },
+    "3": {
+      "item": "create:creative_fluid_tank"
+    },
+    "4": {
+      "item": "create:creative_motor"
+    },
+    "5": {
+      "item": "mekanism:creative_chemical_tank"
+    },
+    "6": {
+      "item": "createaddition:creative_energy"
+    },
+    "7": {
+      "item": "create:creative_crate"
+    },
+    "8": {
+      "item": "minecraft:grass_block"
+    },
+    "9": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [
+    "187",
+    "296",
+    "345"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ue_addonsp2:game_mode_switcher"
+  },
+  "show_notification": true
+}

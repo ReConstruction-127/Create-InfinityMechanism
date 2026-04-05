@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "thermal:chiller_ball_cast",
+    "thermal:chiller_ingot_cast",
+    "thermal:chiller_rod_cast",
+    "ue_addons:mechanismcast",
+    "mekanism:pellet_polonium",
+    "mekanism:pellet_plutonium",
+    "mekanism:pellet_antimatter"
+  ]
+}

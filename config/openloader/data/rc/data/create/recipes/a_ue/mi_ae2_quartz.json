@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:certus_quartz_crystal"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "ae2:certus_quartz_dust"
+    }
+  ]
+}

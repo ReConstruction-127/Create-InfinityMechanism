@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:dusts/gold"
+  },
+  "result": [
+    {
+      "fluid": "ue_addons:au_f",
+      "amount": 1000
+    }
+  ],
+  "energy": 1000
+}

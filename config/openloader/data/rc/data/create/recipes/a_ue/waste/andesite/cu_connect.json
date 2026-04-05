@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:minecart_coupling"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "create:andesite_alloy",
+      "count":2
+    }
+  ]
+}

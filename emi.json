@@ -1,0 +1,18 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:dark_oak_stairs",
+    "item:create:creative_crate",
+    "item:mekanism:creative_bin",
+    "item:storagedrawers:creative_vending_upgrade",
+    "item:storagedrawers:creative_storage_upgrade"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
