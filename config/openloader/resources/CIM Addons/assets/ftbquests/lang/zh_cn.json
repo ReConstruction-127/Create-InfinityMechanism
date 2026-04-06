@@ -40,9 +40,9 @@
     "quest.cim.welcome.supported_languages.desc.0": "现在已支持以下语言：\n    - 简体中文\n    - English (United States)",
     "quest.cim.welcome.supported_languages.desc.1": "",
     "quest.cim.welcome.the_author.title": "作者",
-    "quest.cim.welcome.the_author.subtitle": "Unknown_Entity_",
+    "quest.cim.welcome.the_author.subtitle": "Re_Construction",
     "quest.cim.welcome.the_author.desc.0": "特别感谢：",
-    "quest.cim.welcome.the_author.desc.1": "    - MCreator，模组“UE Addons”的开发平台\n    - Blockbench，自定义纹理和模型的编辑器\n    - 秋水，任务书技术支持\n    - MF.、喔得天，服务端制作\n    - MF.，CF与MR格式整合包打包\n    - Sweet秋明，对整合包的特别支持\n    - 所有本整合包内其它模组的作者\n    - 所有在整合包开发阶段反馈BUG和提出建议的玩家",
+    "quest.cim.welcome.the_author.desc.1": "    - MCreator，模组“UE Addons”的开发平台\n    - Blockbench，自定义纹理和模型的编辑器\n    - 秋水，任务书技术支持\n    - MF.、喔得天，服务端制作\n    - 所有本整合包内其它模组的作者\n    - 所有在整合包开发阶段反馈BUG和提出建议的玩家",
     "quest.cim.welcome.done.title": "这就是全部了！",
     "quest.cim.welcome.done.desc0": "其他配方信息请参阅：杂项（特殊配方）",
 
@@ -63,7 +63,7 @@
     
     "quest.cim.iron.raw_iron.subtitle": "快去用你的熔炉把它烧成铁锭吧！ :D",
     "quest.cim.iron.dark_brick.subtitle": "你的熔炉被禁用了 :P",
-    "quest.cim.iron.stirling_dynamo.subtitle": "我们需要哪些它产出的东西？电力？不，热量！",
+    "quest.cim.iron.stirling_dynamo.subtitle": "我们假装这个发电机产出的是热量",
     "quest.cim.iron.magma_crucible.subtitle": "匠魂？！",
     "quest.cim.iron.iron_mechanism.subtitle": "用它右键这个铁块会发生什么——",
     
