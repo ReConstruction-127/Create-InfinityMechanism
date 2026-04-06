@@ -1318,7 +1318,7 @@
 			id: "72A55360F484B2D8"
 			tasks: [{
 				id: "48D4D13BB5C82955"
-				item: "ue_addons:ultimate_mekanism_mechanism"
+				item: "ue_addons:thermal_mechanism"
 				type: "item"
 			}]
 			x: -7.0d

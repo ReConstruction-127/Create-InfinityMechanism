@@ -6,7 +6,7 @@
       "tag": "forge:plates/iron"
     },
     "b": {
-      "item": "mekanismgenerators:heat_generator"
+      "item": "thermal:dynamo_magmatic"
     },
     "c": {
       "item": "ae2:energy_acceptor"

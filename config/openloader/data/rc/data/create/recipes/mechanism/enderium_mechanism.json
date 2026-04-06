@@ -6,38 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:enderium_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:enderium_ingot"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:enderium_nugget"
-    },
-    {
-      "chance": 5.0,
-      "item": "thermal:lumium_gear"
-    },
-    {
-      "chance": 3.0,
-      "item": "thermal:ender_pearl_dust"
-    },
-    {
-      "chance": 2.0,
-      "item": "thermal:enderium_coin"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:ender_pearl"
-    },
-    {
-      "item": "thermal:rf_coil"
-    },
-    {
-      "item": "thermal:enderium_gear"
     }
   ],
   "sequence": [

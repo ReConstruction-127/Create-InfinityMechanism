@@ -1,0 +1,34 @@
+
+#Stress Key Type settings
+[stress_key_type]
+	#Amount of stress units per AE2 operation (default: 16384)
+	#Range: > 1
+	amountPerOperation = 16384
+	#Amount of stress units per byte of storage (default: 1048576)
+	#Range: > 1
+	amountPerByte = 1048576
+
+#ME Gearbox settings
+[me_gearbox]
+	#Default RPM for export mode (default: 32)
+	#Range: 1 ~ 256
+	defaultSpeed = 32
+	#Default stress capacity/impact in SU (default: 64.0)
+	#Range: 0.0 ~ 65536.0
+	defaultStress = 64.0
+	#Maximum configurable stress in SU (default: 65536.0)
+	#Range: 1.0 ~ 1048576.0
+	maxStress = 65536.0
+
+#Kinetic Energy Acceptor settings
+[kinetic_energy_acceptor]
+	#AE power generated per tick at 256 RPM with 1x multiplier (default: 640.0)
+	#Range: 0.0 ~ 1000000.0
+	aePer256Rpm = 640.0
+	#Base stress impact in SU at max RPM (default: 16384)
+	#Range: > 0
+	baseStressSu = 16384
+	#Maximum scroll multiplier value (default: 16)
+	#Range: 1 ~ 256
+	maxMultiplier = 16
+

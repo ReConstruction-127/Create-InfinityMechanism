@@ -9494,6 +9494,14 @@
 			x: 44.5d
 			y: -1.5d
 		}
+		{
+			height: 20.0d
+			image: "ftbquests:textures/ftbmisc/removed.png"
+			rotation: 0.0d
+			width: 80.0d
+			x: 45.0d
+			y: -1.5d
+		}
 	]
 	order_index: 1
 	quest_links: [ ]

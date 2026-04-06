@@ -366,7 +366,7 @@
 			id: "02D087C365CA940B"
 			tasks: [{
 				id: "6C094C64FBB654CF"
-				item: "ue_addons:ultimate_mekanism_mechanism"
+				item: "ue_addons:thermal_mechanism"
 				type: "item"
 			}]
 			x: -1.5d

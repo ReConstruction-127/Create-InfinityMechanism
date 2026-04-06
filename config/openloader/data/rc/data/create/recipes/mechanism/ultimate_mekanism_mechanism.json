@@ -6,38 +6,8 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
-      "item": "ue_addons:ultimate_mekanism_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:ultimate_control_circuit"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:alloy_atomic"
-    },
-    {
-      "chance": 5.0,
-      "item": "mekanism:dust_steel"
-    },
-    {
-      "chance": 3.0,
-      "item": "mekanism:alloy_atomic"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:ultimate_tier_installer"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:enriched_refined_obsidian"
-    },
-    {
-      "item": "mekanism:ultimate_logistical_transporter"
-    },
-    {
-      "item": "mekanism:dust_refined_obsidian"
+      "item": "ue_addons:ultimate_mekanism_mechanism",
+      "count": 2
     }
   ],
   "sequence": [

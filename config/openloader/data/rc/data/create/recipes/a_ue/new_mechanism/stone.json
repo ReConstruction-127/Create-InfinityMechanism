@@ -1,1 +1,18 @@
-{"type":"mekanism:combining","extraInput":{"ingredient":{"amount":3,"item":"minecraft:cobblestone"}},"mainInput":{"amount":1,"ingredient":{"item":"ue_addons:wooden_mechanism"}},"output":{"item":"ue_addons:stone_mechanism"}}
+{
+    "type": "mekanism:combining",
+    "extraInput": {
+        "ingredient": {
+            "amount": 3,
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "mainInput": {
+        "amount": 1,
+        "ingredient": {
+            "item": "ue_addons:wooden_mechanism"
+        }
+    },
+    "output": {
+        "item": "ue_addons:stone_mechanism"
+    }
+}

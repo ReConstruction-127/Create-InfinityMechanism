@@ -1,1 +1,19 @@
-{"type":"mekanism:combining","extraInput":{"ingredient":{"amount":1,"item":"minecraft:andesite"}},"mainInput":{"amount":1,"ingredient":{"item":"create:zinc_nugget"}},"output":{"item":"create:andesite_alloy","count":2}}
+{
+    "type": "mekanism:combining",
+    "extraInput": {
+        "ingredient": {
+            "amount": 1,
+            "item": "minecraft:andesite"
+        }
+    },
+    "mainInput": {
+        "amount": 1,
+        "ingredient": {
+            "item": "create:zinc_nugget"
+        }
+    },
+    "output": {
+        "item": "create:andesite_alloy",
+        "count": 2
+    }
+}

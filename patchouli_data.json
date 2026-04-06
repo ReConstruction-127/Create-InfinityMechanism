@@ -1,5 +1,14 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "sebastrnlib:sebastrn_mods_guide_book": {
+      "viewedEntries": [
+        "sebastrnlib:applied_cooking/kitchen_station_entry",
+        "sebastrnlib:meloncube/promo_entry"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

@@ -6,39 +6,7 @@
   "loops": 2,
   "results": [
     {
-      "chance": 570.0,
-      "item": "ue_addons:wooden_mechanism",
-      "count":2
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:oak_slab"
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:oak_planks"
-    },
-    {
-      "chance": 5.0,
-      "item": "minecraft:stick"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:oak_stairs"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:oak_fence"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:oak_door"
-    },
-    {
-      "item": "minecraft:oak_sign"
-    },
-    {
-      "item": "minecraft:chiseled_bookshelf"
+      "item": "ue_addons:wooden_mechanism"
     }
   ],
   "sequence": [

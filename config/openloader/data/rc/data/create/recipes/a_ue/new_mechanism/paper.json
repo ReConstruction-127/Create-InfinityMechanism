@@ -1,1 +1,12 @@
-{"type":"mekanism:sawing","input":{"ingredient":{"item":"minecraft:sugar_cane"}},"mainOutput":{"count":4,"item":"minecraft:paper"}}
+{
+    "type": "mekanism:sawing",
+    "input": {
+        "ingredient": {
+            "item": "minecraft:sugar_cane"
+        }
+    },
+    "mainOutput": {
+        "count": 4,
+        "item": "minecraft:paper"
+    }
+}

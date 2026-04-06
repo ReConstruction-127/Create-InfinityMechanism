@@ -6,38 +6,8 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
-      "item": "ue_addons:elite_mekanism_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:elite_control_circuit"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:enriched_diamond"
-    },
-    {
-      "chance": 5.0,
-      "item": "mekanism:dust_steel"
-    },
-    {
-      "chance": 3.0,
-      "item": "mekanism:dust_diamond"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:elite_tier_installer"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:alloy_reinforced"
-    },
-    {
-      "item": "mekanism:elite_logistical_transporter"
-    },
-    {
-      "item": "minecraft:glowstone_dust"
+      "item": "ue_addons:elite_mekanism_mechanism",
+      "count": 2
     }
   ],
   "sequence": [

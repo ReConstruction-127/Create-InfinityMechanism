@@ -1,5 +1,6 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "key": {
     "I": {
       "tag": "forge:ingots/iron"
@@ -12,11 +13,9 @@
     }
   },
   "pattern": [
-    "IGGGI",
-    "G   G",
-    "G B G",
-    "G   G",
-    "IGGGI"
+    "IGI",
+    "GBG",
+    "IGI"
   ],
   "result": {
     "item": "ae2:condenser"

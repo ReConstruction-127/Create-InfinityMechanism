@@ -2394,12 +2394,6 @@
     },
     "done": true
   },
-  "petrolsparts:root": {
-    "criteria": {
-      "automatic": "2024-11-26 12:14:57 +0800"
-    },
-    "done": true
-  },
   "create_connected:root": {
     "criteria": {
       "0": "2024-11-26 12:14:57 +0800"
@@ -2582,6 +2576,18 @@
       "has_wit": "2025-01-31 16:15:27 +0800",
       "has_wpt": "2025-01-31 16:15:27 +0800",
       "has_wct": "2025-01-31 16:15:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "has_cobblestone": "2026-04-06 14:28:59 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2026-04-06 14:28:59 +0800"
     },
     "done": true
   },

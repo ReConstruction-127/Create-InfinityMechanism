@@ -6,38 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:gold_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:gold_ingot"
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:gold_nugget"
-    },
-    {
-      "chance": 5.0,
-      "item": "create:golden_sheet"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:clock"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:light_weighted_pressure_plate"
-    },
-    {
-      "chance": 2.0,
-      "item": "create:crushed_raw_gold"
-    },
-    {
-      "item": "create:steam_whistle"
-    },
-    {
-      "item": "ue_addons:au_f_bucket"
     }
   ],
   "sequence": [

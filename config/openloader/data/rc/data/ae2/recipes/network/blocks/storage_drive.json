@@ -1,5 +1,5 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "key": {
     "I": {
       "tag": "forge:plates/iron"
@@ -12,11 +12,9 @@
     }
   },
   "pattern": [
-    "IIIII",
-    "RM   ",
-    "RIIII",
-    "RM   ",
-    "IIIII"
+    "III",
+    "RM ",
+    "III"
   ],
   "result": {
     "item": "ae2:drive"

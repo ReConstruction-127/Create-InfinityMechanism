@@ -6,39 +6,8 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:structural_mechanism",
-      "count":4
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:electrolytic_core"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:hdpe_pellet"
-    },
-    {
-      "chance": 5.0,
-      "item": "mekanism:dirty_dust_lead"
-    },
-    {
-      "chance": 3.0,
-      "item": "mekanism:dirty_dust_copper"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:clump_osmium"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:enriched_iron"
-    },
-    {
-      "item": "mekanism:structural_glass"
-    },
-    {
-      "item": "mekanism:raw_osmium"
+      "count":16
     }
   ],
   "sequence": [

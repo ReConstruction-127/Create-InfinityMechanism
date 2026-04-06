@@ -2,7 +2,9 @@
 #2DC minecraft:deep_dark
 #008 minecraft:desert
 #614 minecraft:eroded_badlands
+#3B0 biomesoplenty:lush_desert
 #5FF minecraft:river
+#3AF minecraft:sparse_jungle
 #51A minecraft:stony_shore
 #2B7 minecraft:warm_ocean
 #1C9 minecraft:wooded_badlands

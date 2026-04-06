@@ -6,38 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:lead_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:lead_ingot"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:lead_nugget"
-    },
-    {
-      "chance": 5.0,
-      "item": "thermal:invar_gear"
-    },
-    {
-      "chance": 3.0,
-      "item": "create:crushed_raw_silver"
-    },
-    {
-      "chance": 2.0,
-      "item": "thermal:electrum_coin"
-    },
-    {
-      "chance": 2.0,
-      "item": "thermal:redstone_servo"
-    },
-    {
-      "item": "thermal:rf_coil"
-    },
-    {
-      "item": "thermal:electrum_gear"
     }
   ],
   "sequence": [

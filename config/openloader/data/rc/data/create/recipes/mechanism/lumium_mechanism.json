@@ -6,38 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:lumium_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:lumium_ingot"
-    },
-    {
-      "chance": 8.0,
-      "item": "thermal:lumium_nugget"
-    },
-    {
-      "chance": 5.0,
-      "item": "thermal:lumium_gear"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:glowstone_dust"
-    },
-    {
-      "chance": 2.0,
-      "item": "thermal:lumium_coin"
-    },
-    {
-      "chance": 2.0,
-      "item": "thermal:nickel_dust"
-    },
-    {
-      "item": "thermal:rf_coil"
-    },
-    {
-      "item": "thermal:lead_gear"
     }
   ],
   "sequence": [

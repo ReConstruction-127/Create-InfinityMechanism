@@ -6,38 +6,8 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
-      "item": "ue_addons:basic_mekanism_mechanism"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:basic_control_circuit"
-    },
-    {
-      "chance": 8.0,
-      "item": "mekanism:enriched_iron"
-    },
-    {
-      "chance": 5.0,
-      "item": "mekanism:dust_steel"
-    },
-    {
-      "chance": 3.0,
-      "item": "mekanism:dirty_dust_iron"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:basic_tier_installer"
-    },
-    {
-      "chance": 2.0,
-      "item": "mekanism:enriched_carbon"
-    },
-    {
-      "item": "mekanism:basic_logistical_transporter"
-    },
-    {
-      "item": "mekanism:dust_steel"
+      "item": "ue_addons:basic_mekanism_mechanism",
+      "count": 2
     }
   ],
   "sequence": [

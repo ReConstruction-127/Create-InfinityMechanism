@@ -6,19 +6,14 @@
 
 		[types.cake.thermal]
 			chocolate_cake = true
-			potion_cake = true
 			spice_cake = true
+			potion_cake = true
 
 		[types.cake.createaddition]
 			chocolate_cake = true
 			honey_cake = true
 
 	[types.wood_type]
-
-		[types.wood_type.xkdeco]
-			varnished = true
-			mahogany = true
-			ebony = true
 
 		[types.wood_type.biomesoplenty]
 			fir = true
@@ -37,6 +32,11 @@
 
 		[types.wood_type.thermal]
 			rubberwood = true
+
+		[types.wood_type.xkdeco]
+			varnished = true
+			mahogany = true
+			ebony = true
 
 	[types.leaves_type]
 
@@ -63,6 +63,9 @@
 			hellbark = true
 			empyreal = true
 
+		[types.leaves_type.thermal]
+			rubberwood = true
+
 		[types.leaves_type.xkdeco]
 			white_cherry_blossom = true
 			willow = true
@@ -72,9 +75,6 @@
 			red_maple = true
 			ginkgo = true
 			orange_maple = true
-
-		[types.leaves_type.thermal]
-			rubberwood = true
 
 #Disables specific entries
 [entries]

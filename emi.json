@@ -1,6 +1,232 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:ue_addons:forceexe",
+      "recipe": "jei:/create/a_ue/upgrades/0_drivers/force"
+    },
+    {
+      "stack": "item:mekanism:seismic_vibrator",
+      "recipe": "jei:/mekanism/seismic_vibrator"
+    },
+    {
+      "stack": "item:mekanismgenerators:advanced_solar_generator",
+      "recipe": "jei:/mekanismgenerators/generator/advanced_solar"
+    },
+    {
+      "stack": "item:mekanism:modification_station",
+      "recipe": "jei:/mekanism/modification_station"
+    },
+    {
+      "stack": "item:mekanism:digital_miner",
+      "recipe": "jei:/mekanism/digital_miner"
+    },
+    {
+      "stack": "item:mekanism:isotopic_centrifuge",
+      "recipe": "jei:/mekanism/isotopic_centrifuge"
+    },
+    {
+      "stack": "item:mekanism:metallurgic_infuser",
+      "recipe": "jei:/mekanism/metallurgic_infuser"
+    },
+    {
+      "stack": "item:mekanism:security_desk",
+      "recipe": "jei:/mekanism/security_desk"
+    },
+    {
+      "stack": "item:mekanism:rotary_condensentrator",
+      "recipe": "jei:/mekanism/rotary_condensentrator"
+    },
+    {
+      "stack": "item:mekanism:enrichment_chamber",
+      "recipe": "jei:/mekanism/enrichment_chamber"
+    },
+    {
+      "stack": "item:mekanism:solar_neutron_activator",
+      "recipe": "jei:/mekanism/solar_neutron_activator"
+    }
+  ],
   "lookup_history": [
+    "item:ue_addons:andsite_mechanism",
+    "item:storagenetwork:kabel",
+    "item:ae2:drive",
+    "item:mekanism:qio_drive_array",
+    "item:ae2:condenser",
+    "item:ae2:inscriber",
+    "item:ae2:engineering_processor",
+    "item:ue_addons:engineering_mechanism",
+    "item:ue_addons:calculation_mechanism",
+    "item:ue_addons:logic_mechanism",
+    "item:ue_addons:thermal_mechanism",
+    "item:ue_addons:antimatter_mechanism",
+    "item:ue_addons:nuclear_mechanism",
+    {
+      "type": "item",
+      "id": "ue_addons:ultimate_mekanism_mechanism",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "ue_addons:elite_mekanism_mechanism",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "ue_addons:advanced_mekanism_mechanism",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "ue_addons:basic_mekanism_mechanism",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "create:precision_mechanism",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "ue_addons:iron_mechanism",
+      "amount": 2
+    },
+    "item:ue_addons:stone_mechanism",
+    "item:ue_addons:wooden_mechanism",
+    "item:ae2:spatial_anchor",
+    "item:createaddition:creative_energy",
+    "item:create:creative_fluid_tank",
+    "item:ue_addonsp2:fluid_blueprint",
+    "item:create:mechanical_pump",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:antimatter",
+      "amount": 1000
+    },
+    "item:mekanism:pellet_antimatter",
+    "item:biomesoplenty:null_plant",
+    "item:ue_addons:structural_mechanism",
+    "item:thermal:sadiroot",
+    "item:thermal:spice_cake",
+    "item:storagenetwork:request",
+    "item:storagenetwork:inventory_remote",
+    "item:storagenetwork:collector_remote",
+    "item:storagenetwork:stock_upgrade",
+    "item:ue_addonsp2:stack_driverexe",
+    "item:ue_addonsp2:cloth",
+    "item:patchouli:guide_book{\"patchouli:book\":\"storagenetwork:network_book\"}",
+    "item:storagenetwork:builder_remote",
+    "item:storagenetwork:picker_remote",
+    "item:storagenetwork:crafting_remote",
+    "item:storagenetwork:single_upgrade",
+    "item:storagenetwork:operation_upgrade",
+    "item:storagenetwork:slow_upgrade",
+    "item:storagenetwork:speed_upgrade",
+    "item:storagenetwork:stack_upgrade",
+    "item:storagenetwork:collector",
+    "item:storagenetwork:exchange",
+    "item:storagenetwork:export_kabel",
+    "item:storagenetwork:filter_kabel",
+    "item:storagenetwork:import_filter_kabel",
+    "item:storagenetwork:import_kabel",
+    "item:storagenetwork:storage_kabel",
+    "item:storagenetwork:master",
+    "item:storagenetwork:inventory",
+    "item:minecraft:sponge",
+    "item:ue_addons:network_upgrade_base",
+    "item:ae2:cell_workbench",
+    "item:ae2:pattern_provider",
+    "item:ae2:interface",
+    "item:ae2:energy_cell{}",
+    "item:ae2:me_p2p_tunnel",
+    "item:ae2:item_p2p_tunnel",
+    "#item:ae2:p2p_attunements/item_p2p_tunnel",
+    "item:ae2:storage_bus",
+    "item:ae2:printed_engineering_processor",
+    "item:ae2:controller",
+    "item:vintageimprovements:vibrating_table",
+    "item:vintageimprovements:vacuum_chamber",
+    "item:vintageimprovements:spring_coiling_machine",
+    "item:createutilities:polished_amethyst",
+    "item:vintageimprovements:belt_grinder",
+    "item:create:cinder_flour",
+    "item:ae2:wireless_receiver",
+    {
+      "type": "item",
+      "id": "ae2:terminal",
+      "amount": 4
+    },
+    "item:ue_addons:me_machine",
+    "item:mekanism:formulaic_assemblicator",
+    "item:ue_addonsp2:crystal_mixtures",
+    "item:ue_addonsp2:unknown_ingot",
+    "item:ue_addons:empty_programexe",
+    {
+      "type": "item",
+      "id": "ue_addonsp2:meos",
+      "remainder": "item:ue_addonsp2:meos"
+    },
+    "item:ae2:energy_acceptor",
+    "item:ae2:memory_card",
+    "item:ae2:formation_core",
+    "item:biomesoplenty:anomaly",
+    "item:ae2:matter_ball",
+    "item:ae2:black_lumen_paint_ball",
+    "item:ue_addons:lumen_core",
+    "item:ue_addons:gold_mechanism",
+    "item:storagedrawers:oak_full_drawers_2",
+    "item:supplementaries:ash_bricks",
+    {
+      "type": "item",
+      "id": "supplementaries:ash_brick",
+      "amount": 32
+    },
+    "item:mekanism:laser_amplifier",
+    "item:mekanism:creative_energy_cube{mekData:{EnergyContainers:[{Container:0b,stored:\"18446744073709551615.9999\"}],componentConfig:{config0:{side0:4,side1:4,side2:4,side3:4,side4:4,side5:4}}}}",
+    "item:storagedrawers:oak_full_drawers_1",
+    "item:mekanism:resistive_heater",
+    "item:thermal:dynamo_output_augment",
+    "item:thermal:upgrade_augment_3",
+    "item:thermal:machine_press",
+    "item:mekanism:osmium_compressor",
+    "item:mekanismgenerators:heat_generator",
+    "item:ae2:vibration_chamber",
+    "item:mekanism:seismic_vibrator",
+    "item:mekanismgenerators:advanced_solar_generator",
+    "item:mekanism:modification_station",
+    "item:mekanism:digital_miner",
+    "item:mekanism:isotopic_centrifuge",
+    "item:mekanism:security_desk",
+    "item:mekanism:rotary_condensentrator",
+    "item:mekanism:enrichment_chamber",
+    "item:mekanism:solar_neutron_activator",
+    "item:ue_addons:mekanism_machine",
+    "item:mekanism:steel_casing",
+    "item:create:sturdy_sheet",
+    "item:ue_addonsp2:rail_way_sturdy_sheet",
+    "item:minecraft:furnace",
+    {
+      "type": "item",
+      "id": "ue_addonsp2:raw_ue",
+      "amount": 9
+    },
+    "item:mekanism:ultimate_universal_cable",
+    "item:ue_addons:disused_steel_casing",
+    "item:ue_addonsp2:ue_spawn_egg",
+    "item:ae2:fluix_crystal",
+    "item:ae2:charger",
+    "item:ae2:charged_certus_quartz_crystal",
+    "item:create:rose_quartz",
+    "item:create:polished_rose_quartz",
+    "item:ue_addons:infinity_mechanism",
+    "item:ue_addons:null_pointer_exception",
+    "item:ue_addonsp2:error_network_upgrade_base",
+    "item:ue_addons:forceexe",
+    "item:ue_addonsp2:precision_blueprint",
+    "item:ue_addonsp2:craftsman_blueprint",
+    "item:ue_addonsp2:antirust_core",
+    "item:ue_addonsp2:computer_components",
+    "item:ue_addonsp2:ultimate_mekanism_blueprint",
+    "item:ue_addonsp2:cim_icon",
+    "item:ue_addonsp2:cooked_ue",
     "item:minecraft:dark_oak_stairs",
     "item:create:creative_crate",
     "item:mekanism:creative_bin",

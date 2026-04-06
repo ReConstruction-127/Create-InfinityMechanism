@@ -86,9 +86,9 @@
 	handle_holder_item_size = 0.625
 	#Makes Torch and Lantern holding animation be fixed, not changing with player facing
 	fixed_holding_animations = false
+	#Prevents campfire smoke from rendering if there is a solid block above it
+	campfire_smoke_through_blocks = false
 	#A scalar multiplier that will be applied to sign text making it brighter, supposedly more legible
 	#Range: 0.0 ~ 5.0
 	sign_text_color_multiplier = 1.2
-	#Prevents campfire smoke from rendering if there is a solid block above it
-	campfire_smoke_through_blocks = false
 

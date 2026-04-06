@@ -6,39 +6,8 @@
   "loops": 1,
   "results": [
     {
-      "chance": 570.0,
       "item": "ue_addons:iron_mechanism",
       "count":2
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:iron_ingot"
-    },
-    {
-      "chance": 8.0,
-      "item": "minecraft:iron_nugget"
-    },
-    {
-      "chance": 5.0,
-      "item": "minecraft:flint_and_steel"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:compass"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:shears"
-    },
-    {
-      "chance": 2.0,
-      "item": "minecraft:iron_shovel"
-    },
-    {
-      "item": "create:metal_bracket"
-    },
-    {
-      "item": "ue_addons:iron_f_bucket"
     }
   ],
   "sequence": [

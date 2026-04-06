@@ -200,8 +200,8 @@
 		#Time for a cannon to be able to fire again after it has been fired
 		#Range: 0 ~ 500
 		cooldown = 60
-		cannonball = true
 		music_disc_heave_ho = true
+		cannonball = true
 
 	[functional.present]
 		enabled = true
@@ -239,8 +239,6 @@
 	sconce = true
 	sconce_lever = true
 	pancake = true
-	netherite_door = true
-	netherite_trapdoor = true
 	checker_block = true
 	raked_gravel = true
 	feather_block = true
@@ -251,6 +249,8 @@
 	candle_holder = true
 	fire_pit = true
 	wicker_fence = true
+	netherite_door = true
+	netherite_trapdoor = true
 
 	[building.blackboard]
 		enabled = true
@@ -651,8 +651,6 @@
 		enabled = true
 		#Allow slimeballs to be thrown
 		throwable_slimeballs = true
-		#Show a slime overlay when you hit an entity with a slimeball
-		overlay = true
 		#Thrown slimeballs will shortly nerf the player jump height. Disable if you don't want this effect as it can be quite powerful
 		#Allowed Values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
 		hinders_jump = "NORMAL_DIFFICULTY"
@@ -662,4 +660,6 @@
 		#Chance that a slime mob will apply slimed effect on successful attack. Multiplied by the slime size
 		#Range: 0.0 ~ 1.0
 		chance_per_slime_size = 0.15
+		#Show a slime overlay when you hit an entity with a slimeball
+		overlay = true
 

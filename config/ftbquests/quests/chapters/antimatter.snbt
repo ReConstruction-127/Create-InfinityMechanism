@@ -32,14 +32,6 @@
 		}
 		{
 			height: 1.0d
-			image: "vintageimprovements:block/vacuum_head"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -2.0d
-		}
-		{
-			height: 1.0d
 			image: "jei:textures/jei/atlas/gui/recipe_arrow_filled.png"
 			rotation: 180.0d
 			width: 1.375d
@@ -133,6 +125,14 @@
 			width: 1.0d
 			x: -0.5d
 			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/vabra.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
 		}
 	]
 	order_index: 1
