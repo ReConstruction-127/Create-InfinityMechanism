@@ -3,7 +3,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "ue_addons:raw_silicon"
+      "item": "ae2:silicon"
     },
     {
       "amount": 1000,

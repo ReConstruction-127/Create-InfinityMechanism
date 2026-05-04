@@ -15,30 +15,6 @@
 			y: -5.0d
 		}
 		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 17.5d
-			y: -5.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 16.65d
-			y: -5.05d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: 16.65d
-			y: -5.9d
-		}
-		{
 			height: 3.0d
 			image: "ftbquests:textures/ftbmisc/mixer.png"
 			rotation: 0.0d
@@ -453,6 +429,30 @@
 			width: 1.0d
 			x: 13.0d
 			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/casting/table_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:fluid/molten/alloy/cinderslime/camera"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.678571428571423d
+			y: -5.871428571428581d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/controller/melter_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.678571428571423d
+			y: -5.871428571428581d
 		}
 	]
 	order_index: 0

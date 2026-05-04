@@ -16,6 +16,6 @@
       "amount": 1000,
       "fluid": "mekanism:hydrogen_chloride"
     },
-    {      "item": "ae2:silicon"}
+    {      "item": "ue_addonsp4:si"}
   ]
 }

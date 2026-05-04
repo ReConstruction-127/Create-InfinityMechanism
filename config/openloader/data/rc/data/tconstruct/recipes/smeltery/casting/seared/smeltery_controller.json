@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "ue_addons:copper_mechanism"
+    },
+    "G": {
+      "item": "tconstruct:seared_melter"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "AGA",
+    "AAA"
+  ],
+  "result": {
+    "item": "tconstruct:smeltery_controller"
+  },
+  "show_notification": true
+}

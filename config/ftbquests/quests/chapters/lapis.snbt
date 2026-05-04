@@ -170,14 +170,6 @@
 			y: -3.0d
 		}
 		{
-			height: 1.0d
-			image: "crystal_clear:block/copper_clear_glass_casing"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: -3.0d
-		}
-		{
 			height: 3.0d
 			image: "ftbquests:textures/ftbmisc/deployer.png"
 			rotation: 0.0d
@@ -192,6 +184,14 @@
 			width: 1.0d
 			x: 5.0d
 			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "createdeco:block/palettes/windows/copper_window"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.0d
 		}
 	]
 	order_index: 4

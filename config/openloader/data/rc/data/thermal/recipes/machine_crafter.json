@@ -10,7 +10,7 @@
       "item": "thermal:machine_frame"
     },
     "I": {
-      "tag": "forge:gears/copper"
+      "item": "ue_addons:thermal_mechanism"
     },
     "P": {
       "item": "thermal:rf_coil"

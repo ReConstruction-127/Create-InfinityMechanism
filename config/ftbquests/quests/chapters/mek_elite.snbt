@@ -210,22 +210,6 @@
 			y: -6.5d
 		}
 		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -9.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -9.5d
-		}
-		{
 			height: 2.0d
 			image: "ftbquests:textures/ftbmisc/spout.png"
 			rotation: 0.0d
@@ -238,16 +222,8 @@
 			image: "thermal:item/resin_bucket"
 			rotation: 0.0d
 			width: 1.0d
-			x: -1.5d
-			y: -10.0d
-		}
-		{
-			height: 1.0d
-			image: "create:block/funnel/copper_funnel_frame"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -10.0d
+			x: -1.1714285714285637d
+			y: -8.914285714285718d
 		}
 		{
 			height: 3.0d
@@ -273,96 +249,6 @@
 			width: 1.0d
 			x: -4.5d
 			y: -7.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			order: 1
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -7.5d
-		}
-		{
-			height: 3.0d
-			image: "ftbquests:textures/ftbmisc/mixer.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -10.0d
-		}
-		{
-			height: 1.0d
-			image: "create:block/item_drain_side"
-			order: 1
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.0d
-			y: -7.5d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 90.0d
-			width: 1.0d
-			x: -6.5d
-			y: -7.5d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 90.0d
-			width: 1.0d
-			x: -7.25d
-			y: -7.5d
-		}
-		{
-			height: 0.5d
-			image: "ftbchunks:textures/faces/minecraft/blaze.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: -6.0d
-			y: -6.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:textures/misc/underwater.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -6.5d
-		}
-		{
-			height: 1.0d
-			image: "create_central_kitchen:block/blaze_stove_top"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -6.5d
-		}
-		{
-			height: 1.0d
-			image: "create:block/blaze_burner_flame_superheated_scroll"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -6.5d
-		}
-		{
-			height: 1.0d
-			image: "ftbteams:textures/add.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
-			y: -6.5d
-		}
-		{
-			height: 1.0d
-			image: "create:item/blaze_cake"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.0d
-			y: -6.5d
 		}
 		{
 			height: 3.0d
@@ -584,6 +470,728 @@
 			x: -5.0d
 			y: -6.5d
 		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/mixer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.0d
+		}
+		{
+			height: 0.5d
+			image: "ftbchunks:textures/faces/minecraft/blaze.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "create_central_kitchen:block/blaze_stove_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/blaze_burner_flame_superheated_scroll"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/blaze_cake"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -6.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/mixer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			height: 0.5d
+			image: "ftbchunks:textures/faces/minecraft/blaze.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "create_central_kitchen:block/blaze_stove_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/blaze_burner_flame_scroll"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/separate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/rotary.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/water_bucket"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1h.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.150000000000027d
+			y: -10.7392857142857d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -6.292857142857173d
+			y: -8.024999999999977d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1o.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.185714285714305d
+			y: -13.203571428571411d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -7.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 135.0d
+			width: 1.0d
+			x: -8.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -135.0d
+			width: 1.0d
+			x: -4.84047619047621d
+			y: -8.090476190476181d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1h.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1c.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.114285714285735d
+			y: -8.9892857142857d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2l.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.8285714285714434d
+			y: -8.9892857142857d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -9.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/rotary.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/separate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1c.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2l.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.167687074829914d
+			y: -9.504761904761892d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.984013605442158d
+			y: -9.341496598639445d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -11.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 135.0d
+			width: 1.0d
+			x: -12.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1n.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.807142857142843d
+			y: -11.491156462585003d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2a.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_controller"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.496598639455755d
+			y: -14.359863945578162d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_controller_on_led"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.496598639455755d
+			y: -14.359863945578162d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_valve"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.639455782312893d
+			y: -14.35986394557817d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1n.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2a.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.66564625850338d
+			y: -12.490306122448949d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1c.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.34421768707481d
+			y: -12.490306122448949d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2l.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.043197278911535d
+			y: -12.492857142857105d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.639455782312886d
+			y: -13.498639455782254d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.782312925170032d
+			y: -13.502721088435308d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.78231292517004d
+			y: -14.359863945578162d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.353741496598602d
+			y: -13.502721088435308d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.353741496598609d
+			y: -14.359863945578162d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.353741496598609d
+			y: -15.21700680272102d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.496598639455755d
+			y: -15.21700680272102d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.639455782312893d
+			y: -15.21700680272102d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.78231292517004d
+			y: -15.21700680272102d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.639455782312893d
+			y: -16.074149659863878d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.496598639455755d
+			y: -16.07414965986388d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.353741496598609d
+			y: -16.07414965986388d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.78231292517004d
+			y: -16.074149659863878d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -12.221088435374114d
+			y: -14.061394557823057d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -13.0d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.360544217687064d
+			y: -16.071088435374122d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.809523809523803d
+			y: -16.071088435374122d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/water_bucket"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_valve"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.482993197278894d
+			y: -15.20714285714283d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -135.0d
+			width: 1.0d
+			x: -14.0d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/thermal_evaporation_valve"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.802040816326503d
+			y: -16.060544217687056d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/fuelwood_heater/right_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -16.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/resistive_heater_sides"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -15.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -10.5d
+			y: -16.0d
+		}
+		{
+			height: 0.5d
+			image: "mekanismgenerators:item/solar_panel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -18.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/white_stained_glass_pane_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.5d
+			y: -17.5d
+		}
+		{
+			height: 0.8d
+			image: "mekanism:block/energized_smelter/bottom"
+			rotation: 0.0d
+			width: 0.8d
+			x: -15.5d
+			y: -16.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanismgenerators:item/solar_panel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -18.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanismgenerators:item/solar_panel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -18.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -45.0d
+			width: 1.0d
+			x: -15.0d
+			y: -16.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/coal"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -17.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/resistive_heater_led"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.317346938775486d
+			y: -15.548639455782293d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1s.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2i.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.781632653061195d
+			y: -7.002721088435365d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1c.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2l.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.210204081632625d
+			y: -7.002721088435365d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.087755102040795d
+			y: -6.737414965986382d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
@@ -642,27 +1250,8 @@
 		}
 		{
 			dependencies: [
-				"79C903D5E811E902"
-				"64D6F2DA54A51EB6"
-			]
-			id: "1E80FBCF6087DDED"
-			rewards: [{
-				id: "7F241179B07F20A7"
-				item: "ue_addons:tetrachlorosilane_bucket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "46361E228D177BC7"
-				item: "ue_addons:raw_silicon"
-				type: "item"
-			}]
-			x: -6.0d
-			y: -8.5d
-		}
-		{
-			dependencies: [
-				"1E80FBCF6087DDED"
 				"75EDCF88CBD8ECA6"
+				"059DD4F28254EC49"
 			]
 			icon: "ue_addons:incomplete_diode"
 			id: "2F09F4AEEE43775D"
@@ -674,26 +1263,6 @@
 			title: "{quest.cim.all.loops.1}"
 			x: -3.0d
 			y: -7.0d
-		}
-		{
-			id: "64D6F2DA54A51EB6"
-			tasks: [{
-				id: "50059F4A01AB662A"
-				item: "minecraft:sand"
-				type: "item"
-			}]
-			x: -8.0d
-			y: -8.5d
-		}
-		{
-			id: "79C903D5E811E902"
-			tasks: [{
-				id: "3E83ADECD19F4EB4"
-				item: "thermal:coal_coke"
-				type: "item"
-			}]
-			x: -7.0d
-			y: -9.5d
 		}
 		{
 			id: "2A16347F220B962C"
@@ -766,7 +1335,7 @@
 				title: "{check.cim.all}"
 				type: "checkmark"
 			}]
-			title: "{quest.cim.all.loops.2}"
+			title: "{quest.cim.all.loops.1}"
 			x: -2.5d
 			y: -2.5d
 		}
@@ -825,6 +1394,27 @@
 			}]
 			x: 5.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["147570CAAB0536BA"]
+			id: "059DD4F28254EC49"
+			tasks: [{
+				id: "79E6D3DB90D2C986"
+				item: "ue_addonsp4:si"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -8.0d
+		}
+		{
+			id: "147570CAAB0536BA"
+			tasks: [{
+				id: "0FE6A0C35F8B5D9A"
+				item: "ae2:silicon"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -8.0d
 		}
 	]
 	title: "{group.cim.mek_elite.title}"

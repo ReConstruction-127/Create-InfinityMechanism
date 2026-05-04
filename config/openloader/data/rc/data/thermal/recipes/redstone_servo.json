@@ -10,7 +10,7 @@
       "tag": "forge:rods/iron"
     },
     "R": {
-      "tag": "forge:dusts/redstone"
+      "item": "vintageimprovements:redstone_module"
     }
   },
   "result": {

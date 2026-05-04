@@ -8,70 +8,6 @@
 	images: [
 		{
 			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.0d
-			y: -2.25d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.85d
-			y: -3.1d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.85d
-			y: -2.25d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.85d
-			y: -4.0d
-		}
-		{
-			height: 3.0d
-			image: "ftbquests:textures/ftbmisc/mixer.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.0d
-			y: -5.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: -90.0d
-			width: 1.0d
-			x: -4.15d
-			y: -2.25d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.15d
-			y: -3.1d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.15d
-			y: -4.0d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/chute.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -167,22 +103,6 @@
 			width: 1.0d
 			x: 2.0d
 			y: -3.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -5.27d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -6.0d
 		}
 		{
 			height: 1.0d
@@ -473,6 +393,131 @@
 			x: -6.0d
 			y: 1.0d
 		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/controller/smeltery_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.542517006802704d
+			y: -3.2414965986394577d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.685374149659857d
+			y: -2.3843537414965965d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/casting/table_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.999659863945574d
+			y: -2.3557823129251716d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.542517006802711d
+			y: -2.3843537414965965d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/io/drain_front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.828231292516996d
+			y: -3.2414965986394577d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.68537414965985d
+			y: -3.2414965986394577d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.671428571428557d
+			y: -2.3843537414965965d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.399659863945551d
+			y: -2.3843537414966036d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.399659863945544d
+			y: -3.241496598639465d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/seared/bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.256802721088405d
+			y: -3.241496598639465d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.542517006802683d
+			y: -2.3843537414966036d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.399659863945537d
+			y: -2.3843537414966036d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.263945578231244d
+			y: -3.234353741496605d
+		}
+		{
+			alpha: 128
+			height: 1.0d
+			image: "tconstruct:block/black"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.811564625850309d
+			y: -3.2510204081632708d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/redstone_bucket"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.08435374149658514d
+			y: -4.892857142857153d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -485,8 +530,8 @@
 				type: "checkmark"
 			}]
 			title: " "
-			x: -5.85d
-			y: -5.0d
+			x: -8.5d
+			y: -4.5d
 		}
 		{
 			id: "7A5FB6FE327EEDB2"
@@ -495,8 +540,8 @@
 				item: "thermal:raw_nickel"
 				type: "item"
 			}]
-			x: -4.15d
-			y: -5.0d
+			x: -7.0d
+			y: -4.5d
 		}
 		{
 			dependencies: [
@@ -535,10 +580,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"70D7D50C635DEF26"
-				"4C67BF380FABB648"
-			]
+			dependencies: ["4C67BF380FABB648"]
 			id: "436B445C215303E6"
 			rewards: [{
 				id: "3504D6151D7F6873"
@@ -552,17 +594,6 @@
 			}]
 			x: -0.5d
 			y: -3.0d
-		}
-		{
-			icon: "minecraft:redstone"
-			id: "70D7D50C635DEF26"
-			tasks: [{
-				id: "62B60020E6CC6FD6"
-				type: "checkmark"
-			}]
-			title: " "
-			x: -0.5d
-			y: -7.0d
 		}
 		{
 			id: "555687533D2EBFD4"

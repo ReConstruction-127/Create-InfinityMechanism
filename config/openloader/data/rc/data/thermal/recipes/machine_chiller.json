@@ -1,23 +1,28 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "313",
-    "1 1",
-    "323"
+    " X ",
+    "YCY",
+    "IPI"
   ],
   "key": {
-    "1": {
-      "item": "ue_addons:dark_brick"
+    "C": {
+      "item": "thermal:machine_frame"
     },
-    "2": {
-      "item": "ue_addons:stone_mechanism"
+    "I": {
+      "item": "ue_addons:thermal_mechanism"
     },
-    "3": {
-      "item": "ue_addons:dark_bricks"
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:blue_ice"
+    },
+    "Y": {
+      "tag": "forge:ingots/tin"
     }
   },
   "result": {
-    "item": "thermal:machine_chiller",
-    "count": 1
+    "item": "thermal:machine_chiller"
   }
 }

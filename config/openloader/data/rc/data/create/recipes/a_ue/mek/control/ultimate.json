@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "mekanism:alloy_atomic"
   },
-  "loops": 2,
+  "loops": 1,
   "results": [
     {
       "item": "mekanism:ultimate_control_circuit"

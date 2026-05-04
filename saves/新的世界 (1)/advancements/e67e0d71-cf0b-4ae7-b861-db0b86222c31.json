@@ -101,12 +101,6 @@
     },
     "done": true
   },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/copper_clear_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
@@ -131,12 +125,6 @@
     },
     "done": true
   },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_clear_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
@@ -146,12 +134,6 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/brass_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
     },
     "done": true
   },
@@ -173,27 +155,9 @@
     },
     "done": true
   },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_clear_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/copper_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
     },
     "done": true
   },
@@ -203,63 +167,15 @@
     },
     "done": true
   },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/train_clear_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
     },
     "done": true
   },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/train_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/copper_clear_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/brass_clear_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_clear_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/copper_glass_scaffolding": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
-    },
-    "done": true
-  },
-  "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_glass_casing": {
-    "criteria": {
-      "has_valve": "2024-08-20 16:01:35 +0800"
     },
     "done": true
   },
@@ -386,12 +302,6 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-08-20 16:06:16 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
-    "criteria": {
-      "has_item": "2024-08-20 16:07:28 +0800"
     },
     "done": true
   },
@@ -869,12 +779,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_stairs": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
@@ -882,12 +786,6 @@
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_beam": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -929,27 +827,9 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
     },
     "done": true
   },
@@ -965,25 +845,7 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_layer": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_slope": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1007,18 +869,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-08-20 16:34:25 +0800"
@@ -1031,25 +881,7 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_block": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/copper_support": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1085,19 +917,7 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_slice": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1109,18 +929,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_wall": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
       "has_copper_ingot": "2024-08-20 16:34:25 +0800"
@@ -1128,18 +936,6 @@
     "done": true
   },
   "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_door": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1157,18 +953,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-08-20 16:34:25 +0800"
@@ -1176,12 +960,6 @@
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1199,25 +977,7 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_slab": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1301,19 +1061,7 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_ladder": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_board": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -1331,24 +1079,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/stonecutting/copycat_fence": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_byte": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_shaft": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2024-08-20 16:34:25 +0800"
@@ -1356,12 +1086,6 @@
     "done": true
   },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2024-08-20 16:34:25 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2024-08-20 16:34:25 +0800"
     },
@@ -2588,6 +2312,24 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2026-04-06 14:28:59 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-05-04 16:21:20 +0800"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-04 16:21:02 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-05-04 16:21:20 +0800"
     },
     "done": true
   },

@@ -7,7 +7,6 @@
 		[types.cake.thermal]
 			chocolate_cake = true
 			spice_cake = true
-			potion_cake = true
 
 		[types.cake.createaddition]
 			chocolate_cake = true
@@ -37,6 +36,12 @@
 			varnished = true
 			mahogany = true
 			ebony = true
+
+		[types.wood_type.tconstruct]
+			greenheart = true
+			skyroot = true
+			bloodshroom = true
+			enderbark = true
 
 	[types.leaves_type]
 
@@ -76,19 +81,15 @@
 			ginkgo = true
 			orange_maple = true
 
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
+
 #Disables specific entries
 [entries]
 
 	[entries.wood_type]
-
-		[entries.wood_type.storagedrawers]
-			full_drawers_2 = true
-			half_drawers_1 = true
-			full_drawers_4 = true
-			half_drawers_4 = true
-			trim = true
-			half_drawers_2 = true
-			full_drawers_1 = true
 
 		[entries.wood_type.decorative_blocks]
 			beam = true
@@ -102,4 +103,13 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
+
+		[entries.wood_type.storagedrawers]
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			trim = true
+			half_drawers_2 = true
+			full_drawers_1 = true
 

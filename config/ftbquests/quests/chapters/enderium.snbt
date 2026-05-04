@@ -31,70 +31,6 @@
 			y: 0.5d
 		}
 		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: -0.35d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -0.3d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: -90.0d
-			width: 1.0d
-			x: -1.65d
-			y: -0.3d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -1.15d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.65d
-			y: -1.15d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.65d
-			y: -2.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -2.0d
-		}
-		{
-			height: 3.0d
-			image: "ftbquests:textures/ftbmisc/mixer.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: -2.0d
-		}
-		{
 			height: 3.0d
 			image: "ftbquests:textures/ftbmisc/deployer.png"
 			order: -1
@@ -672,6 +608,14 @@
 			width: 1.0d
 			x: 4.5d
 			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_smelter_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.489285714285721d
+			y: -0.34285714285714164d
 		}
 	]
 	order_index: 4

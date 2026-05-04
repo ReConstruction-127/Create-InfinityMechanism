@@ -18,8 +18,8 @@
           "item": "ue_addons:incomplete_copper_mechanism"
         },
         {
-          "amount": 1000,
-          "fluid": "ue_addons:cu_f",
+          "amount": 90,
+          "fluid": "tconstruct:molten_copper",
           "nbt": {}
         }
       ],

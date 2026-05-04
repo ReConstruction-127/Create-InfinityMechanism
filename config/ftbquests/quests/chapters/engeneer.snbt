@@ -120,18 +120,10 @@
 		}
 		{
 			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -3.0d
-		}
-		{
-			height: 1.0d
 			image: "minecraft:item/redstone"
 			rotation: 0.0d
 			width: 1.0d
-			x: -0.5d
+			x: -1.0d
 			y: -3.5d
 		}
 		{
@@ -149,14 +141,6 @@
 			width: 1.0d
 			x: -3.0d
 			y: -3.5d
-		}
-		{
-			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.0d
-			y: -3.0d
 		}
 		{
 			height: 1.0d
@@ -357,6 +341,30 @@
 			width: 1.375d
 			x: -0.5d
 			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "expatternprovider:block/ex_inscriber_inside"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "expatternprovider:block/ex_inscriber_inside"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/engineering_processor_press"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.5d
 		}
 	]
 	order_index: 2

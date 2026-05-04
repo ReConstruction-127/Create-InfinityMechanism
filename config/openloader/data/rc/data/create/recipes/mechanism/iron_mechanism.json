@@ -18,8 +18,8 @@
           "item": "ue_addons:incomplete_iron_mechanism"
         },
         {
-          "amount": 1000,
-          "fluid": "ue_addons:iron_f",
+          "amount": 90,
+          "fluid": "tconstruct:molten_iron",
           "nbt": {}
         }
       ],

@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/cim.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/cim.png';
-S:custom_window_title = 'Create:Infinity Mechanism v2.0.0';
+S:custom_window_title = 'Create:Infinity Mechanism v2.1.0';
 S:custom_window_icon_16 = '/config/fancymenu/assets/cim16.png';
 
 

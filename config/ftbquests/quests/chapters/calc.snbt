@@ -160,14 +160,6 @@
 		}
 		{
 			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: 0.5d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/belt0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -216,14 +208,6 @@
 		}
 		{
 			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: 0.5d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/belt0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -240,22 +224,6 @@
 		}
 		{
 			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: 0.5d
-		}
-		{
-			height: 1.0d
-			image: "ae2:block/inscriber"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: 0.5d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/belt0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -267,7 +235,7 @@
 			image: "minecraft:item/redstone"
 			rotation: 0.0d
 			width: 1.0d
-			x: -6.0d
+			x: -6.5d
 			y: 0.0d
 		}
 		{
@@ -341,6 +309,30 @@
 			width: 1.0d
 			x: 1.0d
 			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "expatternprovider:block/ex_inscriber_inside"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "expatternprovider:block/ex_inscriber_inside"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/calculation_processor_press"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.0d
 		}
 	]
 	order_index: 1

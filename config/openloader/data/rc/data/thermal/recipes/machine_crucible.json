@@ -1,20 +1,28 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "111",
-    "1 1",
-    "121"
+    " X ",
+    "YCY",
+    "IPI"
   ],
   "key": {
-    "1": {
-      "item": "ue_addons:dark_bricks"
+    "C": {
+      "item": "thermal:machine_frame"
     },
-    "2": {
-      "item": "ue_addons:stone_mechanism"
+    "I": {
+      "item": "ue_addons:thermal_mechanism"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:magma_block"
+    },
+    "Y": {
+      "item": "minecraft:nether_bricks"
     }
   },
   "result": {
-    "item": "thermal:machine_crucible",
-    "count": 1
+    "item": "thermal:machine_crucible"
   }
 }

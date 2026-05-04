@@ -2,7 +2,7 @@
   "type": "create:mechanical_crafting",
   "key": {
     "#": {
-      "item": "mekanism:pellet_antimatter"
+      "item": "ue_addons:antimatter_mechanism"
     }
   },
   "pattern": [

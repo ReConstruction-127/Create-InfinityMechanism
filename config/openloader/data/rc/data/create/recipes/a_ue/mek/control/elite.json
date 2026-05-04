@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "mekanism:alloy_reinforced"
   },
-  "loops": 2,
+  "loops": 1,
   "results": [
     {
       "item": "mekanism:elite_control_circuit"

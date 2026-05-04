@@ -98,7 +98,7 @@
 		{
 			dependencies: ["60D589307F0D457C"]
 			description: [""]
-			icon: "thermal:machine_crucible"
+			icon: "thermal:device_rock_gen"
 			id: "414E4844DEB9B1D8"
 			rewards: [{
 				id: "0D21017AD41945CA"
@@ -189,7 +189,10 @@
 		}
 		{
 			dependencies: ["7486A04FDE5F6D50"]
-			description: ["{quest.cim.welcome.recycle.desc.0}"]
+			description: [
+				"{quest.cim.welcome.recycle.desc.0}"
+				"&4Removed.&r"
+			]
 			icon: "ue_addons:incomplete_wooden_mechanism"
 			id: "60D589307F0D457C"
 			rewards: [{
@@ -197,6 +200,7 @@
 				item: "minecraft:candle"
 				type: "item"
 			}]
+			subtitle: "Removed"
 			tasks: [{
 				id: "22E1DC4F76ABC4A1"
 				title: "{check.cim.all}"

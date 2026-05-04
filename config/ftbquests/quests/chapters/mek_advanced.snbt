@@ -146,22 +146,6 @@
 			y: -5.0d
 		}
 		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: -8.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: -7.5d
-		}
-		{
 			height: 2.0d
 			image: "ftbquests:textures/ftbmisc/spout.png"
 			rotation: 0.0d
@@ -182,16 +166,8 @@
 			image: "thermal:item/resin_bucket"
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.5d
-			y: -8.5d
-		}
-		{
-			height: 1.0d
-			image: "create:block/funnel/copper_funnel_frame"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: -8.5d
+			x: -5.142857142857139d
+			y: -7.303571428571431d
 		}
 		{
 			height: 3.0d
@@ -676,7 +652,7 @@
 				title: "{check.cim.all}"
 				type: "checkmark"
 			}]
-			title: "{quest.cim.all.loops.2}"
+			title: "{quest.cim.all.loops.1}"
 			x: -4.5d
 			y: -1.0d
 		}

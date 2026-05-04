@@ -13437,13 +13437,6 @@
     },
     "done": true
   },
-  "create_power_loader:recipes/misc/crafting/empty_andesite_chunk_loader": {
-    "criteria": {
-      "has_item": "2024-08-30 14:07:13 +0800",
-      "has_the_recipe": "2024-08-30 14:07:13 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2024-08-30 14:07:13 +0800",
@@ -37132,6 +37125,454 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2026-04-06 16:33:01 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-05-03 13:53:25 +0800"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-03 13:53:25 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-05-03 13:53:25 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-03 16:31:32 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2026-05-03 16:31:32 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2026-05-03 16:51:22 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2026-05-03 17:09:10 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2026-05-03 17:09:10 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2026-05-03 17:09:10 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-03 17:11:58 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/copper_table_cloth_clear": {
+    "criteria": {
+      "has_copper_table_cloth": "2026-05-03 17:25:24 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2026-05-03 17:49:39 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2026-05-03 17:52:06 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/item_hatch": {
+    "criteria": {
+      "has_item": "2026-05-03 17:52:06 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_facade_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-03 17:52:06 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2026-05-03 17:53:18 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-03 17:54:01 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/black_bricks": {
+    "criteria": {
+      "has_item": "2026-05-03 18:27:51 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/cyan_bricks": {
+    "criteria": {
+      "has_item": "2026-05-03 18:27:51 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/food/common/cheese_ingot_from_block": {
+    "criteria": {
+      "has_cheese": "2026-05-03 22:34:07 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/food/common/cheese_block_from_ingot": {
+    "criteria": {
+      "has_cheese": "2026-05-03 22:34:40 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2026-05-03 23:48:07 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2026-05-03 23:48:07 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2026-05-03 23:48:13 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2026-05-03 23:48:13 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2026-05-04 13:48:14 +0800",
+      "seared_heater": "2026-05-04 13:47:31 +0800",
+      "seared_table": "2026-05-03 23:48:17 +0800",
+      "seared_faucet": "2026-05-03 23:48:18 +0800",
+      "seared_melter": "2026-05-04 13:47:34 +0800"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_bars": "2026-05-04 13:40:59 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
+    "criteria": {
+      "has_item": "2026-05-04 13:47:14 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_facade_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-04 13:47:23 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/blaze": {
+    "criteria": {
+      "seared_fuel_tank": "2026-05-04 13:48:13 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/steel_nugget_blasting": {
+    "criteria": {
+      "has_item": "2026-05-04 14:14:05 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/steel_nugget_smelting": {
+    "criteria": {
+      "has_item": "2026-05-04 14:14:05 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2026-05-04 14:16:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2026-05-04 14:18:00 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2026-05-04 16:29:57 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/grass_block_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_cobblestone": {
+    "criteria": {
+      "has_item": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_path_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/mycelium_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2026-05-04 16:30:05 +0800"
     },
     "done": true
   },
