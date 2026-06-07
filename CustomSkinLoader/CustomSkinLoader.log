@@ -1,178 +1,56 @@
-[2026-05-03 21:59:32] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.22
-[2026-05-03 21:59:32] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader
-[2026-05-03 21:59:32] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
-[2026-05-03 21:59:32] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.15, Microsoft
-[2026-05-03 21:59:32] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Config File: E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\CustomSkinLoader.json
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.28
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 38
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2026-05-03 21:59:33] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2026-05-03 21:59:33] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-03 21:59:33] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-03 21:59:33] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2026-05-03 21:59:33] [Re_Construction/INFO] [CustomSkinLoader Core]: Payload: ["Re_Construction"]
-[2026-05-03 21:59:33] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 81)
-[2026-05-03 21:59:33] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: [ {
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.22
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.15, Microsoft
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Config File: E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-06-08 00:08:47] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.28
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 38
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-06-08 00:08:48] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-06-08 00:08:48] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
+[2026-06-08 00:08:48] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2026-06-08 00:08:48] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-06-08 00:08:48] [Re_Construction/INFO] [CustomSkinLoader Core]: Payload: ["Re_Construction"]
+[2026-06-08 00:08:48] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 81)
+[2026-06-08 00:08:48] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: [ {
   "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
   "name" : "Re_Construction"
 } ]
-[2026-05-03 21:59:33] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-03 21:59:34] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-03 21:59:34] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777816804)
-[2026-05-03 21:59:34] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
+[2026-06-08 00:08:48] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
+[2026-06-08 00:08:49] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
+[2026-06-08 00:08:49] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1780848549)
+[2026-06-08 00:08:49] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
   "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
   "name" : "Re_Construction",
   "properties" : [ {
     "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NzgxNjc3NDA2OSwKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDg0ODUxNzM1MywKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJjNTc5OTY4YzY0YzE3MTk3NDBmZDhjMmE0NTE0NjE4NzliMjM4MDAyNTc0ZmNlNDhmN2QxYTdjMzZhMWM3ZDQiCiAgICB9CiAgfQp9"
   } ],
   "profileActions" : [ ]
 }
-[2026-05-03 21:59:34] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-03 21:59:34] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777816804)
-[2026-05-03 22:22:44] [UnknownEntity_UE's skull/INFO] [CustomSkinLoader Core]: Loading UnknownEntity_UE's profile.
-[2026-05-03 22:22:44] [UnknownEntity_UE's skull/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-03 22:22:44] [UnknownEntity_UE's skull/INFO] [CustomSkinLoader Core]: Default profile will be used.
-[2026-05-03 22:22:44] [UnknownEntity_UE's skull/INFO] [CustomSkinLoader Core]: UnknownEntity_UE's profile loaded.
-[2026-05-03 22:22:44] [UnknownEntity_UE's skull/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/805fb75cd2891b6328980abd67994dc9fd89f0fe9f25fad0498ac135044c2026 , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26  , Expiry: 1777818194)
-[2026-05-04 13:31:18] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 13:31:18] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 13:31:18] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 13:31:19] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 13:31:19] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777872709)
-[2026-05-04 13:31:19] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg3MjY3NzYxNywKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 13:31:19] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 13:31:19] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777872709)
-[2026-05-04 15:50:00] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 15:50:00] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 15:50:00] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 15:50:01] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 15:50:01] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777881031)
-[2026-05-04 15:50:01] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg4MDk5OTcxNywKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 15:50:01] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 15:50:01] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777881031)
-[2026-05-04 16:21:20] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 16:21:20] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 16:21:20] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 16:21:20] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 16:21:20] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777882910)
-[2026-05-04 16:21:20] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg4Mjg3OTMxMCwKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 16:21:20] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 16:21:20] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777882910)
-[2026-05-04 16:24:53] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 16:24:53] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 16:24:53] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 16:24:54] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 16:24:54] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777883124)
-[2026-05-04 16:24:54] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg4MzA5MjYzMiwKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 16:24:54] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 16:24:54] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777883124)
-[2026-05-04 16:26:12] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 16:26:12] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 16:26:12] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 16:26:14] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 16:26:14] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777883204)
-[2026-05-04 16:26:14] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg4MzE3MzMxMSwKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 16:26:14] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 16:26:14] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777883204)
-[2026-05-04 16:26:59] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 16:26:59] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 16:26:59] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 16:27:00] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 16:27:00] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777883250)
-[2026-05-04 16:27:00] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg4MzIxOTMzOCwKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 16:27:00] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 16:27:00] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777883250)
-[2026-05-04 16:30:19] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 16:30:19] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 16:30:19] [Re_Construction/INFO] [CustomSkinLoader Core]: Default profile will be used.
-[2026-05-04 16:30:19] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 16:30:19] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777883449)
-[2026-05-04 18:40:21] [Re_Construction/INFO] [CustomSkinLoader Core]: Loading Re_Construction's profile.
-[2026-05-04 18:40:21] [Re_Construction/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2026-05-04 18:40:21] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/e67e0d71cf0b4ae7b861db0b86222c31'.
-[2026-05-04 18:40:21] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 813)
-[2026-05-04 18:40:21] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 813 , Path: 'E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\CustomSkinLoader\caches\da91f43c4de13b779b99a6956590968d28994082' , Expire: 1777891251)
-[2026-05-04 18:40:21] [Re_Construction/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "e67e0d71cf0b4ae7b861db0b86222c31",
-  "name" : "Re_Construction",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg5MTIyMDExMywKICAicHJvZmlsZUlkIiA6ICJlNjdlMGQ3MWNmMGI0YWU3Yjg2MWRiMGI4NjIyMmMzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZV9Db25zdHJ1Y3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2OTE5N2NmNjk1Njk3Y2M5ZWYxYmM5NGJkNzcxODllMGM1OGViMmJiM2VhYjc5NTljYWNmZjE0MTQ1YWQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNmYzMTkzZTc0Y2QxNmNkZDY2MzdkOWJhZTU0ODRlM2EzN2ZmMmExNGMyZDE1N2M2NTlhMDc4MTBiMWJkY2EiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-05-04 18:40:21] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
-[2026-05-04 18:40:21] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca  , Expiry: 1777891251)
+[2026-06-08 00:08:49] [Re_Construction/INFO] [CustomSkinLoader Core]: Re_Construction's profile loaded.
+[2026-06-08 00:08:49] [Re_Construction/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ff69197cf695697cc9ef1bc94bd77189e0c58eb2bb3eab7959cacff14145ad2d , Model: slim , CapeUrl: http://textures.minecraft.net/texture/2c579968c64c1719740fd8c2a451461879b238002574fce48f7d1a7c36a1c7d4  , Expiry: 1780848559)

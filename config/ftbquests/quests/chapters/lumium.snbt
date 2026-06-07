@@ -31,70 +31,6 @@
 			y: 0.5d
 		}
 		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: -0.25d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -0.3d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: -90.0d
-			width: 1.0d
-			x: -1.65d
-			y: -0.3d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.65d
-			y: -1.15d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -1.15d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.65d
-			y: -2.0d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.35d
-			y: -2.0d
-		}
-		{
-			height: 3.0d
-			image: "ftbquests:textures/ftbmisc/mixer.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: -2.0d
-		}
-		{
 			height: 3.0d
 			image: "ftbquests:textures/ftbmisc/deployer.png"
 			order: -1
@@ -286,42 +222,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			icon: "thermal:raw_tin"
-			id: "431584F3EE7D7232"
-			tasks: [{
-				id: "6623BDA1267BFBD0"
-				title: " "
-				type: "checkmark"
-			}]
-			x: -3.5d
-			y: -3.0d
-		}
-		{
-			id: "22941FB0F63A7324"
-			tasks: [{
-				id: "30B1AC996532A8F7"
-				item: "minecraft:glowstone_dust"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -3.0d
-		}
-		{
-			id: "71FCA978DEF122F9"
-			tasks: [{
-				id: "189A229144449ABC"
-				item: "thermal:silver_dust"
-				type: "item"
-			}]
-			x: -2.5d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"431584F3EE7D7232"
-				"22941FB0F63A7324"
-				"71FCA978DEF122F9"
-			]
 			id: "7F95F113311C1B98"
 			tasks: [{
 				id: "7E6D619160D1DD28"

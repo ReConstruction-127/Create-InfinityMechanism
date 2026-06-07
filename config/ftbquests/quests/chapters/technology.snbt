@@ -660,7 +660,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -7.5d
-			y: -1.0d
+			y: -1.5d
 		}
 		{
 			height: 3.0d
@@ -700,7 +700,7 @@
 			rotation: 0.0d
 			width: 2.0d
 			x: -11.0d
-			y: 5.5d
+			y: 5.0d
 		}
 		{
 			height: 2.0d
@@ -723,12 +723,11 @@
 	quest_links: [ ]
 	quests: [{
 		description: [
-			"Video:&bhttps://space.bilibili.com/3461572013853145&r"
-			"QQ:&c822637128&r"
-			"Modrinth:&ahttps://modrinth.com/user/Unknown_Entity_&r"
-			"MCMOD.cn:&3https://center.mcmod.cn/679430/#/home/&r"
-			"CurseForge:&6https://www.curseforge.com/members/UnknownEntity_cn/projects&r"
-			"Github:&7https://github.com/ReConstruction-127/Create-InfinityMechanism/&r"
+			"Video: &bhttps://space.bilibili.com/3461572013853145&r"
+			"QQ: &c822637128&r"
+			"MCMOD.cn: &3https://center.mcmod.cn/679430/#/home/&r"
+			"CurseForge: &6https://www.curseforge.com/members/UnknownEntity_cn/projects&r"
+			"Github: &7https://github.com/ReConstruction-127/Create-InfinityMechanism/&r"
 		]
 		id: "4D03065565000F1B"
 		tasks: [{

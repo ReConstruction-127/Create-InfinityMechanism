@@ -152,30 +152,6 @@
 		}
 		{
 			height: 1.0d
-			image: "thermal:block/machines/machine_chiller_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.0d
-			y: 1.5d
-		}
-		{
-			height: 1.0d
-			image: "thermal:item/chiller_ingot_cast"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: 3.0d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.0d
-			y: 2.5d
-		}
-		{
-			height: 1.0d
 			image: "mekanism:block/enrichment_chamber/front_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -510,6 +486,38 @@
 			x: -9.5d
 			y: 7.0d
 		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/controller/smeltery_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:block/smeltery/casting/table_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "tconstruct:item/cast/ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ingot_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -727,7 +735,7 @@
 		}
 		{
 			dependencies: ["3C856608D778B90E"]
-			icon: "ue_addons:uf_bucket"
+			icon: "tconstruct:molten_uranium_bucket"
 			id: "100CBE2D3249B99F"
 			tasks: [{
 				id: "03E8B0940BD78F92"

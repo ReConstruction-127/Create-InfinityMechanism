@@ -200,7 +200,7 @@
 		}
 		{
 			height: 1.0d
-			image: "ue_addons:block/iron_still"
+			image: "tconstruct:fluid/molten/ore/iron/camera"
 			rotation: 0.0d
 			width: 1.0d
 			x: 13.5d

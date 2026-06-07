@@ -270,6 +270,7 @@
 #E7F264 minecraft:flower_pot
 #E66556 minecraft:flowering_azalea_leaves
 #DC0D87 create:fluid_pipe
+#335518 industrial_platform:fluid_pool
 #DDC0C3 create:fluid_tank
 #C3AD5F create:fluid_valve
 #C41B85 create_connected:fluid_vessel
@@ -734,6 +735,7 @@
 #C8756D biomesoplenty:willow_door
 #A6AC99 biomesoplenty:willow_log
 #79C917 create:windmill_bearing
+#B75DE3 minecraft:yellow_concrete
 #5D990B createdeco:yellow_industrial_iron_lamp
 #ED880B biomesoplenty:yellow_maple_leaves
 #CC6A83 minecraft:yellow_terracotta

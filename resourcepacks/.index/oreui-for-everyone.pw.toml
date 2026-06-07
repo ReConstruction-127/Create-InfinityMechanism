@@ -1,0 +1,18 @@
+filename = 'OreUI For Everyone 1.0.zip'
+name = 'OreUI For Everyone'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OreUI For Everyone 1.0'
+
+[download]
+hash = '6d0a5bc1bfcf8ccf0e04335f5efdab88fdca7f17'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7873420
+project-id = 1504389

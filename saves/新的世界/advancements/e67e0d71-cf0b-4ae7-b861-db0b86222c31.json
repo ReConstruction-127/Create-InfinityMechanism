@@ -37576,5 +37576,263 @@
     },
     "done": true
   },
+  "industrial_platform:recipes/tools/platform": {
+    "criteria": {
+      "stone": "2026-06-08 00:04:23 +0800"
+    },
+    "done": true
+  },
+  "industrial_platform:recipes/tools/pool": {
+    "criteria": {
+      "stone": "2026-06-08 00:04:23 +0800"
+    },
+    "done": true
+  },
+  "industrial_platform:recipes/tools/platform_2": {
+    "criteria": {
+      "stone": "2026-06-08 00:04:23 +0800"
+    },
+    "done": true
+  },
+  "industrial_platform:recipes/tools/pool_2": {
+    "criteria": {
+      "stone": "2026-06-08 00:04:23 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/tuff_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/purple_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/dripstone_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/light_blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/yellow_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/magenta_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/turquoise_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/scorchia_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/maroon_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/red_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/empty_paint_pitcher": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/diorite_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/black_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/sea_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/olive_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/cyan_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/limestone_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/orange_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/vermilion_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/chartreuse_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/granite_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/red_tiles": {
+    "criteria": {
+      "has_item": "2026-06-08 00:11:04 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/pink_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/gray_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/light_gray_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/brown_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/white_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/lime_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/ochrum_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/pine_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/royal_blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

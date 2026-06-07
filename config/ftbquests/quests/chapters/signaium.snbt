@@ -59,70 +59,6 @@
 		}
 		{
 			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/basin.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.0d
-			y: -1.75d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.85d
-			y: -1.85d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/pipe2.png"
-			rotation: -90.0d
-			width: 1.0d
-			x: -1.15d
-			y: -1.85d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.15d
-			y: -2.7d
-		}
-		{
-			height: 1.0d
-			image: "thermal:block/machines/machine_crucible_active"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.85d
-			y: -2.7d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.15d
-			y: -3.55d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:textures/ftbmisc/chute.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.85d
-			y: -3.55d
-		}
-		{
-			height: 3.0d
-			image: "ftbquests:textures/ftbmisc/mixer.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.0d
-			y: -3.5d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/belt1.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -283,32 +219,6 @@
 			y: -2.0d
 		}
 		{
-			id: "0F1AFFB7EA082EBE"
-			tasks: [{
-				id: "7034ADE16C1552D8"
-				item: "thermal:silver_dust"
-				type: "item"
-			}]
-			x: -2.0d
-			y: -4.5d
-		}
-		{
-			icon: "minecraft:raw_copper"
-			id: "07E971831E22C02A"
-			tasks: [{
-				id: "70FAA982FA53CA34"
-				type: "checkmark"
-			}]
-			title: " "
-			x: -3.0d
-			y: -4.5d
-		}
-		{
-			dependencies: [
-				"082BC081DB0E21C6"
-				"07E971831E22C02A"
-				"0F1AFFB7EA082EBE"
-			]
 			id: "1880A50060DAA037"
 			tasks: [{
 				id: "0F76D60C546D2140"
@@ -345,17 +255,6 @@
 			}]
 			x: 6.0d
 			y: 1.5d
-		}
-		{
-			icon: "minecraft:redstone"
-			id: "082BC081DB0E21C6"
-			tasks: [{
-				id: "65598F313F7ED2AA"
-				type: "checkmark"
-			}]
-			title: " "
-			x: -1.0d
-			y: -4.5d
 		}
 		{
 			dependencies: [

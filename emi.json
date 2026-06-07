@@ -1,28 +1,133 @@
 {
-  "favorites": [
-    {
-      "stack": "item:tconstruct:seared_melter"
-    },
-    {
-      "stack": "item:tconstruct:scorched_alloyer"
-    },
-    {
-      "stack": "item:tconstruct:smeltery_controller"
-    },
-    {
-      "stack": "item:tconstruct:foundry_controller"
-    },
-    {
-      "stack": "item:tconstruct:steel_cluster"
-    },
-    {
-      "stack": "item:thermal:machine_pyrolyzer"
-    },
-    {
-      "stack": "item:thermal:machine_crucible"
-    }
-  ],
+  "favorites": [],
   "lookup_history": [
+    "item:industrial_platform:industrial_platform",
+    "item:industrial_platform:fluid_pool",
+    "item:thermal:machine_crucible{BlockEntityTag:{Energy:0,EnergyMax:50000,EnergyRecv:800,EnergySend:800,RSControl:{RSMode:0b,RSThreshold:0b},Sides:[B;0B,0B,0B,0B,0B,0B],Xfer:{XferIn:0b,XferOut:0b}}}",
+    "item:thermal:enderium_ingot",
+    "item:mekanism:pellet_polonium",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:fissile_fuel"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:uranium_hexafluoride",
+      "amount": 2
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:uranium_oxide",
+      "amount": 250
+    },
+    {
+      "type": "item",
+      "id": "mekanism:yellow_cake_uranium",
+      "amount": 2
+    },
+    "item:mekanism:ingot_uranium",
+    {
+      "type": "fluid",
+      "id": "tconstruct:molten_uranium",
+      "amount": 90
+    },
+    "item:mekanism:dust_uranium",
+    "item:mekanism:dirty_dust_uranium",
+    "item:mekanism:clump_uranium",
+    "item:mekanism:shard_uranium",
+    "item:mekanism:crystal_uranium",
+    {
+      "type": "jemi",
+      "uid": "slurry:mekanism:clean_uranium"
+    },
+    {
+      "type": "jemi",
+      "uid": "slurry:mekanism:dirty_uranium",
+      "amount": 2000
+    },
+    "item:create:crushed_raw_uranium",
+    "item:mekanism:deepslate_uranium_ore",
+    "item:ue_addons:incomplete_iron_mechanism",
+    "item:ue_addons:incomplete_copper_mechanism",
+    "item:ue_addons:gold_mechanism",
+    {
+      "type": "fluid",
+      "id": "ue_addons:au_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:zn_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:ni_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:sn_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:pb_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:uf",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:os_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:cu_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:iron_f",
+      "amount": 0
+    },
+    "item:nethersdelight:diamond_machete{Damage:0}",
+    "item:nethersdelight:netherite_machete{Damage:0}",
+    "item:vintageimprovements:redstone_module",
+    "item:thermal:cured_rubber",
+    "item:ue_addons:copper_mechanism",
+    "item:tconstruct:smeltery_controller",
+    "item:thermal:redstone_servo",
+    "item:thermal:device_tree_extractor",
+    {
+      "type": "fluid",
+      "id": "thermal:latex",
+      "amount": 50
+    },
+    "item:thermal:rubber",
+    "item:create:brass_ingot",
+    {
+      "type": "fluid",
+      "id": "tconstruct:molten_brass",
+      "amount": 90
+    },
+    "item:create:andesite_alloy",
+    "item:vintageimprovements:andesite_sheet",
+    "item:createdeco:andesite_sheet",
+    "item:thermal:signalum_ingot",
+    "item:ue_addons:iron_f_bucket",
+    "item:ue_addons:au_f_bucket",
+    {
+      "type": "fluid",
+      "id": "tconstruct:molten_silver",
+      "amount": 0
+    },
+    "item:tconstruct:molten_gold_bucket",
+    "item:ue_addons:pb_f_bucket",
     "item:tconstruct:foundry_controller",
     "item:ue_addonsp2:cim_icon",
     {
@@ -36,16 +141,7 @@
     "item:ue_addonsp2:error_module_base",
     "item:mekanism:block_raw_uranium",
     "item:mekanism:raw_uranium",
-    {
-      "type": "fluid",
-      "id": "tconstruct:molten_uranium",
-      "amount": 90
-    },
-    "item:mekanism:ingot_uranium",
-    "item:mekanism:clump_uranium",
-    "item:mekanism:dust_uranium",
     "item:mekanism:nugget_uranium",
-    "item:create:crushed_raw_uranium",
     "item:ue_addons:structural_mechanism",
     "item:mekanismgenerators:advanced_solar_generator",
     "item:mekanismgenerators:solar_panel",
@@ -118,7 +214,6 @@
       "id": "thermal:redstone",
       "amount": 100
     },
-    "item:thermal:machine_crucible",
     "item:mekanism:ingot_steel",
     "item:tconstruct:cobalt_ore",
     {
@@ -132,9 +227,7 @@
       "amount": 90
     },
     "item:tconstruct:steel_ingot",
-    "item:thermal:enderium_ingot",
     "item:ue_addons:enderium_mechanism",
-    "item:thermal:signalum_ingot",
     "item:thermal:machine_smelter",
     "item:tconstruct:molten_iron_bucket",
     "item:thermal:rf_coil",
@@ -162,60 +255,7 @@
       "type": "jemi",
       "uid": "tconstruct:shield_strap"
     },
-    "item:create:andesite_alloy",
-    {
-      "type": "fluid",
-      "id": "ue_addons:au_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:zn_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:ni_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:sn_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:pb_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:uf",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:os_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:cu_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:iron_f",
-      "amount": 0
-    },
-    "item:ue_addons:iron_f_bucket",
     "item:minecraft:bucket",
-    "item:ue_addons:incomplete_copper_mechanism",
-    {
-      "type": "item",
-      "id": "ue_addons:copper_mechanism",
-      "amount": 2
-    },
     {
       "type": "fluid",
       "id": "tconstruct:molten_copper",
@@ -229,7 +269,6 @@
       "id": "tconstruct:molten_iron",
       "amount": 0
     },
-    "item:ue_addons:incomplete_iron_mechanism",
     "item:minecraft:command_block",
     "item:mekanism:ultimate_control_circuit",
     "item:mekanism:elite_control_circuit",
@@ -237,7 +276,6 @@
     "item:minecraft:furnace",
     "item:tconstruct:seared_brick",
     "item:tconstruct:seared_fuel_gauge",
-    "item:tconstruct:smeltery_controller",
     "item:tconstruct:scorched_alloyer",
     "item:tconstruct:greenheart_trapdoor",
     "item:everycomp:fd/tconstruct/greenheart_cabinet",
@@ -882,7 +920,6 @@
       "amount": 3
     },
     "item:ae2:inscriber",
-    "item:thermal:redstone_servo",
     "item:thermal:machine_frame",
     "item:thermal:machine_press",
     "item:farmersdelight:acacia_cabinet",
@@ -910,7 +947,6 @@
       "id": "ue_addons:dark_bricks",
       "amount": 64
     },
-    "item:vintageimprovements:redstone_module",
     "item:create_connected:redstone_link_wildcard",
     "item:ue_addons:thermal_mechanism",
     "item:ue_addons:dark_brick",
@@ -995,7 +1031,6 @@
       "id": "create:precision_mechanism",
       "amount": 2
     },
-    "item:ue_addons:gold_mechanism",
     "item:supplementaries:timber_brace",
     "item:storagenetwork:kabel",
     "item:ae2:drive",
