@@ -1,6 +1,37 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:redstone_torch",
+    "item:vintageimprovements:redstone_module",
+    "item:minecraft:cut_copper_stairs",
+    "item:create:brass_ingot",
+    "item:ue_addons:iron_mechanism",
+    {
+      "type": "fluid",
+      "id": "ue_addons:pb_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:iron_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:au_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:os_f",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ue_addons:sn_f",
+      "amount": 0
+    },
+    "item:ue_addons:os_f_bucket",
     "item:industrial_platform:industrial_platform",
     "item:industrial_platform:fluid_pool",
     "item:thermal:machine_crucible{BlockEntityTag:{Energy:0,EnergyMax:50000,EnergyRecv:800,EnergySend:800,RSControl:{RSMode:0b,RSThreshold:0b},Sides:[B;0B,0B,0B,0B,0B,0B],Xfer:{XferIn:0b,XferOut:0b}}}",
@@ -52,11 +83,6 @@
     "item:ue_addons:gold_mechanism",
     {
       "type": "fluid",
-      "id": "ue_addons:au_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
       "id": "ue_addons:zn_f",
       "amount": 0
     },
@@ -67,22 +93,7 @@
     },
     {
       "type": "fluid",
-      "id": "ue_addons:sn_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:pb_f",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
       "id": "ue_addons:uf",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ue_addons:os_f",
       "amount": 0
     },
     {
@@ -90,14 +101,8 @@
       "id": "ue_addons:cu_f",
       "amount": 0
     },
-    {
-      "type": "fluid",
-      "id": "ue_addons:iron_f",
-      "amount": 0
-    },
     "item:nethersdelight:diamond_machete{Damage:0}",
     "item:nethersdelight:netherite_machete{Damage:0}",
-    "item:vintageimprovements:redstone_module",
     "item:thermal:cured_rubber",
     "item:ue_addons:copper_mechanism",
     "item:tconstruct:smeltery_controller",
@@ -109,7 +114,6 @@
       "amount": 50
     },
     "item:thermal:rubber",
-    "item:create:brass_ingot",
     {
       "type": "fluid",
       "id": "tconstruct:molten_brass",
@@ -242,11 +246,6 @@
     {
       "type": "item",
       "id": "ue_addons:andsite_mechanism",
-      "amount": 2
-    },
-    {
-      "type": "item",
-      "id": "ue_addons:iron_mechanism",
       "amount": 2
     },
     "item:ue_addons:stone_mechanism",

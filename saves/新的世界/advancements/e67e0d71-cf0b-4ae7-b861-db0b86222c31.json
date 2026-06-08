@@ -37750,12 +37750,6 @@
     },
     "done": true
   },
-  "xkdeco:recipes/building_blocks/red_tiles": {
-    "criteria": {
-      "has_item": "2026-06-08 00:11:04 +0800"
-    },
-    "done": true
-  },
   "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2026-06-08 00:10:41 +0800"
@@ -37831,6 +37825,18 @@
   "railways:recipes/misc/crafting/palettes/windows/royal_blue_single_pane_locometal_window": {
     "criteria": {
       "has_item": "2026-06-08 00:10:41 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/red_tiles": {
+    "criteria": {
+      "has_item": "2026-06-08 00:11:04 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/pattern": {
+    "criteria": {
+      "has_item": "2026-06-08 11:44:26 +0800"
     },
     "done": true
   },

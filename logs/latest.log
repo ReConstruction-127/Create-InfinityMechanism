@@ -2713,3 +2713,1068 @@ Out of resource error.
 [08Jun2026 11:32:45.874] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/util/rendering/ui/menubar/v2/MenuBar$Side
 [08Jun2026 11:32:45.916] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/customization/overlay/DebugOverlay$LinePosition
 [08Jun2026 11:32:45.926] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/util/rendering/ui/tooltip/Tooltip$TooltipTextAlignment
+[08Jun2026 11:37:32.829] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: select_world_screen
+[08Jun2026 11:37:32.870] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[08Jun2026 11:37:32.872] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[08Jun2026 11:37:33.040] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/LevelSummary$BackupStatus
+[08Jun2026 11:37:34.407] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: generic_dirt_message_screen
+[08Jun2026 11:37:34.409] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/util/rendering/ui/widget/TextWidget$TextAlignment
+[08Jun2026 11:37:34.663] [Render thread/INFO] [com.simibubi.create.Create/]: Created 405 recipes which will be injected into the game
+[08Jun2026 11:37:34.669] [Render thread/INFO] [com.simibubi.create.Create/]: Created 9 tags which will be injected into the game
+[08Jun2026 11:37:35.241] [Render thread/INFO] [Open Loader/]: Preparing Data Pack injection.
+[08Jun2026 11:37:35.242] [Render thread/INFO] [Open Loader/]: Loaded folder Data Pack from E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\config\openloader\data\rc.
+[08Jun2026 11:37:35.242] [Render thread/INFO] [Open Loader/]: Successfully injected 1/1 packs from E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\config\openloader\data.
+[08Jun2026 11:37:35.331] [Render thread/INFO] [Moonlight/]: Starting runtime resource generation for pack type SERVER_DATA with generators from mods [supplementaries, moonlight, everycomp, everycomp, amendments, supplementaries]: [net.mehvahdjukaar.supplementaries.dynamicpack.ServerDynamicResourcesGenerator@1d21a091, net.mehvahdjukaar.every_compat.dynamicpack.ServerDynamicResourcesHandler@22a27f65]
+[08Jun2026 11:37:35.331] [Render thread/INFO] [Moonlight/]: Generating runtime assets for pack Supplementaries Generated Pack (supplementaries)
+[08Jun2026 11:37:35.375] [pool-13-thread-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/data/recipes/RecipeCategory
+[08Jun2026 11:37:35.398] [Render thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 66 ms (multithreaded)
+[08Jun2026 11:37:35.399] [Render thread/INFO] [Moonlight/]: Generating runtime assets for pack Everycomp Generated Pack (everycomp)
+[08Jun2026 11:37:35.400] [Render thread/INFO] [Every Compat/]: Every Compat is starting dynamic server resources generation tasks: 19 in batches of 12
+[08Jun2026 11:37:35.794] [Render thread/INFO] [Every Compat/]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack (everycomp) in: 395 ms (multithreaded)
+[08Jun2026 11:37:35.794] [Render thread/INFO] [Moonlight/]: Finished runtime resources generation for 6 packs in a total of 462 ms
+[08Jun2026 11:37:35.795] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/RegistryLayer
+[08Jun2026 11:37:37.240] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/world/worldgen/islands/IslandPlacement
+[08Jun2026 11:37:37.326] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/JigsawBlockEntity$JointType
+[08Jun2026 11:37:37.378] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$MulOrAdd$Type
+[08Jun2026 11:37:38.107] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/PrimaryLevelData$SpecialWorldProperty
+[08Jun2026 11:37:38.157] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/CommandBuildContext$MissingTagAccessPolicy
+[08Jun2026 11:37:38.688] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/library/mod/CommandModule$SubCommands
+[08Jun2026 11:37:38.759] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/server/Commands
+[08Jun2026 11:37:38.772] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.TestPlots for plots
+[08Jun2026 11:37:38.777] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[08Jun2026 11:37:38.779] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[08Jun2026 11:37:38.793] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[08Jun2026 11:37:38.795] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[08Jun2026 11:37:38.795] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[08Jun2026 11:37:38.796] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[08Jun2026 11:37:38.796] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[08Jun2026 11:37:38.797] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[08Jun2026 11:37:38.797] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[08Jun2026 11:37:38.797] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[08Jun2026 11:37:38.797] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[08Jun2026 11:37:38.798] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ChannelTests for plots
+[08Jun2026 11:37:38.798] [Render thread/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[08Jun2026 11:37:38.798] [Render thread/INFO] [AE2:C/]: Scanning class de.mari_023.ae2wtlib.AE2WTLibTestPlots for plots
+[08Jun2026 11:37:38.908] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/mantle/command/DumpTagCommand$Action
+[08Jun2026 11:37:38.919] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/mantle/command/tags/ModifyTagCommand$Action
+[08Jun2026 11:37:38.934] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/mantle/command/HungerCommand$Operation
+[08Jun2026 11:37:39.781] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fan_transparent as it is missing following references: create:void_steel_bars (from createutilities-0.3.2+1.20.1.jar)
+[08Jun2026 11:37:39.797] [Worker-ResourceReload-14/INFO] [Mantle/]: Loaded 21 loot table injectors injecting into 19 tables in 70.601105 ms
+[08Jun2026 11:37:40.435] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/loot/functions/CopyNameFunction$NameSource
+[08Jun2026 11:37:40.442] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/loot/functions/CopyNbtFunction$MergeStrategy
+[08Jun2026 11:37:40.744] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/ItemStack$TooltipPart
+[08Jun2026 11:37:40.906] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[08Jun2026 11:37:40.908] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Rabbit$Variant
+[08Jun2026 11:37:40.910] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Llama$Variant
+[08Jun2026 11:37:40.912] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Parrot$Variant
+[08Jun2026 11:37:40.915] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[08Jun2026 11:37:40.917] [Worker-ResourceReload-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Base
+[08Jun2026 11:37:41.747] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/recipe/ingredient/chemical/ChemicalIngredientDeserializer$IngredientType
+[08Jun2026 11:37:41.776] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/recipe/ingredient/creator/ItemStackIngredientCreator$IngredientType
+[08Jun2026 11:37:41.868] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/recipe/ingredient/creator/FluidStackIngredientCreator$IngredientType
+[08Jun2026 11:37:41.874] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/bronze_plate recipe (vintageimprovements:rolling/bronze_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:41.886] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crafting/kinetics/fluid_tank: com.google.gson.JsonSyntaxException: Unknown item 'crystal_clear:copper_glass_casing'
+[08Jun2026 11:37:41.895] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
+[08Jun2026 11:37:41.901] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/manyullyn_plate recipe (vintageimprovements:rolling/manyullyn_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:41.902] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vectorwing/farmersdelight/client/recipebook/CookingPotRecipeBookTab
+[08Jun2026 11:37:41.911] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/queens_slime_plate recipe (vintageimprovements:rolling/queens_slime_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:41.914] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_raw_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:41.951] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/vanadium_plate recipe (vintageimprovements:rolling/vanadium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.004] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
+[08Jun2026 11:37:42.024] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/lumium_ingot recipe (vintageimprovements:rolling/lumium_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.029] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/silver_ingot_from_raw_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.032] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/brass_plate recipe (vintageimprovements:rolling/brass_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.045] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:blasting/silicon_from_certus_quartz_dust: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.047] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/invar_plate recipe (vintageimprovements:rolling/invar_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.052] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/enderium_plate recipe (vintageimprovements:rolling/enderium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.055] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.083] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/amethyst_bronze_plate recipe (vintageimprovements:rolling/amethyst_bronze_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.084] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/platinum_plate recipe (vintageimprovements:rolling/platinum_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.090] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_glowstone_ingot recipe (vintageimprovements:rolling/refined_glowstone_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.092] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:light_weighted_pressure_plate: com.google.gson.JsonSyntaxException: Unknown item 'ue_addons:golden_mechanism'
+[08Jun2026 11:37:42.093] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/gas: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.096] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardinverter: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.096] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe factory_blocks:mason_table_old: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'chipped:mason_table'
+[08Jun2026 11:37:42.127] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.128] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:gold_ingot_from_smelting_raw_gold: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.177] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:a_ue/new_mechanism/create/copper/tank: com.google.gson.JsonSyntaxException: Unknown item 'crystal_clear:copper_glass_casing'
+[08Jun2026 11:37:42.181] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdeco:pressing/zinc_sheet: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.189] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/netherite_rod recipe (vintageimprovements:rolling/netherite_rod) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.202] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/machine_catalyst_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.211] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:control_circuit/ultimate: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.235] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
+[08Jun2026 11:37:42.239] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_pink: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.241] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/carddistribution: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.261] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:smelting/silicon_from_certus_quartz_dust: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.283] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:smelting/ingot_uranium_compat_mekanism: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.295] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:sequenced_assembly/precision_mechanism: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.303] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (create:splashing/deep_gold) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.303] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_black: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.304] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardfuzzy: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.316] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/amethyst_bronze_ingot recipe (vintageimprovements:rolling/amethyst_bronze_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.318] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
+[08Jun2026 11:37:42.318] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/constantan_ingot recipe (vintageimprovements:rolling/constantan_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.344] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/shadow_steel recipe (vintageimprovements:rolling/shadow_steel) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.346] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:smelting/zinc_ingot_from_raw_ore: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.351] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/hepatizon_plate recipe (vintageimprovements:rolling/hepatizon_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.352] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/filter: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.353] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/anchor: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.361] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/nickel_ingot_from_raw_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.378] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (create:splashing/mekanism/crushed_raw_uranium) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.379] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
+[08Jun2026 11:37:42.387] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_obsidian_plate recipe (vintageimprovements:rolling/refined_obsidian_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.393] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_orange: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.393] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/andesite_alloy recipe (vintageimprovements:rolling/andesite_alloy) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.395] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_gray: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.395] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/rhodium_plate recipe (vintageimprovements:rolling/rhodium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.399] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_radiance_plate recipe (vintageimprovements:rolling/refined_radiance_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.400] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:copper_ingot_from_blasting_raw_copper: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.401] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/palladium_plate recipe (vintageimprovements:rolling/palladium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.406] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/vanadium_ingot recipe (vintageimprovements:rolling/vanadium_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.438] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/stone_generator: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.446] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:control_circuit/elite: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.447] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
+[08Jun2026 11:37:42.449] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/bronze_ingot recipe (vintageimprovements:rolling/bronze_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.460] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.479] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/lumium_plate recipe (vintageimprovements:rolling/lumium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.497] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/cobalt_plate recipe (vintageimprovements:rolling/cobalt_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.538] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/lead_ingot recipe (vintageimprovements:rolling/lead_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.552] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:netherite_scrap_from_blasting: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.555] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/rose_gold_plate recipe (vintageimprovements:rolling/rose_gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.566] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[08Jun2026 11:37:42.571] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:a_ue/mek/fisslie: com.google.gson.JsonSyntaxException: Invalid gas type 'mekanism:fissile'
+[08Jun2026 11:37:42.578] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/silver_plate recipe (vintageimprovements:rolling/silver_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.584] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.594] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:energy_cell_frame: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.600] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_brown: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.615] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:iron_ingot_from_smelting_raw_iron: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.616] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:control_circuit/advanced: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.636] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/pure_gold_plate recipe (vintageimprovements:rolling/pure_gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.641] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/side_config_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.663] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:crossbow: com.google.gson.JsonSyntaxException: Pattern references symbol '&' but it's not defined in the key
+[08Jun2026 11:37:42.671] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardenergy: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.679] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/energy: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.680] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/signalum_plate recipe (vintageimprovements:rolling/signalum_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.682] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:blasting/zinc_ingot_from_raw_ore: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.684] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/pig_iron_plate recipe (vintageimprovements:rolling/pig_iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.684] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.696] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/nickel_ingot_from_raw_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.705] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (create:splashing/calc_ame) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.712] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:netherite_scrap: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.732] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.752] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/slimesteel_plate recipe (vintageimprovements:rolling/slimesteel_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.773] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[08Jun2026 11:37:42.774] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/machine_efficiency_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.780] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/cobalt_ingot recipe (vintageimprovements:rolling/cobalt_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.784] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/tin_plate recipe (vintageimprovements:rolling/tin_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.801] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/clump/from_ore: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ore_uranium'
+[08Jun2026 11:37:42.802] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_purple: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.813] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
+[08Jun2026 11:37:42.840] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:a_ue/waste/iron/cut/cu_shears: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:iron_shears'
+[08Jun2026 11:37:42.842] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:fluid_cell_frame: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.860] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/osmium_plate recipe (vintageimprovements:rolling/osmium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.877] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[08Jun2026 11:37:42.884] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_light_gray: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.885] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardspeed: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.890] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardcapacity: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.905] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_blue: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.907] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_lime: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.913] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/hepatizon_ingot recipe (vintageimprovements:rolling/hepatizon_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.919] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/rose_gold_ingot recipe (vintageimprovements:rolling/rose_gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.933] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_dust_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:42.938] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.942] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_red: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.943] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/invar_ingot recipe (vintageimprovements:rolling/invar_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.948] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/uranium_ingot recipe (vintageimprovements:rolling/uranium_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.949] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/steel_ingot recipe (vintageimprovements:rolling/steel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.964] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/signalum_ingot recipe (vintageimprovements:rolling/signalum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.965] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
+[08Jun2026 11:37:42.967] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/silver_ingot recipe (vintageimprovements:rolling/silver_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:42.985] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/area_radius_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:42.989] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_glowstone_plate recipe (vintageimprovements:rolling/refined_glowstone_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.004] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/zinc_ingot recipe (vintageimprovements:rolling/zinc_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.008] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/lead_plate recipe (vintageimprovements:rolling/lead_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.013] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/enderium_ingot recipe (vintageimprovements:rolling/enderium_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.029] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/speed: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.030] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:control_circuit/basic: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.031] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/silver_ingot_from_raw_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.037] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/shard/from_ore: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ore_uranium'
+[08Jun2026 11:37:43.039] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/nickel_ingot recipe (vintageimprovements:rolling/nickel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.053] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.060] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.066] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_raw_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.080] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/queens_slime_ingot recipe (vintageimprovements:rolling/queens_slime_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.084] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdeco:pressing/andesite_sheet: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.093] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/manyullyn_ingot recipe (vintageimprovements:rolling/manyullyn_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.093] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_magenta: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.094] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/gravel: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.096] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardredstone: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.097] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/lead_ingot_from_raw_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.099] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (create:crushing/drip_ther) has more item outputs (10) than supported (7).
+[08Jun2026 11:37:43.100] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
+[08Jun2026 11:37:43.101] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
+[08Jun2026 11:37:43.109] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_light_blue: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.110] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (create:splashing/sand_dia) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.110] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe factory_blocks:mason_table: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'chipped:workbench'
+[08Jun2026 11:37:43.119] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/slabs: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.121] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_green: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.128] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:rails: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.129] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:gold_ingot_from_blasting_raw_gold: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.135] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
+[08Jun2026 11:37:43.149] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/slimesteel_ingot recipe (vintageimprovements:rolling/slimesteel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.179] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/xp_storage_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.184] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_dust_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.189] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/pig_iron_ingot recipe (vintageimprovements:rolling/pig_iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.196] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crafting/kinetics/item_vault: com.google.gson.JsonSyntaxException: Unknown item 'crystal_clear:andesite_glass_casing'
+[08Jun2026 11:37:43.210] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:copper_ingot_from_smelting_raw_copper: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.225] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (create:splashing/lime_cry) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.232] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
+[08Jun2026 11:37:43.234] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_ore_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.239] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/tin_ingot recipe (vintageimprovements:rolling/tin_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.239] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_cyan: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.240] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/tin_ingot_from_raw_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.240] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/cast_iron_plate recipe (vintageimprovements:rolling/cast_iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.241] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/andesite_plate recipe (vintageimprovements:rolling/andesite_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.255] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
+[08Jun2026 11:37:43.261] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
+[08Jun2026 11:37:43.270] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:a_ue/upgrades/th2/magnet: com.google.gson.JsonSyntaxException: Unknown item 'ue_addonsp2:magbet_driverexe'
+[08Jun2026 11:37:43.275] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/zinc_plate recipe (vintageimprovements:rolling/zinc_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.276] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_radiance recipe (vintageimprovements:rolling/refined_radiance) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.276] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:a_ue/upgrades/mek1/standby: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:upgrade_anthor'
+[08Jun2026 11:37:43.284] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/dynamo_fuel_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.286] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/aluminum_plate recipe (vintageimprovements:rolling/aluminum_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.292] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:augments/rs_control_augment: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.293] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/lead_ingot_from_raw_smelting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.296] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.300] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/nickel_plate recipe (vintageimprovements:rolling/nickel_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.300] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/osmium_ingot recipe (vintageimprovements:rolling/osmium_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.300] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:smelting/tin_ingot_from_raw_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.302] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/uranium_plate recipe (vintageimprovements:rolling/uranium_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.310] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardvoid: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.314] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/shadow_steel_plate recipe (vintageimprovements:rolling/shadow_steel_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.315] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/netherite_plate recipe (vintageimprovements:rolling/netherite_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.328] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
+[08Jun2026 11:37:43.335] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:processing/uranium/ingot/from_ore_blasting: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.338] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:upgrade/muffling: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.342] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_yellow: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.394] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:materials/cardcrafting: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.410] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
+[08Jun2026 11:37:43.413] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ae2:tools/paintballs_lumen_white: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.420] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintageimprovements:sequenced_assembly/redstone_module: com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was a number (0)
+[08Jun2026 11:37:43.421] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/constantan_plate recipe (vintageimprovements:rolling/constantan_plate) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.423] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:iron_ingot_from_blasting_raw_iron: com.google.gson.JsonSyntaxException: Missing value, expected to find a JsonObject
+[08Jun2026 11:37:43.428] [Render thread/WARN] [com.simibubi.create.Create/]: Your custom vintageimprovements:rolling/refined_obsidian_ingot recipe (vintageimprovements:rolling/refined_obsidian_ingot) specified a duration. Durations have no impact on this type of recipe.
+[08Jun2026 11:37:43.440] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 116 recipes
+[08Jun2026 11:37:43.642] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/advancements/triggers/UseGaugeDropperTrigger$UseDropperAction
+[08Jun2026 11:37:43.699] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8091 advancements
+[08Jun2026 11:37:43.728] [Render thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[08Jun2026 11:37:43.753] [Render thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08Jun2026 11:37:43.824] [Render thread/INFO] [net.blay09.mods.craftingtweaks.registry.JsonCompatLoader/]: storagenetwork has registered com.lothrazar.storagenetwork.block.request.ContainerNetworkCraftingTable for CraftingTweaks via data pack
+[08Jun2026 11:37:43.836] [Render thread/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 82 materials in 10.791 ms
+[08Jun2026 11:37:43.870] [Render thread/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 17 material tags for 68 materials in 33.2575 ms
+[08Jun2026 11:37:43.911] [Render thread/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 482 stats loaded for 86 materials in 40.4384 ms
+[08Jun2026 11:37:43.947] [Render thread/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 403 traits loaded for 86 materials in 35.7815 ms
+[08Jun2026 11:37:43.972] [Render thread/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_18701_(Minecraft.java:3941) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_246486_(WorldOpenFlows.java:163) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233122_(WorldOpenFlows.java:113) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.doLoadLevel(WorldOpenFlows.java:181) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233145_(WorldOpenFlows.java:169) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233133_(WorldOpenFlows.java:65) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_101744_(WorldSelectionList.java:575) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_101704_(WorldSelectionList.java:474) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_6375_(WorldSelectionList.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.components.AbstractSelectionList.m_6375_(AbstractSelectionList.java:298) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%2386!/:build 7]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%2398!/:build 7]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) ~[lwjgl-glfw-3.3.1.jar%2386!/:build 7]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:237) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1173) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[minecraft-1.20.1-client.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) ~[?:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:115) ~[?:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) ~[?:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) ~[?:?]
+[08Jun2026 11:37:43.977] [Render thread/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[08Jun2026 11:37:43.978] [Render thread/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23107!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.4.0-universal.jar%23431!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_18701_(Minecraft.java:3941) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_246486_(WorldOpenFlows.java:163) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233122_(WorldOpenFlows.java:113) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.doLoadLevel(WorldOpenFlows.java:181) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233145_(WorldOpenFlows.java:169) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.m_233133_(WorldOpenFlows.java:65) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_101744_(WorldSelectionList.java:575) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_101704_(WorldSelectionList.java:474) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.m_6375_(WorldSelectionList.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.components.AbstractSelectionList.m_6375_(AbstractSelectionList.java:298) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%2386!/:build 7]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%2398!/:build 7]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) ~[lwjgl-glfw-3.3.1.jar%2386!/:build 7]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:237) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1173) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23426!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[minecraft-1.20.1-client.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) ~[?:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:115) ~[?:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) ~[?:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) ~[?:?]
+[08Jun2026 11:37:43.981] [Render thread/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[08Jun2026 11:37:43.996] [Render thread/INFO] [tconstruct/]: Loaded 5 mob equipment replacements targeting 9 mobs in 6.7779 ms
+[08Jun2026 11:37:43.999] [Render thread/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 26 dynamic modifiers in 1.8046 ms
+[08Jun2026 11:37:44.080] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/library/json/math/PostFixOperator
+[08Jun2026 11:37:44.185] [Render thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 214 dynamic modifiers and 5 modifier redirects in 182.12529 ms
+[08Jun2026 11:37:44.210] [Render thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 48 modifier tags for 157 modifiers in 24.7624 ms
+[08Jun2026 11:37:44.211] [Render thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 57 enchantment to modifier mappings in 1.0764 ms
+[08Jun2026 11:37:44.216] [Render thread/INFO] [tconstruct/]: Loaded 66 spilling fluids in 5.0581 ms
+[08Jun2026 11:37:44.228] [Render thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[08Jun2026 11:37:44.240] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/mob_container/BuiltinAnimation$Type
+[08Jun2026 11:37:44.242] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/mob_container/DataDefinedCatchableMob$TickMode
+[08Jun2026 11:37:44.279] [Render thread/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 44 tool definitions in 27.6384 ms
+[08Jun2026 11:37:44.286] [Render thread/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 23 station slot layouts in 6.4757 ms
+[08Jun2026 11:37:44.390] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TagsUpdatedEvent$UpdateCause
+[08Jun2026 11:37:44.400] [Render thread/INFO] [Moonlight/]: Applied 18 data villager trades
+[08Jun2026 11:37:44.504] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/copycatsplus/copycats/foundation/copycat/StateType
+[08Jun2026 11:37:44.532] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jaquadro/minecraft/storagedrawers/api/storage/BlockType
+[08Jun2026 11:37:44.587] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[08Jun2026 11:37:44.602] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/track/TrackTargetingBehaviour$RenderedTrackOverlayType
+[08Jun2026 11:37:44.769] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4FrameOutputStream$FLG$Bits
+[08Jun2026 11:37:44.771] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4FrameOutputStream$BLOCKSIZE
+[08Jun2026 11:37:44.775] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/util/Native
+[08Jun2026 11:37:44.777] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/util/Utils
+[08Jun2026 11:37:44.783] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4Utils
+[08Jun2026 11:37:44.785] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/util/UnsafeUtils
+[08Jun2026 11:37:44.787] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/util/SafeUtils
+[08Jun2026 11:37:44.787] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4Constants
+[08Jun2026 11:37:44.788] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4UnsafeUtils
+[08Jun2026 11:37:44.789] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/jpountz/lz4/LZ4SafeUtils
+[08Jun2026 11:37:44.813] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting glitchcore/event/TagsUpdatedEvent$UpdateCause
+[08Jun2026 11:37:44.876] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/thermal/lib/util/recipes/internal/BaseMachineRecipe$RecipeType
+[08Jun2026 11:37:44.915] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/ContainerType
+[08Jun2026 11:37:45.015] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[08Jun2026 11:37:45.022] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[08Jun2026 11:37:45.195] [Render thread/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[08Jun2026 11:37:45.245] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
+[08Jun2026 11:37:45.248] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[08Jun2026 11:37:45.252] [Thread-93/INFO] [EMI/]: [EMI] Clearing data
+[08Jun2026 11:37:45.280] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/ui/Widget$DrawLayer
+[08Jun2026 11:37:45.284] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[08Jun2026 11:37:45.547] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
+[08Jun2026 11:37:45.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jun2026 11:37:45.548] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/quickplay/QuickPlayLog$Type
+[08Jun2026 11:37:45.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/world/StructureModifier$Phase
+[08Jun2026 11:37:45.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/data/TeamType
+[08Jun2026 11:37:45.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/api/property/PrivacyMode
+[08Jun2026 11:37:45.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/api/TeamRank
+[08Jun2026 11:37:45.845] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[08Jun2026 11:37:45.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/api/ProtectionPolicy
+[08Jun2026 11:37:45.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/ForceLoadMode
+[08Jun2026 11:37:45.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/AllyMode
+[08Jun2026 11:37:45.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/PvPMode
+[08Jun2026 11:37:45.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/PartyLimitMode
+[08Jun2026 11:37:45.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/reward/RewardAutoClaim
+[08Jun2026 11:37:45.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/ProgressionMode
+[08Jun2026 11:37:45.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/spectrelib/config/SpectreConfig$InstanceType
+[08Jun2026 11:37:45.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/world/logic/AncientToolItemListing
+[08Jun2026 11:37:45.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/worldgen/noise/ZoomLayer
+[08Jun2026 11:37:45.906] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[08Jun2026 11:37:46.662] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[08Jun2026 11:37:46.671] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: level_loading_screen
+[08Jun2026 11:37:46.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/VillageSiege$State
+[08Jun2026 11:37:46.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/ticks/TickPriority
+[08Jun2026 11:37:46.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/storage/IOWorker$Priority
+[08Jun2026 11:37:46.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/entity/Visibility
+[08Jun2026 11:37:46.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/entity/PersistentEntitySectionManager$ChunkLoadStatus
+[08Jun2026 11:37:46.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/level/FullChunkStatus
+[08Jun2026 11:37:46.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/WorldgenRandom$Algorithm
+[08Jun2026 11:37:47.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[08Jun2026 11:37:47.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/frequency/FrequencyManagerWrapper$Type
+[08Jun2026 11:37:47.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/slot/ContainerSlotType
+[08Jun2026 11:37:47.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossEvent$BossBarColor
+[08Jun2026 11:37:47.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossEvent$BossBarOverlay
+[08Jun2026 11:37:47.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundBossEventPacket$OperationType
+[08Jun2026 11:37:47.627] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[08Jun2026 11:37:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jun2026 11:37:47.635] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[08Jun2026 11:37:47.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/EmptyBlockGetter
+[08Jun2026 11:37:47.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction8
+[08Jun2026 11:37:47.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/level/ThreadedLevelLightEngine$TaskType
+[08Jun2026 11:37:47.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+[08Jun2026 11:37:48.033] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[08Jun2026 11:37:48.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/SupportType
+[08Jun2026 11:37:48.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
+[08Jun2026 11:37:48.152] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[08Jun2026 11:37:48.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[08Jun2026 11:37:48.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/WindmillBearingBlockEntity$RotationDirection
+[08Jun2026 11:37:48.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[08Jun2026 11:37:48.276] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/control/ISecurable$AccessMode
+[08Jun2026 11:37:48.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/control/IRedstoneControllable$ControlMode
+[08Jun2026 11:37:48.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/control/IReconfigurable$SideConfig
+[08Jun2026 11:37:48.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/StorageGroup
+[08Jun2026 11:37:48.311] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/core/util/filter/FilterHolderType
+[08Jun2026 11:37:48.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/slot/SlotOverlay
+[08Jun2026 11:37:48.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[08Jun2026 11:37:48.700] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jun2026 11:37:48.706] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1062 ms
+[08Jun2026 11:37:48.743] [Server thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered synced player tracker system: ftb_teams
+[08Jun2026 11:37:48.781] [Server thread/INFO] [FTB Quests/]: Loading quests from E:\PrismLauncher\instances\Create-Infinity Mechanism\minecraft\config\ftbquests\quests
+[08Jun2026 11:37:48.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/DependencyRequirement
+[08Jun2026 11:37:48.985] [Server thread/INFO] [FTB Quests/]: Loaded 9 chapter groups, 28 chapters, 367 quests, 0 reward tables
+[08Jun2026 11:37:49.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alpvax/mc/goprone/validation/Checks
+[08Jun2026 11:37:49.649] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[08Jun2026 11:37:50.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/border/BorderStatus
+[08Jun2026 11:37:50.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/ClaimExpirationManager
+[08Jun2026 11:37:50.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/LongRangePlayerTracker
+[08Jun2026 11:37:53.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/CraterType
+[08Jun2026 11:37:53.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/fallout/FalloutMode
+[08Jun2026 11:37:53.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/EnumStorageDirection
+[08Jun2026 11:37:53.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/OpCompareType
+[08Jun2026 11:37:53.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/multiblock/Structure$Axis
+[08Jun2026 11:37:53.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[08Jun2026 11:37:54.035] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/EnumSortType
+[08Jun2026 11:37:54.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jaquadro/minecraft/storagedrawers/api/storage/attribute/LockAttribute
+[08Jun2026 11:37:54.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[08Jun2026 11:37:54.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[08Jun2026 11:37:54.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[08Jun2026 11:37:54.134] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[08Jun2026 11:37:54.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/networking/GridFlags
+[08Jun2026 11:37:54.204] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/config/RelativeDirection
+[08Jun2026 11:37:54.204] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/config/LevelEmitterMode
+[08Jun2026 11:37:54.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/networking/events/GridPowerStorageStateChanged$PowerEventType
+[08Jun2026 11:37:54.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/helpers/externalstorage/GenericStackInv$Mode
+[08Jun2026 11:37:54.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/helpers/patternprovider/UnlockCraftingEvent
+[08Jun2026 11:37:54.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/blockentity/spatial/SpatialPylonBlockEntity$AxisPosition
+[08Jun2026 11:37:54.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/parts/encoding/EncodingMode
+[08Jun2026 11:37:54.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/Action
+[08Jun2026 11:37:54.338] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[08Jun2026 11:37:54.342] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[08Jun2026 11:37:54.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmBlockEntity$SelectionMode
+[08Jun2026 11:37:54.350] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/tunnel/BrassTunnelBlockEntity$SelectionMode
+[08Jun2026 11:37:54.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[08Jun2026 11:37:54.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/actors/roller/RollerBlockEntity$RollingMode
+[08Jun2026 11:37:54.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
+[08Jun2026 11:37:54.459] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/decoration/slidingDoor/DoorControl
+[08Jun2026 11:37:54.603] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[08Jun2026 11:37:54.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[08Jun2026 11:37:54.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/transport/BeltInventory$Ending
+[08Jun2026 11:37:54.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/item/ItemHelper$ExtractionCountMode
+[08Jun2026 11:37:54.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/AbortableIterationConsumer$Continuation
+[08Jun2026 11:37:54.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/crafter/MechanicalCrafterBlockEntity$Phase
+[08Jun2026 11:37:54.930] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[08Jun2026 11:37:54.980] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[08Jun2026 11:37:54.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[08Jun2026 11:37:55.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[08Jun2026 11:37:55.044] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[08Jun2026 11:37:55.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/negodya1/vintageimprovements/content/kinetics/curving_press/CurvingBehaviour$Mode
+[08Jun2026 11:37:55.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/control/MoveControl$Operation
+[08Jun2026 11:37:55.080] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[08Jun2026 11:37:55.109] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[08Jun2026 11:37:55.114] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[08Jun2026 11:37:55.129] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[08Jun2026 11:37:55.148] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[08Jun2026 11:37:55.151] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[08Jun2026 11:37:55.158] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[08Jun2026 11:37:55.160] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[08Jun2026 11:37:55.168] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[08Jun2026 11:37:55.173] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[08Jun2026 11:37:55.199] [Netty Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[08Jun2026 11:37:55.224] [Netty Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[08Jun2026 11:37:55.226] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/me/cluster/implementations/SpatialPylonCluster$Axis
+[08Jun2026 11:37:55.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[08Jun2026 11:37:55.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$CollisionRule
+[08Jun2026 11:37:55.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[08Jun2026 11:37:55.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[08Jun2026 11:37:55.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/content/transporter/TransporterStack$Path
+[08Jun2026 11:37:56.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[08Jun2026 11:37:56.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmInteractionPoint$Mode
+[08Jun2026 11:37:56.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/math/voxel/VoxelCuboid$WallRelative
+[08Jun2026 11:37:56.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/multiblock/FormationProtocol$StructureRequirement
+[08Jun2026 11:37:56.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/multiblock/FormationProtocol$CasingType
+[08Jun2026 11:37:56.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/math/voxel/VoxelCuboid$CuboidSide$Face
+[08Jun2026 11:37:56.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/loliball/appliedcreate/energy/MEGearboxBlockEntity$Mode
+[08Jun2026 11:37:57.287] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[08Jun2026 11:37:57.313] [Netty Local Client IO #0/INFO] [snownee.kiwi.Kiwi/]: Canceling Microsoft telemetry
+[08Jun2026 11:37:57.320] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/multiplayer/ClientRegistryLayer
+[08Jun2026 11:37:57.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Re_Construction[local:E:079e79b1] logged in with entity id 711 at (560.4123952221018, 71.65997473606869, 3.499898717847205)
+[08Jun2026 11:37:57.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[08Jun2026 11:37:57.456] [Netty Local Client IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[08Jun2026 11:37:57.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[08Jun2026 11:37:57.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[08Jun2026 11:37:57.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[08Jun2026 11:37:57.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[08Jun2026 11:37:57.512] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/common/minimap/waypoints/WaypointsSort
+[08Jun2026 11:37:57.525] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/hud/minimap/waypoint/WaypointColor
+[08Jun2026 11:37:57.527] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/hud/minimap/waypoint/WaypointPurpose
+[08Jun2026 11:37:57.529] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/common/minimap/waypoints/WaypointVisibilityType
+[08Jun2026 11:37:57.599] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: New Xaero hud session initialized!
+[08Jun2026 11:37:57.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Re_Construction加入了游戏
+[08Jun2026 11:37:57.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[08Jun2026 11:37:57.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbessentials/kit/KitManager
+[08Jun2026 11:37:57.903] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/ipnext/item/rule/file/RuleDefinition$Status
+[08Jun2026 11:37:57.957] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/ipn/api/IPNButton
+[08Jun2026 11:37:58.024] [Server thread/INFO] [Jade/]: Syncing config to Re_Construction (e67e0d71-cf0b-4ae7-b861-db0b86222c31)
+[08Jun2026 11:37:58.029] [Netty Local Client IO #0/INFO] [FTB Quests/]: Read 321284 bytes, 892 objects
+[08Jun2026 11:37:58.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/renderers/entities/funny/PickleData$PickleValues$State
+[08Jun2026 11:37:58.051] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[08Jun2026 11:37:58.051] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Loaded 798 build-in GUI hints
+[08Jun2026 11:37:58.052] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Effective GUI hints after merge: 798
+[08Jun2026 11:37:58.078] [Server thread/WARN] [mekanism.common.Mekanism/]: Failed to retrieve username for UUID 0d489492-0ce7-337e-b318-ec94e3efc637, you might want to add it to the JSON cache
+[08Jun2026 11:37:58.094] [Render thread/INFO] [Oculus/]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[08Jun2026 11:37:58.095] [Render thread/INFO] [Oculus/]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[08Jun2026 11:37:58.100] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[08Jun2026 11:37:58.153] [Render thread/WARN] [flywheel/]: Flywheel backend fell back from 'irisflw:iris_instancing' to 'flywheel:instancing'
+[08Jun2026 11:37:58.162] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.RenderSectionManager, which may cause instability.
+[08Jun2026 11:37:58.184] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[08Jun2026 11:37:58.185] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.tasks.ChunkBuilderMeshingTask, which may cause instability.
+[08Jun2026 11:37:58.225] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshFormats, which may cause instability.
+[08Jun2026 11:37:58.230] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshAttribute, which may cause instability.
+[08Jun2026 11:37:58.235] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/vertex/format/ChunkMeshAttribute
+[08Jun2026 11:37:58.241] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexFormat$Builder, which may cause instability.
+[08Jun2026 11:37:58.248] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexAttributeFormat, which may cause instability.
+[08Jun2026 11:37:58.255] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.DefaultChunkRenderer, which may cause instability.
+[08Jun2026 11:37:58.269] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.ShaderChunkRenderer, which may cause instability.
+[08Jun2026 11:37:58.290] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/irisshaders/iris/compat/sodium/impl/shader_overrides/IrisTerrainPass
+[08Jun2026 11:37:58.297] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/SharedQuadIndexBuffer$IndexType
+[08Jun2026 11:37:58.301] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/gl/tessellation/GlIndexType
+[08Jun2026 11:37:58.324] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.ChunkBuildBuffers, which may cause instability.
+[08Jun2026 11:37:58.350] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.builder.ChunkMeshBufferBuilder, which may cause instability.
+[08Jun2026 11:37:58.368] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.buffers.BakedChunkModelBuilder, which may cause instability.
+[08Jun2026 11:37:58.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/possible_triangle/flightlib/api/FlyingPose
+[08Jun2026 11:37:58.402] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/blockview/v2/FabricBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.blockview.v2.FabricBlockView)
+[08Jun2026 11:37:58.410] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/rendering/data/v1/RenderAttachedBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.rendering.data.v1.RenderAttachedBlockView)
+[08Jun2026 11:37:58.442] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/model/light/LightMode
+[08Jun2026 11:37:58.444] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.smooth.SmoothLightPipeline, which may cause instability.
+[08Jun2026 11:37:58.456] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline, which may cause instability.
+[08Jun2026 11:37:58.490] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [copycats] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer, which may cause instability.
+[08Jun2026 11:37:58.516] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [supplementaries] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.FluidRenderer, which may cause instability.
+[08Jun2026 11:37:58.551] [Render thread/INFO] [ChunkBuilder/]: Started 6 worker threads
+[08Jun2026 11:37:58.589] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/ChunkUpdateType
+[08Jun2026 11:37:58.686] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[08Jun2026 11:37:58.687] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[08Jun2026 11:37:58.729] [Render thread/INFO] [flywheel/]: Started 6 worker threads
+[08Jun2026 11:37:58.747] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: receiving_level_screen
+[08Jun2026 11:37:58.765] [Render thread/INFO] [Supplementaries/]: Synced Flute Songs
+[08Jun2026 11:37:58.766] [Render thread/INFO] [Supplementaries/]: Synced Captured Mobs settings
+[08Jun2026 11:37:58.766] [Render thread/INFO] [Supplementaries/]: Synced Globe data
+[08Jun2026 11:37:58.766] [Render thread/INFO] [Supplementaries/]: Synced Hourglass data
+[08Jun2026 11:37:58.873] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/meteorite_compass
+[08Jun2026 11:37:58.906] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/guide
+[08Jun2026 11:37:58.912] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/charged_certus_quartz_crystal
+[08Jun2026 11:37:58.966] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/towdium/pinin/searchers/Searcher$Logic
+[08Jun2026 11:38:00.482] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/core/localization/ButtonToolTips
+[08Jun2026 11:38:00.668] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/item/gear/ItemFreeRunners$FreeRunnerMode
+[08Jun2026 11:38:00.749] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$LOCK
+[08Jun2026 11:38:00.750] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$DIRECTION
+[08Jun2026 11:38:00.751] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$MATCH
+[08Jun2026 11:38:00.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrh0/createaddition/energy/WireType
+[08Jun2026 11:38:01.012] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[08Jun2026 11:38:01.151] [Render thread/INFO] [EMI/]: [EMI] Tags synchronized, reloading EMI
+[08Jun2026 11:38:01.151] [Render thread/INFO] [EMI/]: [EMI] Starting Reload
+[08Jun2026 11:38:01.152] [Thread-105/INFO] [EMI/]: [EMI] Starting EMI reload...
+[08Jun2026 11:38:01.152] [Thread-105/INFO] [EMI/]: [EMI] Clearing data
+[08Jun2026 11:38:01.201] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from emi
+[08Jun2026 11:38:01.211] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from emi in 10ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from copycats
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from copycats in 0ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from storagenetwork
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from storagenetwork in 0ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from ae2
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from ae2 in 0ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from supplementaries
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from supplementaries in 0ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from chisel
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from chisel in 0ms
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initializing plugin from jemi
+[08Jun2026 11:38:01.212] [Thread-105/INFO] [EMI/]: [EMI] Initialized plugin from jemi in 0ms
+[08Jun2026 11:38:01.214] [Thread-105/INFO] [EMI/]: [EMI] Processing tags
+[08Jun2026 11:38:01.313] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[08Jun2026 11:38:01.328] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[08Jun2026 11:38:01.328] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[08Jun2026 11:38:01.329] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[08Jun2026 11:38:01.345] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[08Jun2026 11:38:01.350] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/plugin/jei/util/ToolPartSubtypeInterpreter
+[08Jun2026 11:38:01.351] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/plugin/jei/util/ToolSubtypeInterpreter
+[08Jun2026 11:38:01.361] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 16.51 ms
+[08Jun2026 11:38:01.362] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[08Jun2026 11:38:01.369] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 7.141 ms
+[08Jun2026 11:38:01.372] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[08Jun2026 11:38:01.378] [Thread-105/INFO] [EMI/]: [EMI] Constructing index
+[08Jun2026 11:38:01.397] [Thread-105/INFO] [EMI/]: [EMI] Reloading item groups on client thread...
+[08Jun2026 11:38:01.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/filter/FilterItemStack$AttributeFilterItemStack$WhitelistMode
+[08Jun2026 11:38:01.601] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. 管理员用品
+[08Jun2026 11:38:01.777] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/railwayteam/railways/registry/CRCreativeModeTabs$RegistrateDisplayItemsGenerator$ItemOrdering$Type
+[08Jun2026 11:38:03.578] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. AE2无线终端（AE2WTLib）
+[08Jun2026 11:38:03.623] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/AllCreativeModeTabs$RegistrateDisplayItemsGenerator$ItemOrdering$Type
+[08Jun2026 11:38:04.154] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock$FaceShape
+[08Jun2026 11:38:04.185] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
+[08Jun2026 11:38:04.352] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hlysine/create_connected/content/copycat/slab/CopycatSlabBlock$FaceShape
+[08Jun2026 11:38:04.650] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[08Jun2026 11:38:04.966] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jaquadro/minecraft/storagedrawers/api/framing/FrameMaterial
+[08Jun2026 11:38:05.205] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Chisels & Bits Clipboard
+[08Jun2026 11:38:05.266] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/library/render/FluidTankRenderer$TooltipMode
+[08Jun2026 11:38:05.268] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 3.895 seconds
+[08Jun2026 11:38:05.272] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/plugin/jei/modifiers/ModifierBookmarkIngredientRenderer
+[08Jun2026 11:38:05.276] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/plugin/jei/modifiers/SlotIngredientRenderer
+[08Jun2026 11:38:05.280] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: tconstruct:jei_plugin took 11.15 milliseconds
+[08Jun2026 11:38:05.282] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/jei/ChemicalStackRenderer$TooltipMode
+[08Jun2026 11:38:05.292] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 3.918 s
+[08Jun2026 11:38:05.293] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[08Jun2026 11:38:05.295] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 2.619 ms
+[08Jun2026 11:38:05.295] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[08Jun2026 11:38:05.298] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 2.394 ms
+[08Jun2026 11:38:05.318] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[08Jun2026 11:38:05.338] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/api/gui/drawable/IDrawableAnimated$StartDirection
+[08Jun2026 11:38:05.342] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 22.07 milliseconds
+[08Jun2026 11:38:05.390] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: vintageimprovements:jei_plugin took 39.68 milliseconds
+[08Jun2026 11:38:05.417] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: tconstruct:jei_plugin took 26.08 milliseconds
+[08Jun2026 11:38:05.430] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/element/gauge/GaugeInfo
+[08Jun2026 11:38:05.432] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/element/gauge/GaugeOverlay
+[08Jun2026 11:38:05.436] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/element/GuiElement$ButtonBackground
+[08Jun2026 11:38:05.437] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/element/slot/SlotType
+[08Jun2026 11:38:05.438] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/element/progress/ProgressType
+[08Jun2026 11:38:05.468] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: mekanism:jei_plugin took 51.07 milliseconds
+[08Jun2026 11:38:05.497] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: thermal:expansion took 18.44 milliseconds
+[08Jun2026 11:38:05.509] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/compat/jei/category/MixingCategory$MixingType
+[08Jun2026 11:38:05.512] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/compat/jei/category/PackingCategory$PackingType
+[08Jun2026 11:38:05.543] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: create:jei_plugin took 46.16 milliseconds
+[08Jun2026 11:38:05.558] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 239.0 ms
+[08Jun2026 11:38:05.559] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[08Jun2026 11:38:05.566] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 7.976 ms
+[08Jun2026 11:38:05.567] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[08Jun2026 11:38:05.577] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 9.866 ms
+[08Jun2026 11:38:05.578] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[08Jun2026 11:38:05.580] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/api/recipe/RecipeIngredientRole
+[08Jun2026 11:38:05.598] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 19.88 ms
+[08Jun2026 11:38:05.599] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[08Jun2026 11:38:05.601] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbxmodcompat/ftbquests/jei/QuestRecipeManagerPlugin
+[08Jun2026 11:38:05.606] [Render thread/INFO] [mezz.jei.library.load.registration.AdvancedRegistration/]: Added recipe manager plugin: class dev.ftb.mods.ftbxmodcompat.ftbquests.jei.QuestRecipeManagerPlugin
+[08Jun2026 11:38:05.607] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbxmodcompat/ftbquests/jei/LootCrateRecipeManagerPlugin
+[08Jun2026 11:38:05.608] [Render thread/INFO] [mezz.jei.library.load.registration.AdvancedRegistration/]: Added recipe manager plugin: class dev.ftb.mods.ftbxmodcompat.ftbquests.jei.LootCrateRecipeManagerPlugin
+[08Jun2026 11:38:05.609] [Render thread/INFO] [mezz.jei.library.load.registration.AdvancedRegistration/]: Added recipe manager plugin: class cofh.thermal.expansion.compat.jei.plugins.PotionFluidRecipeManagerPlugin
+[08Jun2026 11:38:05.610] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 10.36 ms
+[08Jun2026 11:38:05.611] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[08Jun2026 11:38:05.632] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: sophisticatedcore:default took 20.51 milliseconds
+[08Jun2026 11:38:05.701] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: farmersdelight:jei_plugin took 53.29 milliseconds
+[08Jun2026 11:38:05.752] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: kiwi:customization took 49.42 milliseconds
+[08Jun2026 11:38:05.774] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/AllTags$AllRecipeSerializerTags
+[08Jun2026 11:38:05.826] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: vintageimprovements:jei_plugin took 72.32 milliseconds
+[08Jun2026 11:38:07.354] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: tconstruct:jei_plugin took 1.529 seconds
+[08Jun2026 11:38:07.450] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: mekanism:jei_plugin took 95.98 milliseconds
+[08Jun2026 11:38:07.501] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: thermal:expansion took 29.99 milliseconds
+[08Jun2026 11:38:07.633] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting plus/dragons/createcentralkitchen/foundation/data/tag/IntegrationItemTags
+[08Jun2026 11:38:08.960] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 1.459 seconds
+[08Jun2026 11:38:08.978] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create_central_kitchen:jei_plugin took 18.17 milliseconds
+[08Jun2026 11:38:08.985] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 3.373 s
+[08Jun2026 11:38:08.996] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[08Jun2026 11:38:09.012] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 15.87 ms
+[08Jun2026 11:38:09.015] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[08Jun2026 11:38:09.017] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[08Jun2026 11:38:09.035] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 17.67 ms
+[08Jun2026 11:38:09.038] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[08Jun2026 11:38:09.041] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 3.130 ms
+[08Jun2026 11:38:09.042] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 27.07 ms
+[08Jun2026 11:38:09.042] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[08Jun2026 11:38:09.046] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1417 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:09.053] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 4 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:09.055] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/data/SmelteryCompat
+[08Jun2026 11:38:09.057] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/data/SmelteryCompat$CompatType
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.058] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.059] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 52 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.060] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.061] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Sending Runtime: tconstruct:jei_plugin took 16.67 milliseconds
+[08Jun2026 11:38:09.063] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 2 net.minecraftforge.fluids.FluidStack
+[08Jun2026 11:38:09.063] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 20.06 ms
+[08Jun2026 11:38:09.063] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 7.734 s
+[08Jun2026 11:38:09.233] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
+[08Jun2026 11:38:09.415] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Minimap updated server level id: -1786020507 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jun2026 11:38:09.640] [Render thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: received server config settings
+[08Jun2026 11:38:09.653] [Render thread/INFO] [FTB Chunks/]: Loading FTB Chunks client data from world 77862a8a-b774-4aaf-a3fb-28b74c7b8ae9
+[08Jun2026 11:38:09.669] [Render thread/INFO] [Jade/]: Received config from the server: 
+[08Jun2026 11:38:09.690] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/impl/visualization/storage/Action
+[08Jun2026 11:38:09.707] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5507 advancements
+[08Jun2026 11:38:09.721] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 294.2 μs
+[08Jun2026 11:38:09.733] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 130.1 μs
+[08Jun2026 11:38:09.734] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/patchouli/client/book/EntryDisplayState
+[08Jun2026 11:38:09.746] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 123.9 μs
+[08Jun2026 11:38:09.748] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.606 ms
+[08Jun2026 11:38:09.749] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: thermal:energy_duct
+[08Jun2026 11:38:09.752] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 2.192 ms
+[08Jun2026 11:38:09.760] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: thermal:energy_duct
+[08Jun2026 11:38:09.764] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: thermal:fluid_duct
+[08Jun2026 11:38:09.771] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 2.682 ms
+[08Jun2026 11:38:09.792] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/potion_amplifier_augment
+[08Jun2026 11:38:09.804] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/rf_coil_storage_augment
+[08Jun2026 11:38:09.811] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:tools/detonator
+[08Jun2026 11:38:09.812] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:energy_cell_frame
+[08Jun2026 11:38:09.815] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:tools/xp_crystal
+[08Jun2026 11:38:09.826] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:fluid_cell_frame
+[08Jun2026 11:38:09.827] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/dynamo_output_augment
+[08Jun2026 11:38:09.835] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/area_radius_augment
+[08Jun2026 11:38:09.839] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:machine_frame
+[08Jun2026 11:38:09.841] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:rf_coil
+[08Jun2026 11:38:09.849] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/potion_duration_augment
+[08Jun2026 11:38:09.849] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/fluid_tank_augment
+[08Jun2026 11:38:09.861] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/rf_coil_xfer_augment
+[08Jun2026 11:38:09.884] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_speed_augment
+[08Jun2026 11:38:09.896] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_null_augment
+[08Jun2026 11:38:09.899] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/item_filter_augment
+[08Jun2026 11:38:09.899] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_output_augment
+[08Jun2026 11:38:09.906] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/xp_storage_augment
+[08Jun2026 11:38:09.910] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:fluid_cell_frame
+[08Jun2026 11:38:09.911] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_cycle_augment
+[08Jun2026 11:38:09.916] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/rf_coil_augment
+[08Jun2026 11:38:09.922] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_catalyst_augment
+[08Jun2026 11:38:09.930] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/dynamo_fuel_augment
+[08Jun2026 11:38:09.955] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:augments/machine_efficiency_augment
+[08Jun2026 11:38:09.956] [Render thread/WARN] [cofh.thermal.core.compat.patchouli.CraftingProcessor/]: Thermalpedia missing the crafting recipe: thermal:energy_cell_frame
+[08Jun2026 11:38:09.961] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 104.0 μs
+[08Jun2026 11:38:09.962] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 100.8 μs
+[08Jun2026 11:38:09.965] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 87.00 μs
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:single_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:stock_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:operation_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:slow_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:speed_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.967] [Render thread/WARN] [patchouli/]: Recipe storagenetwork:stack_upgrade (of type minecraft:crafting) not found
+[08Jun2026 11:38:09.973] [Render thread/INFO] [ModernFix/]: Cleared 0 unneeded book NBT tags
+[08Jun2026 11:38:12.178] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[08Jun2026 11:38:13.735] [Thread-105/INFO] [EMI/]: [EMI] Reloading item groups on client thread took 12338ms
+[08Jun2026 11:38:13.772] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 54 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:13.792] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 47 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:13.793] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 54 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:13.794] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 47 net.minecraft.world.item.ItemStack
+[08Jun2026 11:38:13.822] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/CameraAngleAnimationService$Mode
+[08Jun2026 11:38:13.858] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from emi
+[08Jun2026 11:38:13.862] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/api/material/Transparency
+[08Jun2026 11:38:13.862] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/api/material/DepthTest
+[08Jun2026 11:38:13.864] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/api/material/WriteMask
+[08Jun2026 11:38:13.868] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/gl/buffer/GlBufferUsage
+[08Jun2026 11:38:13.912] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08Jun2026 11:38:14.051] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/shader/ChunkFogMode
+[08Jun2026 11:38:14.058] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.ShaderType, which may cause instability.
+[08Jun2026 11:38:14.061] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/gl/shader/ShaderType
+[08Jun2026 11:38:14.084] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.GlProgram, which may cause instability.
+[08Jun2026 11:38:14.116] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/shader/ChunkShaderTextureSlot
+[08Jun2026 11:38:14.172] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/irisshaders/iris/shaderpack/properties/ParticleRenderingSettings
+[08Jun2026 11:38:14.192] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/odysseus/ithaka/digraph/util/fas/FeedbackArcSetPolicy
+[08Jun2026 11:38:14.244] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting glitchcore/event/client/LevelRenderEvent$Stage
+[08Jun2026 11:38:14.262] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/createmod/ponder/enums/PonderSpecialTextures
+[08Jun2026 11:38:14.300] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/irisshaders/iris/shaderpack/properties/CloudSetting
+[08Jun2026 11:38:14.302] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.CloudRenderer, which may cause instability.
+[08Jun2026 11:38:14.360] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/renderer/ItemInHandRenderer$HandRenderSelection
+[08Jun2026 11:38:14.369] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting customskinloader/log/Logger$Level
+[08Jun2026 11:38:14.633] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloading entity icon resources...
+[08Jun2026 11:38:14.645] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloaded entity icon resources!
+[08Jun2026 11:38:14.688] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from emi in 829ms
+[08Jun2026 11:38:14.688] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from copycats
+[08Jun2026 11:38:14.689] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from copycats in 0ms
+[08Jun2026 11:38:14.689] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from storagenetwork
+[08Jun2026 11:38:14.690] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from storagenetwork in 1ms
+[08Jun2026 11:38:14.691] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from ae2
+[08Jun2026 11:38:14.699] [Thread-105/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/core/localization/ItemModText
+[08Jun2026 11:38:14.711] [Thread-105/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/integration/modules/emi/EmiText
+[08Jun2026 11:38:14.730] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from ae2 in 39ms
+[08Jun2026 11:38:14.730] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from supplementaries
+[08Jun2026 11:38:14.772] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from supplementaries in 42ms
+[08Jun2026 11:38:14.772] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from chisel
+[08Jun2026 11:38:14.777] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from chisel in 5ms
+[08Jun2026 11:38:14.777] [Thread-105/INFO] [EMI/]: [EMI] Loading plugin from jemi
+[08Jun2026 11:38:14.777] [Thread-105/INFO] [EMI/]: [EMI] [JEMI] Waiting for JEI to finish reloading...
+[08Jun2026 11:38:14.777] [Thread-105/INFO] [EMI/]: [EMI] Waiting for JEI to finish...
+[08Jun2026 11:38:14.777] [Thread-105/INFO] [EMI/]: [EMI] [JEMI] JEI reloaded!
+[08Jun2026 11:38:14.789] [Thread-105/INFO] [EMI/]: [EMI] Loading information from JEI...
+[08Jun2026 11:38:14.792] [Thread-105/INFO] [EMI/]: [EMI] Processing JEI stacks...
+[08Jun2026 11:38:14.793] [Thread-105/INFO] [EMI/]: [EMI] Processing JEI subtypes...
+[08Jun2026 11:38:14.803] [Thread-105/INFO] [EMI/]: [EMI] Processing JEI recipes...
+[08Jun2026 11:38:15.230] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
+[08Jun2026 11:38:15.284] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/sound/SoundScapes$AmbienceGroup
+[08Jun2026 11:38:15.312] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrh0/createaddition/sound/CASoundScapes$AmbienceGroup
+[08Jun2026 11:38:15.345] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/impl/visual/TickableVisualContextImpl
+[08Jun2026 11:38:15.465] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 3 with 19 nodes built with 21 variants, 17 ingredients, and 10 recipes
+[08Jun2026 11:38:15.477] [Thread-105/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/util/UnitDisplayUtils$RadiationUnit
+[08Jun2026 11:38:15.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/api/behaviors/PickupStrategy$Result
+[08Jun2026 11:38:15.948] [Re_Construction/INFO] [com.teampotato.redirector.Redirector/]: Redirecting customskinloader/utils/TextureUtil$AuthlibField
+[08Jun2026 11:38:15.963] [Re_Construction/INFO] [com.teampotato.redirector.Redirector/]: Redirecting customskinloader/profile/ModelManager0$Model
+[08Jun2026 11:38:16.075] [Flywheel Task Executor #2/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.model.BakedModelEncoder, which may cause instability.
+[08Jun2026 11:38:16.087] [Flywheel Task Executor #2/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.serializers.VertexSerializerRegistryImpl, which may cause instability.
+[08Jun2026 11:38:16.112] [Flywheel Task Executor #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/api/material/CardinalLightingMode
+[08Jun2026 11:38:16.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
+[08Jun2026 11:38:16.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[08Jun2026 11:38:16.499] [Chunk Render Task Executor #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/world/biome/BiomeColorSource
+[08Jun2026 11:38:16.501] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/compile/PipelineCompiler$OitMode
+[08Jun2026 11:38:16.506] [Chunk Render Task Executor #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/render/chunk/terrain/material/parameters/AlphaCutoffParameter
+[08Jun2026 11:38:16.510] [Chunk Render Task Executor #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadOrientation
+[08Jun2026 11:38:16.524] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/glsl/generate/GlslBuilder$Separators
+[08Jun2026 11:38:16.531] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/glsl/generate/BinOp
+[08Jun2026 11:38:16.539] [Chunk Render Task Executor #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/embeddium/render/chunk/sorting/TranslucentQuadAnalyzer$Level
+[08Jun2026 11:38:16.542] [Thread-105/INFO] [EMI/]: [EMI] Reloaded plugin from jemi in 1765ms
+[08Jun2026 11:38:16.542] [Thread-105/INFO] [EMI/]: [EMI] Baking index
+[08Jun2026 11:38:16.546] [Thread-105/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/api/runtime/IEditModeConfig$HideMode
+[08Jun2026 11:38:16.649] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/gl/GlPrimitive
+[08Jun2026 11:38:16.712] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08Jun2026 11:38:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[08Jun2026 11:38:16.879] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.region.RenderRegion$DeviceResources, which may cause instability.
+[08Jun2026 11:38:16.884] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/gl/buffer/GlBufferUsage
+[08Jun2026 11:38:16.920] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/gl/tessellation/GlPrimitiveType
+[08Jun2026 11:38:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[08Jun2026 11:38:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[08Jun2026 11:38:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/ae2:spatial_storage
+[08Jun2026 11:38:17.074] [Chunk Render Task Executor #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/athena/api/client/utils/AthenaUtils$UrMom
+[08Jun2026 11:38:17.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[08Jun2026 11:38:17.479] [Thread-105/INFO] [EMI/]: [EMI] Registering late recipes
+[08Jun2026 11:38:17.516] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 32.267555 seconds
+[08Jun2026 11:38:17.517] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 159.74356 seconds
+[08Jun2026 11:38:17.875] [Thread-105/INFO] [EMI/]: [EMI] Baking recipes
+[08Jun2026 11:38:22.696] [Thread-105/INFO] [EMI/]: [EMI] Baked 43858 recipes in 4817ms
+[08Jun2026 11:38:22.745] [Thread-105/INFO] [EMI/]: [EMI] Baking search
+[08Jun2026 11:38:22.877] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Exception when loading ue_addons:iron_f texture, using material colour.
+[08Jun2026 11:38:22.877] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No texture minecraft:textures/missingno.png
+[08Jun2026 11:38:27.315] [Thread-106/INFO] [EMI/]: [EMI] Baked recipes after reload in 4621ms
+[08Jun2026 11:38:27.493] [Thread-105/INFO] [EMI/]: [EMI] Finishing up
+[08Jun2026 11:38:27.535] [Thread-105/INFO] [EMI/]: [EMI] Reloaded EMI in 26383ms
+[08Jun2026 11:40:22.906] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[08Jun2026 11:40:22.911] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[08Jun2026 11:40:22.914] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[08Jun2026 11:40:42.572] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/hud/minimap/compass/render/CardinalDirection
+[08Jun2026 11:40:43.275] [Chunk Render Task Executor #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/render/obj/TransmitterModelConfiguration$IconStatus
+[08Jun2026 11:40:43.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/math/voxel/VoxelCuboid$CuboidRelative
+[08Jun2026 11:40:44.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[08Jun2026 11:40:46.184] [Chunk Render Task Executor #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$AttachmentTypes
+[08Jun2026 11:40:46.745] [Flywheel Task Executor #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/engine_room/flywheel/backend/engine/LightDataCollector$Fast$SectionEdge
+[08Jun2026 11:40:46.786] [Chunk Render Task Executor #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting team/chisel/ctm/client/texture/ctx/OffsetProviderRegistry
+[08Jun2026 11:41:12.149] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: inventory_screen
+[08Jun2026 11:41:16.986] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: creative_mode_inventory_screen
+[08Jun2026 11:41:17.012] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/common/gui/layout/Overflow
+[08Jun2026 11:41:17.129] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/common/gui/layout/Axis
+[08Jun2026 11:41:17.131] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/common/gui/layout/FlexDirection
+[08Jun2026 11:41:17.152] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/reward/RewardClaimType
+[08Jun2026 11:41:17.190] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/client/extensions/common/IClientItemExtensions$FontContext
+[08Jun2026 11:41:22.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23429ms or 468 ticks behind
+[08Jun2026 11:41:27.880] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08Jun2026 11:41:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[08Jun2026 11:41:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[08Jun2026 11:41:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[08Jun2026 11:41:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/ae2:spatial_storage
+[08Jun2026 11:41:40.750] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/anti_ad/mc/ipnext/inventory/scrolling/ScrollDirection
+[08Jun2026 11:41:41.889] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/client/util/VertexDataUtils$1Corner
+[08Jun2026 11:41:50.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12332ms or 246 ticks behind
+[08Jun2026 11:41:51.016] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: dev.emi.emi.screen.RecipeScreen
+[08Jun2026 11:41:51.025] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/screen/RecipeDisplay$ButtonType
+[08Jun2026 11:41:51.078] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/bom/BoM$DefaultStatus
+[08Jun2026 11:41:53.195] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/bom/FoldState
+[08Jun2026 11:41:53.196] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/bom/ProgressState
+[08Jun2026 11:42:01.991] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/search/QueryType
+[08Jun2026 11:42:06.963] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/emi/emi/api/recipe/handler/EmiCraftContext$Destination
+[08Jun2026 11:42:18.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13583ms or 271 ticks behind
+[08Jun2026 11:42:22.109] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/blaze3d/platform/GlStateManager$LogicOp
+[08Jun2026 11:42:26.061] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting guideme/internal/GuidebookText
+[08Jun2026 11:42:43.120] [Flywheel Task Executor #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/waterwheel/WaterWheelRenderer$Variant
+[08Jun2026 11:42:45.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/transfer/FluidDrainingBehaviour$FluidBlockType
+[08Jun2026 11:42:45.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11362ms or 227 ticks behind
+[08Jun2026 11:43:06.271] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/redstone/link/controller/LinkedControllerItemRenderer$RenderType
+[08Jun2026 11:43:06.280] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/client/gui/GuiUtils$TilingDirection
+[08Jun2026 11:43:21.390] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: dev.ftb.mods.ftblibrary.ui.ScreenWrapper
+[08Jun2026 11:43:21.462] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/ui/WidgetType
+[08Jun2026 11:43:21.520] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/ui/CursorType
+[08Jun2026 11:43:47.426] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/naturescompass/util/CompassState
+[08Jun2026 11:43:56.977] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/api/ui/IElement$Align
+[08Jun2026 11:44:15.635] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/Minecraft$ChatStatus
+[08Jun2026 11:44:16.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/mari_023/ae2wtlib/wct/magnet_card/MagnetMode
+[08Jun2026 11:44:23.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[08Jun2026 11:44:26.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Jun2026 11:44:26.528] [Render thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/gui/components/toasts/Toast$Visibility
+[08Jun2026 11:44:26.531] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5508 advancements
+[08Jun2026 11:44:31.591] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08Jun2026 11:44:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[08Jun2026 11:44:31.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[08Jun2026 11:44:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[08Jun2026 11:44:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/ae2:spatial_storage
+[08Jun2026 11:44:48.346] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08Jun2026 11:44:48.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[08Jun2026 11:44:48.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[08Jun2026 11:44:48.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[08Jun2026 11:44:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/ae2:spatial_storage
+[08Jun2026 11:44:49.018] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[08Jun2026 11:44:49.019] [Thread-161/INFO] [EMI/]: [EMI] Clearing data
+[08Jun2026 11:44:49.022] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[08Jun2026 11:44:49.023] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[08Jun2026 11:44:49.023] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[08Jun2026 11:44:49.023] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[08Jun2026 11:44:49.023] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[08Jun2026 11:44:49.024] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[08Jun2026 11:44:49.026] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 2.914 ms
+[08Jun2026 11:44:49.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Re_Construction lost connection: 连接中断
+[08Jun2026 11:44:49.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Re_Construction退出了游戏
+[08Jun2026 11:44:49.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[08Jun2026 11:44:49.190] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
+[08Jun2026 11:44:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jun2026 11:44:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jun2026 11:44:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jun2026 11:44:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[08Jun2026 11:44:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[08Jun2026 11:44:53.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[08Jun2026 11:44:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/ae2:spatial_storage
+[08Jun2026 11:44:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[08Jun2026 11:44:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jun2026 11:44:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jun2026 11:44:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[08Jun2026 11:44:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jun2026 11:44:53.753] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[08Jun2026 12:23:45.364] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[08Jun2026 12:23:45.375] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[08Jun2026 12:23:45.381] [Thread-164/INFO] [EMI/]: [EMI] Clearing data
+[08Jun2026 12:23:45.502] [Render thread/INFO] [FTB Chunks/]: Shutting down map thread
